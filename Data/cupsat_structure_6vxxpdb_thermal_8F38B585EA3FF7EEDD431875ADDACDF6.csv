@@ -1,0 +1,3394 @@
+Chain;Wild type AA;Residue ID;SS element;Solvent accessibility;Torsion angle phi;Torsion angle psi
+A;GLN;14;Other (turns, coils, etc.);77.83;0.0;-81.7
+A;CYS;15;Other (turns, coils, etc.);12.11;-57.8;158.8
+A;VAL;16;Other (turns, coils, etc.);40.99;-139.8;156.9
+A;ASN;17;Other (turns, coils, etc.);56.01;-66.4;144.9
+A;LEU;18;Other (turns, coils, etc.);4.92;-94.3;123.7
+A;THR;19;Other (turns, coils, etc.);47.58;-104.4;168.5
+A;THR;20;Other (turns, coils, etc.);72.1;61.0;61.4
+A;ARG;21;Other (turns, coils, etc.);23.58;-129.4;130.9
+A;THR;22;Other (turns, coils, etc.);32.44;-82.6;122.9
+A;GLN;23;Other (turns, coils, etc.);78.39;-96.7;100.0
+A;LEU;24;Other (turns, coils, etc.);44.24;-117.0;133.7
+A;PRO;25;Other (turns, coils, etc.);75.41;-53.1;150.3
+A;PRO;26;Other (turns, coils, etc.);27.48;-70.2;167.3
+A;ALA;27;Sheet;30.85;-89.4;169.4
+A;TYR;28;Sheet;73.47;-119.9;137.5
+A;THR;29;Sheet;15.86;-134.9;-174.7
+A;ASN;30;Sheet;47.13;-136.2;160.9
+A;SER;31;Sheet;0.85;-107.5;105.6
+A;PHE;32;Other (turns, coils, etc.);39.86;-57.8;-55.5
+A;THR;33;Other (turns, coils, etc.);7.21;-148.4;18.5
+A;ARG;34;Other (turns, coils, etc.);6.11;-81.2;162.5
+A;GLY;35;Other (turns, coils, etc.);1.27;86.1;5.2
+A;VAL;36;Sheet;0.65;-76.5;134.9
+A;TYR;37;Sheet;0.0;-136.1;163.6
+A;TYR;38;Other (turns, coils, etc.);4.68;-71.8;122.3
+A;PRO;39;Other (turns, coils, etc.);19.73;-70.2;-38.3
+A;ASP;40;Other (turns, coils, etc.);27.76;-138.9;172.3
+A;LYS;41;Other (turns, coils, etc.);34.03;-96.1;15.8
+A;VAL;42;Sheet;4.55;-78.7;131.1
+A;PHE;43;Sheet;1.0;-80.0;132.9
+A;ARG;44;Other (turns, coils, etc.);7.86;-137.9;136.5
+A;SER;45;Other (turns, coils, etc.);0.0;-133.8;131.7
+A;SER;46;Other (turns, coils, etc.);54.61;59.9;45.1
+A;VAL;47;Sheet;15.61;-141.9;158.0
+A;LEU;48;Sheet;32.77;-112.6;120.5
+A;HIS;49;Sheet;28.04;-117.2;136.7
+A;SER;50;Sheet;38.4;-108.8;130.4
+A;THR;51;Sheet;18.75;-145.3;151.9
+A;GLN;52;Sheet;45.35;-122.4;123.1
+A;ASP;53;Sheet;29.15;-157.0;177.1
+A;LEU;54;Sheet;16.93;-67.6;116.1
+A;PHE;55;Sheet;0.0;-132.5;161.6
+A;LEU;56;Other (turns, coils, etc.);0.0;-81.5;123.0
+A;PRO;57;Other (turns, coils, etc.);8.46;-67.7;146.8
+A;PHE;58;Other (turns, coils, etc.);7.47;-66.5;137.6
+A;PHE;59;Other (turns, coils, etc.);48.33;55.7;34.3
+A;SER;60;Sheet;15.36;-69.9;154.6
+A;ASN;61;Sheet;78.55;-70.1;122.9
+A;VAL;62;Sheet;0.0;-121.6;134.7
+A;THR;63;Sheet;18.75;-92.8;131.3
+A;TRP;64;Sheet;7.9;-111.3;115.8
+A;PHE;65;Sheet;5.48;-111.2;128.9
+A;HIS;66;Sheet;16.49;-143.2;128.6
+A;ALA;67;Sheet;7.26;-91.9;107.4
+A;ILE;68;Other (turns, coils, etc.);29.19;-118.6;127.0
+A;HIS;69;Other (turns, coils, etc.);7.7;-124.8;30.8
+A;VAL;70;Other (turns, coils, etc.);51.4;-60.1;146.2
+A;SER;71;Helix;100.68;-67.5;-40.0
+A;GLY;72;Helix;83.86;-77.1;1.0
+A;THR;73;Helix;38.21;-99.5;0.7
+A;ASN;74;Other (turns, coils, etc.);113.39;66.7;16.4
+A;GLY;75;Other (turns, coils, etc.);43.2;145.8;-14.1
+A;THR;76;Other (turns, coils, etc.);29.56;-58.5;19.4
+A;LYS;77;Other (turns, coils, etc.);16.04;-59.7;129.3
+A;ARG;78;Other (turns, coils, etc.);10.04;-146.4;146.3
+A;PHE;79;Other (turns, coils, etc.);0.5;-106.9;-15.6
+A;ASP;80;Other (turns, coils, etc.);8.33;39.4;60.1
+A;ASN;81;Other (turns, coils, etc.);19.81;-120.8;102.2
+A;PRO;82;Other (turns, coils, etc.);32.42;-123.5;179.0
+A;VAL;83;Other (turns, coils, etc.);39.69;-96.2;124.1
+A;LEU;84;Sheet;9.83;-111.3;139.6
+A;PRO;85;Sheet;38.76;-66.6;153.7
+A;PHE;86;Other (turns, coils, etc.);8.47;-105.5;99.9
+A;ASN;87;Other (turns, coils, etc.);45.77;-101.5;100.6
+A;ASP;88;Other (turns, coils, etc.);61.07;42.5;38.4
+A;GLY;89;Other (turns, coils, etc.);0.0;100.9;146.4
+A;VAL;90;Sheet;0.0;-132.7;158.0
+A;TYR;91;Sheet;0.0;-112.8;131.9
+A;PHE;92;Sheet;0.0;-127.4;124.3
+A;ALA;93;Sheet;0.0;-123.2;132.8
+A;SER;94;Sheet;3.41;-121.0;129.7
+A;THR;95;Sheet;1.44;-113.2;105.4
+A;GLU;96;Sheet;1.72;-140.3;170.6
+A;LYS;97;Other (turns, coils, etc.);11.18;-127.0;-26.9
+A;SER;98;Other (turns, coils, etc.);5.12;-99.1;7.7
+A;ASN;99;Other (turns, coils, etc.);18.44;57.7;37.1
+A;ILE;100;Other (turns, coils, etc.);2.7;-62.7;-41.2
+A;ILE;101;Sheet;12.43;-69.1;119.2
+A;ARG;102;Sheet;5.24;-111.4;-15.9
+A;GLY;103;Sheet;3.81;155.4;-161.7
+A;TRP;104;Sheet;7.48;-149.6;150.1
+A;ILE;105;Sheet;0.0;-120.3;134.5
+A;PHE;106;Sheet;0.0;-127.9;126.3
+A;GLY;107;Sheet;0.0;-170.8;162.9
+A;THR;108;Other (turns, coils, etc.);17.3;-74.0;-55.8
+A;THR;109;Other (turns, coils, etc.);37.49;-107.7;-35.1
+A;LEU;110;Other (turns, coils, etc.);6.01;74.6;12.0
+A;ASP;111;Sheet;34.0;-113.9;12.4
+A;SER;112;Other (turns, coils, etc.);29.01;81.1;2.6
+A;LYS;113;Other (turns, coils, etc.);47.64;-81.9;-15.8
+A;THR;114;Other (turns, coils, etc.);24.51;-136.8;152.2
+A;GLN;115;Other (turns, coils, etc.);6.16;-59.0;138.2
+A;SER;116;Sheet;0.0;-129.9;157.6
+A;LEU;117;Sheet;0.0;-105.5;129.8
+A;LEU;118;Sheet;1.09;-114.4;124.8
+A;ILE;119;Sheet;3.24;-120.5;117.5
+A;VAL;120;Sheet;2.6;-148.3;138.0
+A;ASN;121;Sheet;23.22;-101.3;113.2
+A;ASN;122;Other (turns, coils, etc.);38.93;-66.4;-61.8
+A;ALA;123;Other (turns, coils, etc.);16.33;-154.7;-23.3
+A;THR;124;Other (turns, coils, etc.);26.68;-126.3;-45.1
+A;ASN;125;Other (turns, coils, etc.);12.98;-128.3;140.4
+A;VAL;126;Sheet;33.83;-71.2;129.6
+A;VAL;127;Sheet;15.61;-121.5;128.4
+A;ILE;128;Sheet;3.78;-124.4;116.4
+A;LYS;129;Sheet;15.07;-128.7;138.4
+A;VAL;130;Sheet;0.0;-113.0;116.6
+A;CYS;131;Sheet;0.0;-159.2;157.7
+A;GLU;132;Other (turns, coils, etc.);10.3;-78.0;80.3
+A;PHE;133;Other (turns, coils, etc.);0.0;-83.2;133.5
+A;GLN;134;Sheet;36.95;-82.6;80.3
+A;PHE;135;Sheet;7.47;-66.0;143.6
+A;CYS;136;Sheet;14.96;-96.8;168.3
+A;ASN;137;Sheet;89.48;-60.3;-43.6
+A;ASP;138;Sheet;12.49;-110.4;103.4
+A;PRO;139;Sheet;0.0;-96.2;115.9
+A;PHE;140;Sheet;0.0;-146.5;170.6
+A;LEU;141;Sheet;0.0;-119.0;153.0
+A;GLY;142;Sheet;2.54;-126.3;138.6
+A;VAL;143;Sheet;5.2;-120.7;145.0
+A;TYR;144;Sheet;45.86;-117.2;133.3
+A;TYR;145;Sheet;29.01;-103.9;112.2
+A;HIS;146;Sheet;27.49;-87.5;120.7
+A;LYS;147;Other (turns, coils, etc.);64.17;-75.6;-34.2
+A;ASN;148;Other (turns, coils, etc.);87.43;-62.2;-49.7
+A;ASN;149;Other (turns, coils, etc.);84.02;-119.7;117.7
+A;LYS;150;Other (turns, coils, etc.);69.03;-66.6;91.8
+A;SER;151;Sheet;34.98;-146.7;166.0
+A;TRP;152;Sheet;27.44;-141.6;126.6
+A;MET;153;Other (turns, coils, etc.);67.97;-107.9;-6.0
+A;GLU;154;Other (turns, coils, etc.);16.03;51.2;73.2
+A;SER;155;Sheet;70.82;-100.5;-156.6
+A;GLU;156;Sheet;20.61;43.4;50.9
+A;PHE;157;Sheet;38.37;-79.8;114.3
+A;ARG;158;Sheet;23.58;-158.8;58.7
+A;VAL;159;Sheet;0.0;-72.8;-40.6
+A;TYR;160;Sheet;20.12;-134.6;164.4
+A;SER;161;Other (turns, coils, etc.);46.93;-103.6;-15.7
+A;SER;162;Other (turns, coils, etc.);42.66;-161.1;164.6
+A;ALA;163;Other (turns, coils, etc.);43.56;-127.2;179.3
+A;ASN;164;Other (turns, coils, etc.);62.16;-146.8;-123.9
+A;ASN;165;Other (turns, coils, etc.);65.57;-63.4;-43.2
+A;CYS;166;Other (turns, coils, etc.);29.91;61.2;65.6
+A;THR;167;Other (turns, coils, etc.);43.98;-67.3;-26.0
+A;PHE;168;Sheet;20.93;-136.6;132.9
+A;GLU;169;Sheet;56.1;-135.6;135.4
+A;TYR;170;Sheet;48.67;-147.6;120.0
+A;VAL;171;Sheet;55.95;-130.9;126.7
+A;SER;172;Other (turns, coils, etc.);13.65;-82.9;162.0
+A;GLN;173;Other (turns, coils, etc.);72.79;-61.9;148.9
+A;PRO;174;Other (turns, coils, etc.);71.18;-68.1;138.8
+A;PHE;175;Other (turns, coils, etc.);54.81;-121.6;-155.4
+A;LEU;176;Other (turns, coils, etc.);86.29;-147.9;154.4
+A;MET;177;Other (turns, coils, etc.);34.98;-149.0;153.4
+A;ASP;178;Other (turns, coils, etc.);61.76;-71.7;146.4
+A;LEU;179;Other (turns, coils, etc.);13.65;-117.2;-1.9
+A;GLU;180;Other (turns, coils, etc.);20.03;-119.9;-78.1
+A;GLY;181;Other (turns, coils, etc.);26.68;45.3;42.3
+A;LYS;182;Other (turns, coils, etc.);43.27;-94.9;88.5
+A;GLN;183;Other (turns, coils, etc.);58.79;-109.2;4.5
+A;GLY;184;Other (turns, coils, etc.);53.37;117.6;-111.0
+A;ASN;185;Other (turns, coils, etc.);46.45;-59.6;141.8
+A;PHE;186;Other (turns, coils, etc.);6.98;-64.8;142.6
+A;LYS;187;Other (turns, coils, etc.);39.38;-123.4;-11.8
+A;ASN;188;Other (turns, coils, etc.);19.13;-86.6;-52.4
+A;LEU;189;Other (turns, coils, etc.);1.09;48.5;64.0
+A;ARG;190;Sheet;31.44;-87.0;124.4
+A;GLU;191;Sheet;0.0;-111.7;129.0
+A;PHE;192;Sheet;16.44;-131.2;140.2
+A;VAL;193;Sheet;0.0;-119.9;132.4
+A;PHE;194;Sheet;0.0;-119.0;127.5
+A;LYS;195;Sheet;2.92;-136.1;130.6
+A;ASN;196;Sheet;31.42;-114.5;113.5
+A;ILE;197;Sheet;37.84;-147.6;134.4
+A;ASP;198;Other (turns, coils, etc.);48.58;47.1;42.7
+A;GLY;199;Other (turns, coils, etc.);12.71;78.2;3.0
+A;TYR;200;Sheet;12.63;-113.4;129.2
+A;PHE;201;Sheet;0.0;-97.9;113.7
+A;LYS;202;Sheet;18.96;-104.4;125.5
+A;ILE;203;Sheet;4.32;-116.1;128.5
+A;TYR;204;Sheet;6.55;-116.6;140.3
+A;SER;205;Sheet;26.45;-139.9;155.0
+A;LYS;206;Sheet;30.14;-154.0;148.6
+A;HIS;207;Sheet;48.93;-132.2;125.3
+A;THR;208;Other (turns, coils, etc.);25.23;-135.6;120.6
+A;PRO;209;Other (turns, coils, etc.);76.11;-65.1;143.1
+A;ILE;210;Other (turns, coils, etc.);24.86;-139.9;164.3
+A;ASN;211;Other (turns, coils, etc.);79.23;-121.9;11.8
+A;LEU;212;Other (turns, coils, etc.);35.5;-69.1;127.1
+A;VAL;213;Other (turns, coils, etc.);54.65;-63.7;-42.7
+A;ARG;214;Other (turns, coils, etc.);63.32;-160.8;23.7
+A;ASP;215;Other (turns, coils, etc.);43.72;-137.6;166.1
+A;LEU;216;Other (turns, coils, etc.);5.46;-83.3;122.8
+A;PRO;217;Other (turns, coils, etc.);6.34;-80.7;132.5
+A;GLN;218;Other (turns, coils, etc.);82.31;-74.7;111.2
+A;GLY;219;Other (turns, coils, etc.);24.14;-178.2;157.6
+A;PHE;220;Other (turns, coils, etc.);27.4;-87.8;139.1
+A;SER;221;Other (turns, coils, etc.);2.56;-147.7;132.0
+A;ALA;222;Sheet;5.44;-98.8;128.3
+A;LEU;223;Sheet;0.0;-97.8;122.3
+A;GLU;224;Sheet;41.79;-77.3;144.8
+A;PRO;225;Sheet;23.26;-59.2;124.6
+A;LEU;226;Sheet;57.35;-96.5;-57.0
+A;VAL;227;Sheet;24.72;-156.7;146.2
+A;ASP;228;Sheet;40.94;-117.0;86.6
+A;LEU;229;Sheet;1.64;-75.2;138.2
+A;PRO;230;Other (turns, coils, etc.);11.98;-99.1;64.8
+A;ILE;231;Other (turns, coils, etc.);0.0;-62.9;-41.1
+A;GLY;232;Other (turns, coils, etc.);2.54;64.0;28.8
+A;ILE;233;Other (turns, coils, etc.);4.86;-122.0;152.5
+A;ASN;234;Other (turns, coils, etc.);53.96;-75.6;135.8
+A;ILE;235;Other (turns, coils, etc.);5.95;-133.0;119.2
+A;THR;236;Other (turns, coils, etc.);47.58;-121.1;-7.9
+A;ARG;237;Sheet;41.05;-146.3;156.8
+A;PHE;238;Sheet;0.0;-144.3;162.4
+A;GLN;239;Sheet;8.96;-136.1;164.9
+A;THR;240;Sheet;0.0;-111.4;119.7
+A;LEU;241;Sheet;0.0;-80.3;132.6
+A;LEU;242;Sheet;1.64;-129.4;152.6
+A;ALA;243;Sheet;2.72;-110.1;144.3
+A;LEU;244;Sheet;0.0;-133.4;142.6
+A;HIS;245;Sheet;9.35;-107.8;128.1
+A;ARG;246;Sheet;3.49;-115.0;135.6
+A;SER;247;Other (turns, coils, etc.);28.16;-136.5;-98.3
+A;TYR;248;Other (turns, coils, etc.);62.24;-112.6;8.0
+A;LEU;249;Other (turns, coils, etc.);60.08;-106.8;123.0
+A;THR;250;Other (turns, coils, etc.);72.1;41.7;59.7
+A;PRO;251;Other (turns, coils, etc.);73.29;-63.5;163.1
+A;GLY;252;Other (turns, coils, etc.);72.43;143.0;-8.3
+A;ASP;253;Other (turns, coils, etc.);65.23;75.8;-22.2
+A;SER;254;Other (turns, coils, etc.);37.54;-87.9;-41.6
+A;SER;255;Other (turns, coils, etc.);24.74;-129.5;32.3
+A;SER;256;Other (turns, coils, etc.);9.39;-67.2;55.6
+A;GLY;257;Other (turns, coils, etc.);13.98;51.6;34.9
+A;TRP;258;Other (turns, coils, etc.);0.0;-73.6;65.2
+A;THR;259;Sheet;38.93;-71.1;125.9
+A;ALA;260;Other (turns, coils, etc.);0.0;-106.1;116.6
+A;GLY;261;Other (turns, coils, etc.);35.58;-67.5;-25.9
+A;ALA;262;Other (turns, coils, etc.);12.7;165.9;127.6
+A;ALA;263;Sheet;4.54;-157.1;157.4
+A;ALA;264;Sheet;1.81;-143.1;144.8
+A;TYR;265;Sheet;2.81;-143.3;147.1
+A;TYR;266;Sheet;0.0;-126.7;130.2
+A;VAL;267;Sheet;0.0;-116.5;127.6
+A;GLY;268;Sheet;0.0;-128.4;163.3
+A;TYR;269;Sheet;22.93;-114.9;137.4
+A;LEU;270;Other (turns, coils, etc.);0.0;-76.5;156.9
+A;GLN;271;Sheet;37.51;-147.0;150.0
+A;PRO;272;Sheet;50.74;-59.5;127.3
+A;ARG;273;Sheet;24.89;-151.5;159.4
+A;THR;274;Sheet;20.19;-109.7;119.2
+A;PHE;275;Sheet;0.0;-121.5;137.6
+A;LEU;276;Sheet;1.09;-98.0;123.1
+A;LEU;277;Sheet;0.0;-115.8;130.3
+A;LYS;278;Sheet;41.81;-100.5;121.9
+A;TYR;279;Sheet;1.4;-95.2;130.5
+A;ASN;280;Other (turns, coils, etc.);43.03;-67.9;172.4
+A;GLU;281;Other (turns, coils, etc.);83.0;-59.9;-36.6
+A;ASN;282;Other (turns, coils, etc.);81.28;-87.9;9.5
+A;GLY;283;Other (turns, coils, etc.);0.0;78.6;8.2
+A;THR;284;Other (turns, coils, etc.);32.44;-83.3;145.1
+A;ILE;285;Sheet;4.32;-77.8;122.8
+A;THR;286;Sheet;43.26;-114.9;-12.4
+A;ASP;287;Sheet;28.45;-159.0;159.6
+A;ALA;288;Sheet;5.44;-154.2;153.7
+A;VAL;289;Sheet;7.16;-125.7;123.8
+A;ASP;290;Sheet;1.39;-91.0;111.0
+A;CYS;291;Other (turns, coils, etc.);0.71;-62.1;-30.3
+A;ALA;292;Other (turns, coils, etc.);12.7;-87.9;-6.4
+A;LEU;293;Other (turns, coils, etc.);9.28;-62.5;-48.8
+A;ASP;294;Other (turns, coils, etc.);17.35;-159.7;166.6
+A;PRO;295;Helix;0.0;-62.8;-31.3
+A;LEU;296;Helix;2.73;-69.3;-43.4
+A;SER;297;Helix;9.39;-64.0;-38.7
+A;GLU;298;Helix;0.0;-58.7;-46.5
+A;THR;299;Helix;1.44;-65.4;-38.8
+A;LYS;300;Helix;10.21;-59.0;-42.1
+A;CYS;301;Helix;5.7;-62.4;-43.2
+A;THR;302;Helix;28.84;-62.5;-44.0
+A;LEU;303;Helix;38.23;-75.7;-21.5
+A;LYS;304;Other (turns, coils, etc.);49.59;67.8;38.1
+A;SER;305;Other (turns, coils, etc.);28.16;-146.5;145.7
+A;PHE;306;Other (turns, coils, etc.);43.35;-67.6;-41.2
+A;THR;307;Other (turns, coils, etc.);51.19;-92.5;139.5
+A;VAL;308;Other (turns, coils, etc.);0.65;-132.4;123.5
+A;GLU;309;Other (turns, coils, etc.);66.4;-80.1;-171.9
+A;LYS;310;Other (turns, coils, etc.);52.5;-75.1;131.1
+A;GLY;311;Sheet;15.25;-179.3;168.8
+A;ILE;312;Other (turns, coils, etc.);22.7;-70.1;-37.3
+A;TYR;313;Other (turns, coils, etc.);26.2;39.6;79.8
+A;GLN;314;Sheet;38.07;-57.7;132.8
+A;THR;315;Other (turns, coils, etc.);9.37;-118.4;144.1
+A;SER;316;Other (turns, coils, etc.);33.28;-77.0;149.0
+A;ASN;317;Other (turns, coils, etc.);32.1;-72.1;121.3
+A;PHE;318;Other (turns, coils, etc.);29.9;-112.8;23.7
+A;ARG;319;Other (turns, coils, etc.);13.54;-117.4;150.0
+A;VAL;320;Other (turns, coils, etc.);65.06;-85.8;147.7
+A;GLN;321;Other (turns, coils, etc.);9.52;-134.2;-33.1
+A;PRO;322;Other (turns, coils, etc.);32.42;-98.5;125.1
+A;THR;323;Other (turns, coils, etc.);88.68;-122.0;-2.7
+A;GLU;324;Sheet;39.5;-115.7;134.4
+A;SER;325;Sheet;70.82;-122.1;127.4
+A;ILE;326;Sheet;3.24;-120.9;144.1
+A;VAL;327;Sheet;14.96;-124.0;126.3
+A;ARG;328;Sheet;6.99;-124.9;107.9
+A;PHE;329;Other (turns, coils, etc.);2.49;-125.1;150.2
+A;PRO;330;Other (turns, coils, etc.);19.03;-68.0;167.8
+A;ASN;331;Other (turns, coils, etc.);83.33;-86.5;98.1
+A;ILE;332;Other (turns, coils, etc.);18.38;-121.8;124.5
+A;THR;333;Other (turns, coils, etc.);98.77;-109.8;-30.7
+A;ASN;334;Other (turns, coils, etc.);61.48;-81.2;128.7
+A;LEU;335;Sheet;48.06;-62.5;149.9
+A;CYS;336;Other (turns, coils, etc.);7.83;-60.1;144.6
+A;PRO;337;Other (turns, coils, etc.);27.48;-82.4;64.2
+A;PHE;338;Helix;14.45;-62.8;-36.3
+A;GLY;339;Helix;52.1;-50.7;-58.1
+A;GLU;340;Helix;74.99;-63.8;-40.7
+A;VAL;341;Helix;7.81;-68.5;-45.7
+A;PHE;342;Helix;6.98;-99.4;-44.5
+A;ASN;343;Other (turns, coils, etc.);90.85;-97.2;55.7
+A;ALA;344;Other (turns, coils, etc.);23.59;-97.3;144.6
+A;THR;345;Other (turns, coils, etc.);77.87;-59.9;-35.1
+A;ARG;346;Other (turns, coils, etc.);75.11;-138.5;151.4
+A;PHE;347;Other (turns, coils, etc.);9.47;-122.9;159.4
+A;ALA;348;Other (turns, coils, etc.);20.87;-75.4;151.6
+A;SER;349;Sheet;18.77;-63.4;147.5
+A;VAL;350;Other (turns, coils, etc.);0.0;-60.2;-39.8
+A;TYR;351;Other (turns, coils, etc.);18.72;-62.6;-40.8
+A;ALA;352;Other (turns, coils, etc.);29.95;-101.4;48.6
+A;TRP;353;Other (turns, coils, etc.);1.25;-54.7;133.5
+A;ASN;354;Sheet;58.06;-89.2;140.3
+A;ARG;355;Sheet;14.41;-123.3;121.4
+A;LYS;356;Sheet;39.38;-114.6;123.6
+A;ARG;357;Sheet;48.03;-66.6;137.2
+A;ILE;358;Other (turns, coils, etc.);6.49;-118.8;135.9
+A;SER;359;Other (turns, coils, etc.);46.93;-159.0;158.4
+A;ASN;360;Other (turns, coils, etc.);56.69;52.3;60.4
+A;CYS;361;Sheet;0.71;-147.0;145.9
+A;VAL;362;Sheet;19.52;-91.7;115.3
+A;ALA;363;Other (turns, coils, etc.);13.61;-84.6;73.9
+A;ASP;364;Other (turns, coils, etc.);25.68;-99.3;115.8
+A;TYR;365;Other (turns, coils, etc.);19.19;-92.7;3.3
+A;SER;366;Other (turns, coils, etc.);34.13;-62.5;-36.2
+A;VAL;367;Other (turns, coils, etc.);44.24;-59.6;-30.3
+A;LEU;368;Helix;7.65;-78.8;-14.2
+A;TYR;369;Helix;12.63;-60.6;-36.5
+A;ASN;370;Helix;58.06;-89.9;-36.5
+A;SER;371;Helix;81.06;-72.6;-35.1
+A;ALA;372;Other (turns, coils, etc.);29.04;-132.8;152.9
+A;SER;373;Other (turns, coils, etc.);15.36;-122.8;136.0
+A;PHE;374;Other (turns, coils, etc.);14.95;-119.6;114.8
+A;SER;375;Other (turns, coils, etc.);41.81;-59.9;-46.9
+A;THR;376;Sheet;37.49;-125.0;125.4
+A;PHE;377;Sheet;16.44;-133.9;115.8
+A;LYS;378;Sheet;44.24;-136.8;121.4
+A;CYS;379;Sheet;9.97;-106.6;137.3
+A;TYR;380;Other (turns, coils, etc.);37.9;-107.5;-44.6
+A;GLY;381;Other (turns, coils, etc.);13.98;-87.8;-10.2
+A;VAL;382;Other (turns, coils, etc.);1.95;-150.7;149.7
+A;SER;383;Other (turns, coils, etc.);8.53;-72.9;139.4
+A;PRO;384;Helix;16.91;-68.5;-27.7
+A;THR;385;Helix;32.44;-62.3;-32.0
+A;LYS;386;Helix;26.25;-90.1;-3.0
+A;LEU;387;Helix;6.01;-58.3;-34.9
+A;ASN;388;Helix;25.27;-65.7;-29.8
+A;ASP;389;Helix;34.0;-96.0;3.6
+A;LEU;390;Other (turns, coils, etc.);1.09;-109.9;162.5
+A;CYS;391;Sheet;0.0;-120.0;151.2
+A;PHE;392;Sheet;7.47;-124.2;116.5
+A;THR;393;Other (turns, coils, etc.);7.21;-67.1;-49.5
+A;ASN;394;Other (turns, coils, etc.);18.44;-133.7;59.5
+A;VAL;395;Other (turns, coils, etc.);5.2;-77.3;121.5
+A;TYR;396;Sheet;5.62;-117.8;142.9
+A;ALA;397;Sheet;2.72;-115.6;117.7
+A;ASP;398;Sheet;0.0;-104.8;117.8
+A;SER;399;Sheet;14.51;-119.6;132.2
+A;PHE;400;Sheet;0.0;-162.3;167.8
+A;VAL;401;Sheet;0.0;-119.4;136.1
+A;ILE;402;Sheet;0.0;-141.4;174.0
+A;ARG;403;Sheet;20.09;-73.9;162.2
+A;GLY;404;Helix;21.6;-65.1;-32.4
+A;ASP;405;Helix;11.1;-93.0;3.9
+A;GLU;406;Helix;0.0;-94.7;-7.3
+A;VAL;407;Helix;12.36;-60.2;-37.1
+A;ARG;408;Helix;24.89;-65.2;-18.9
+A;GLN;409;Helix;7.84;-79.4;-16.3
+A;ILE;410;Other (turns, coils, etc.);2.16;-84.2;64.5
+A;ALA;411;Other (turns, coils, etc.);20.87;-148.9;150.5
+A;PRO;412;Other (turns, coils, etc.);25.37;-55.6;133.7
+A;GLY;413;Other (turns, coils, etc.);8.89;78.7;-1.5
+A;GLN;414;Other (turns, coils, etc.);19.6;-75.5;161.0
+A;THR;415;Other (turns, coils, etc.);5.05;-137.8;159.4
+A;GLY;416;Other (turns, coils, etc.);7.62;133.6;168.7
+A;LYS;417;Helix;3.89;-55.9;-37.0
+A;ILE;418;Helix;0.0;-70.2;-45.8
+A;ALA;419;Helix;2.72;-65.1;-44.9
+A;ASP;420;Helix;6.94;-69.9;-46.5
+A;TYR;421;Helix;12.63;-124.5;6.3
+A;ASN;422;Other (turns, coils, etc.);0.0;-132.2;-56.1
+A;TYR;423;Other (turns, coils, etc.);1.87;-140.1;121.3
+A;LYS;424;Other (turns, coils, etc.);15.56;-120.9;124.0
+A;LEU;425;Other (turns, coils, etc.);2.73;-84.9;145.4
+A;PRO;426;Other (turns, coils, etc.);7.05;-60.3;152.4
+A;ASP;427;Other (turns, coils, etc.);32.62;-72.0;-42.6
+A;ASP;428;Other (turns, coils, etc.);88.83;-82.3;57.8
+A;PHE;429;Other (turns, coils, etc.);7.47;-84.4;120.0
+A;THR;430;Other (turns, coils, etc.);28.84;-103.5;116.6
+A;GLY;431;Sheet;0.0;155.9;-173.1
+A;CYS;432;Sheet;1.42;-129.2;142.7
+A;VAL;433;Sheet;3.25;-112.2;128.5
+A;ILE;434;Sheet;3.78;-126.5;130.2
+A;ALA;435;Sheet;0.91;-141.2;144.4
+A;TRP;436;Sheet;12.89;-148.1;151.6
+A;ASN;437;Sheet;26.64;-67.9;129.4
+A;SER;438;Other (turns, coils, etc.);5.97;-118.5;16.2
+A;ASN;439;Helix;13.66;-45.9;-41.6
+A;ASN;440;Helix;101.09;-62.3;-33.9
+A;LEU;441;Helix;60.08;-103.1;-27.2
+A;ASP;442;Helix;0.69;-107.6;3.4
+A;SER;443;Other (turns, coils, etc.);11.95;-117.5;154.1
+A;LYS;444;Other (turns, coils, etc.);56.39;-138.1;157.7
+A;VAL;445;Other (turns, coils, etc.);85.88;-61.2;-39.8
+A;GLY;446;Other (turns, coils, etc.);85.13;-81.8;-8.5
+A;GLY;447;Other (turns, coils, etc.);16.52;109.0;154.1
+A;ASN;448;Sheet;4.78;-117.5;111.5
+A;TYR;449;Other (turns, coils, etc.);60.36;-112.4;7.1
+A;ASN;450;Other (turns, coils, etc.);71.04;-66.5;-41.5
+A;TYR;451;Other (turns, coils, etc.);5.15;-71.0;137.6
+A;LEU;452;Sheet;24.03;-132.4;156.4
+A;TYR;453;Sheet;0.47;-138.4;154.6
+A;ARG;454;Sheet;2.18;-87.1;115.9
+A;LEU;455;Other (turns, coils, etc.);7.65;-85.6;-39.2
+A;PHE;456;Other (turns, coils, etc.);30.39;-119.8;136.9
+A;ARG;457;Other (turns, coils, etc.);17.47;-151.1;155.2
+A;LYS;458;Other (turns, coils, etc.);77.3;-66.4;-36.0
+A;SER;459;Other (turns, coils, etc.);59.73;-147.7;155.4
+A;ASN;460;Other (turns, coils, etc.);53.28;-63.2;141.2
+A;LEU;461;Other (turns, coils, etc.);4.37;-64.1;146.5
+A;LYS;462;Other (turns, coils, etc.);70.0;-79.0;159.2
+A;PRO;463;Other (turns, coils, etc.);17.62;-54.0;126.9
+A;PHE;464;Other (turns, coils, etc.);4.98;57.6;35.0
+A;GLU;465;Other (turns, coils, etc.);8.59;-99.8;144.8
+A;ARG;466;Other (turns, coils, etc.);10.92;-131.5;121.6
+A;ASP;467;Other (turns, coils, etc.);12.49;-115.3;129.6
+A;ILE;468;Other (turns, coils, etc.);9.19;-114.2;7.7
+A;SER;469;Other (turns, coils, etc.);22.18;-58.0;137.2
+A;THR;470;Other (turns, coils, etc.);51.91;-110.5;6.0
+A;GLU;471;Other (turns, coils, etc.);58.39;-54.7;135.0
+A;ILE;472;Other (turns, coils, etc.);25.95;-64.5;134.2
+A;TYR;473;Sheet;27.14;-98.0;116.1
+A;GLN;474;Sheet;33.59;-86.7;120.2
+A;ALA;475;Other (turns, coils, etc.);50.82;-77.0;-40.3
+A;GLY;476;Other (turns, coils, etc.);21.6;-76.9;165.4
+A;SER;477;Other (turns, coils, etc.);104.95;-64.8;-42.2
+A;THR;478;Other (turns, coils, etc.);79.31;-47.3;126.6
+A;PRO;479;Other (turns, coils, etc.);51.44;-71.4;142.4
+A;CYS;480;Other (turns, coils, etc.);8.55;-71.0;-46.1
+A;ASN;481;Other (turns, coils, etc.);92.9;56.0;39.3
+A;GLY;482;Other (turns, coils, etc.);49.56;82.2;-113.0
+A;VAL;483;Other (turns, coils, etc.);74.17;19.2;87.8
+A;GLU;484;Other (turns, coils, etc.);73.84;-60.3;124.0
+A;GLY;485;Other (turns, coils, etc.);52.1;-151.9;-149.0
+A;PHE;486;Other (turns, coils, etc.);91.68;-63.0;-50.1
+A;ASN;487;Other (turns, coils, etc.);38.93;-119.6;15.8
+A;CYS;488;Sheet;8.55;-118.3;113.6
+A;TYR;489;Sheet;35.1;-123.1;141.2
+A;PHE;490;Other (turns, coils, etc.);39.86;-61.6;137.4
+A;PRO;491;Other (turns, coils, etc.);1.41;-80.5;-23.2
+A;LEU;492;Sheet;8.19;-96.6;132.5
+A;GLN;493;Sheet;44.23;-113.9;128.7
+A;SER;494;Sheet;28.16;-67.1;141.8
+A;TYR;495;Other (turns, coils, etc.);0.47;-79.7;160.5
+A;GLY;496;Other (turns, coils, etc.);33.04;-130.5;76.4
+A;PHE;497;Sheet;0.0;-88.1;132.1
+A;GLN;498;Other (turns, coils, etc.);24.08;-140.8;144.9
+A;PRO;499;Other (turns, coils, etc.);38.76;-65.6;-30.0
+A;THR;500;Other (turns, coils, etc.);98.05;-97.6;3.3
+A;ASN;501;Other (turns, coils, etc.);36.2;-70.2;149.2
+A;GLY;502;Other (turns, coils, etc.);41.93;-58.8;153.6
+A;VAL;503;Other (turns, coils, etc.);23.42;-57.8;-32.4
+A;GLY;504;Other (turns, coils, etc.);27.95;-66.5;-29.6
+A;TYR;505;Other (turns, coils, etc.);37.9;-100.9;-3.5
+A;GLN;506;Other (turns, coils, etc.);15.68;-65.5;149.0
+A;PRO;507;Sheet;0.0;-73.2;140.0
+A;TYR;508;Sheet;11.23;-127.2;129.4
+A;ARG;509;Sheet;0.87;-84.8;131.0
+A;VAL;510;Sheet;0.0;-121.8;132.9
+A;VAL;511;Sheet;0.0;-121.2;126.6
+A;VAL;512;Sheet;0.0;-111.3;130.8
+A;LEU;513;Sheet;16.38;-111.9;122.1
+A;SER;514;Sheet;6.83;-114.1;134.1
+A;PHE;515;Other (turns, coils, etc.);9.47;-161.3;161.8
+A;GLU;516;Other (turns, coils, etc.);42.36;-118.0;152.1
+A;LEU;517;Other (turns, coils, etc.);3.82;-112.8;-83.0
+A;LEU;518;Other (turns, coils, etc.);14.2;-62.7;-39.6
+A;HIS;519;Other (turns, coils, etc.);29.14;-71.8;142.6
+A;ALA;520;Other (turns, coils, etc.);1.81;71.9;175.2
+A;PRO;521;Other (turns, coils, etc.);44.4;-82.6;132.6
+A;ALA;522;Other (turns, coils, etc.);8.17;-105.5;123.5
+A;THR;523;Other (turns, coils, etc.);30.28;-100.2;-1.5
+A;VAL;524;Sheet;1.3;-121.9;127.2
+A;CYS;525;Sheet;4.27;-139.3;154.0
+A;GLY;526;Other (turns, coils, etc.);5.08;-67.5;179.1
+A;PRO;527;Other (turns, coils, etc.);39.46;-98.9;75.2
+A;LYS;528;Other (turns, coils, etc.);34.52;-117.2;130.4
+A;LYS;529;Other (turns, coils, etc.);95.77;-68.6;129.1
+A;SER;530;Other (turns, coils, etc.);36.69;-65.8;149.3
+A;THR;531;Other (turns, coils, etc.);36.77;-116.0;164.5
+A;ASN;532;Other (turns, coils, etc.);96.99;-62.2;138.1
+A;LEU;533;Other (turns, coils, etc.);26.22;-66.3;131.1
+A;VAL;534;Other (turns, coils, etc.);25.37;-115.1;132.8
+A;LYS;535;Other (turns, coils, etc.);28.2;-132.2;156.1
+A;ASN;536;Other (turns, coils, etc.);79.23;65.6;22.6
+A;LYS;537;Other (turns, coils, etc.);51.05;-139.7;155.7
+A;CYS;538;Sheet;10.68;-76.4;112.4
+A;VAL;539;Sheet;0.0;-136.7;154.0
+A;ASN;540;Sheet;36.89;-86.9;127.2
+A;PHE;541;Sheet;4.98;-120.0;148.4
+A;ASN;542;Sheet;7.51;-129.0;100.6
+A;PHE;543;Sheet;1.99;-108.6;109.3
+A;ASN;544;Other (turns, coils, etc.);8.88;52.6;39.2
+A;GLY;545;Other (turns, coils, etc.);1.27;83.6;4.2
+A;LEU;546;Sheet;7.1;-96.6;109.1
+A;THR;547;Sheet;36.05;-95.3;137.2
+A;GLY;548;Sheet;11.44;-169.0;171.9
+A;THR;549;Sheet;27.4;-120.3;126.3
+A;GLY;550;Sheet;0.0;-175.5;175.0
+A;VAL;551;Sheet;7.16;-95.7;130.5
+A;LEU;552;Sheet;0.0;-103.2;129.0
+A;THR;553;Sheet;9.37;-133.5;163.4
+A;GLU;554;Sheet;78.42;-73.1;142.3
+A;SER;555;Other (turns, coils, etc.);11.09;-111.4;131.8
+A;ASN;556;Other (turns, coils, etc.);99.73;-71.9;-22.8
+A;LYS;557;Other (turns, coils, etc.);12.64;-73.1;135.2
+A;LYS;558;Other (turns, coils, etc.);84.1;-118.5;115.6
+A;PHE;559;Other (turns, coils, etc.);2.49;-64.9;142.9
+A;LEU;560;Other (turns, coils, etc.);22.39;-64.0;160.4
+A;PRO;561;Other (turns, coils, etc.);80.34;-59.6;-35.8
+A;PHE;562;Other (turns, coils, etc.);10.46;-71.1;-27.3
+A;GLN;563;Other (turns, coils, etc.);0.56;-85.9;133.0
+A;GLN;564;Other (turns, coils, etc.);7.28;-112.6;-20.9
+A;PHE;565;Sheet;3.99;-154.0;157.8
+A;GLY;566;Sheet;0.0;-108.8;157.5
+A;ARG;567;Other (turns, coils, etc.);10.48;-136.6;149.3
+A;ASP;568;Other (turns, coils, etc.);18.04;-91.9;-159.8
+A;ILE;569;Other (turns, coils, etc.);35.14;-76.0;-17.8
+A;ALA;570;Other (turns, coils, etc.);8.17;-96.2;0.5
+A;ASP;571;Other (turns, coils, etc.);27.76;69.7;15.7
+A;THR;572;Other (turns, coils, etc.);47.58;-82.2;161.5
+A;THR;573;Other (turns, coils, etc.);5.05;-83.6;89.5
+A;ASP;574;Other (turns, coils, etc.);15.96;-68.3;-40.5
+A;ALA;575;Sheet;0.0;-129.6;143.5
+A;VAL;576;Sheet;2.6;-131.2;163.9
+A;ARG;577;Sheet;13.54;-112.5;137.1
+A;ASP;578;Other (turns, coils, etc.);0.69;-63.1;145.1
+A;PRO;579;Other (turns, coils, etc.);17.62;-81.7;-29.0
+A;GLN;580;Other (turns, coils, etc.);35.27;-85.2;-40.3
+A;THR;581;Other (turns, coils, etc.);49.75;-120.2;135.8
+A;LEU;582;Other (turns, coils, etc.);77.55;-80.3;53.7
+A;GLU;583;Other (turns, coils, etc.);28.62;-98.6;136.6
+A;ILE;584;Sheet;5.95;-90.9;131.4
+A;LEU;585;Sheet;0.0;-122.1;121.7
+A;ASP;586;Sheet;4.16;-78.3;147.4
+A;ILE;587;Sheet;15.68;-117.4;115.1
+A;THR;588;Sheet;2.16;-114.4;132.4
+A;PRO;589;Other (turns, coils, etc.);30.3;-49.2;137.7
+A;CYS;590;Other (turns, coils, etc.);6.41;-68.6;-45.1
+A;SER;591;Other (turns, coils, etc.);12.8;-82.9;142.8
+A;PHE;592;Other (turns, coils, etc.);7.47;-108.6;-5.6
+A;GLY;593;Other (turns, coils, etc.);36.85;67.2;-176.5
+A;GLY;594;Other (turns, coils, etc.);26.68;94.6;75.4
+A;VAL;595;Sheet;11.06;-139.8;139.6
+A;SER;596;Sheet;0.0;-145.8;145.4
+A;VAL;597;Sheet;0.0;-114.3;105.4
+A;ILE;598;Sheet;0.54;-88.3;120.2
+A;THR;599;Sheet;0.72;-139.4;138.7
+A;PRO;600;Other (turns, coils, etc.);5.64;-63.2;170.0
+A;GLY;601;Other (turns, coils, etc.);12.71;-59.0;139.9
+A;THR;602;Other (turns, coils, etc.);13.7;-65.0;-27.5
+A;ASN;603;Other (turns, coils, etc.);111.34;-62.9;-43.0
+A;THR;604;Other (turns, coils, etc.);70.66;-69.1;-44.1
+A;SER;605;Other (turns, coils, etc.);17.06;-166.4;155.5
+A;ASN;606;Other (turns, coils, etc.);70.36;-98.0;3.3
+A;GLN;607;Other (turns, coils, etc.);42.55;-64.5;138.9
+A;VAL;608;Other (turns, coils, etc.);1.95;-134.9;158.4
+A;ALA;609;Sheet;0.0;-124.3;136.9
+A;VAL;610;Sheet;0.0;-114.9;128.3
+A;LEU;611;Sheet;0.55;-113.5;132.2
+A;TYR;612;Sheet;0.94;-116.2;111.1
+A;GLN;613;Other (turns, coils, etc.);11.2;-62.8;-48.4
+A;ASP;614;Other (turns, coils, etc.);9.02;-106.2;16.1
+A;VAL;615;Other (turns, coils, etc.);7.16;-120.3;117.0
+A;ASN;616;Other (turns, coils, etc.);45.08;-68.2;151.8
+A;CYS;617;Other (turns, coils, etc.);20.66;-57.2;-34.7
+A;THR;618;Other (turns, coils, etc.);77.14;-62.1;-37.9
+A;GLU;619;Other (turns, coils, etc.);49.8;-92.4;-3.2
+A;VAL;620;Helix;0.65;-57.3;-46.1
+A;PRO;621;Helix;33.12;-63.0;-37.9
+A;VAL;622;Helix;70.27;-67.4;-44.5
+A;ALA;623;Helix;34.48;-62.8;-37.9
+A;ILE;624;Other (turns, coils, etc.);7.57;-103.5;4.1
+A;HIS;625;Other (turns, coils, etc.);25.29;58.4;49.5
+A;ALA;626;Helix;1.81;-58.8;-35.5
+A;ASP;627;Helix;96.46;-55.0;-40.7
+A;GLN;628;Helix;54.87;-92.4;0.7
+A;LEU;629;Other (turns, coils, etc.);6.55;-80.3;170.6
+A;THR;630;Other (turns, coils, etc.);28.84;-61.1;150.4
+A;PRO;631;Helix;59.9;-57.2;-36.7
+A;THR;632;Helix;34.61;-62.6;-42.9
+A;TRP;633;Helix;0.0;-61.9;-37.9
+A;ARG;634;Helix;44.98;-60.1;-37.1
+A;VAL;635;Helix;59.86;-57.0;-34.3
+A;TYR;636;Other (turns, coils, etc.);18.72;-89.8;7.5
+A;SER;637;Other (turns, coils, etc.);13.65;-115.2;-9.5
+A;THR;638;Other (turns, coils, etc.);56.24;-63.7;143.4
+A;GLY;639;Other (turns, coils, etc.);47.01;-62.5;-177.7
+A;SER;640;Other (turns, coils, etc.);103.24;86.6;-34.4
+A;ASN;641;Other (turns, coils, etc.);51.91;-111.2;15.5
+A;VAL;642;Sheet;38.39;-75.7;125.9
+A;PHE;643;Sheet;17.94;-129.5;129.5
+A;GLN;644;Sheet;43.67;-98.2;123.8
+A;THR;645;Other (turns, coils, etc.);12.26;-123.9;174.8
+A;ARG;646;Other (turns, coils, etc.);74.67;-71.8;-26.5
+A;ALA;647;Other (turns, coils, etc.);1.81;-74.5;-29.3
+A;GLY;648;Other (turns, coils, etc.);3.81;155.0;-178.4
+A;CYS;649;Sheet;0.0;-73.4;132.5
+A;LEU;650;Sheet;0.0;-118.0;129.4
+A;ILE;651;Sheet;1.08;-126.2;138.9
+A;GLY;652;Other (turns, coils, etc.);17.79;99.0;4.4
+A;ALA;653;Other (turns, coils, etc.);0.91;-126.1;130.5
+A;GLU;654;Sheet;27.48;-78.9;119.0
+A;HIS;655;Sheet;37.38;-71.0;124.2
+A;VAL;656;Other (turns, coils, etc.);9.11;-119.4;138.9
+A;ASN;657;Other (turns, coils, etc.);88.8;-72.0;-26.5
+A;ASN;658;Other (turns, coils, etc.);55.33;-65.1;132.7
+A;SER;659;Other (turns, coils, etc.);55.46;-101.3;129.4
+A;TYR;660;Other (turns, coils, etc.);27.61;-126.9;168.6
+A;GLU;661;Other (turns, coils, etc.);88.72;-60.9;144.0
+A;CYS;662;Other (turns, coils, etc.);34.9;-71.4;120.8
+A;ASP;663;Other (turns, coils, etc.);46.5;-91.2;-58.9
+A;ILE;664;Sheet;4.86;-120.8;128.4
+A;PRO;665;Sheet;31.01;-92.6;110.5
+A;ILE;666;Sheet;5.41;-68.6;-42.3
+A;GLY;667;Sheet;7.62;115.6;163.4
+A;ALA;668;Other (turns, coils, etc.);9.07;58.3;38.6
+A;GLY;669;Other (turns, coils, etc.);2.54;81.0;-0.1
+A;ILE;670;Sheet;8.65;-106.2;140.5
+A;CYS;671;Sheet;0.0;-135.2;157.9
+A;ALA;672;Sheet;0.0;-121.0;152.4
+A;SER;673;Sheet;17.92;-150.6;164.9
+A;TYR;674;Sheet;21.06;-103.6;110.5
+A;GLN;675;Sheet;29.12;-125.7;143.2
+A;THR;676;Sheet;28.12;-68.4;131.0
+A;GLN;677;Other (turns, coils, etc.);13.44;-85.5;42.4
+A;THR;678;Other (turns, coils, etc.);51.19;-120.1;-11.2
+A;ASN;679;Other (turns, coils, etc.);60.11;-64.1;-95.9
+A;SER;680;Other (turns, coils, etc.);15.36;-24.4;130.7
+A;PRO;681;Other (turns, coils, etc.);85.98;-69.1;-5.3
+A;ARG;682;Other (turns, coils, etc.);89.08;-86.7;-12.7
+A;ARG;683;Other (turns, coils, etc.);44.98;-89.9;162.5
+A;ALA;684;Other (turns, coils, etc.);70.78;-55.2;-31.8
+A;ARG;685;Other (turns, coils, etc.);26.64;64.1;28.5
+A;SER;686;Other (turns, coils, etc.);94.71;-107.9;-24.3
+A;VAL;687;Other (turns, coils, etc.);55.95;-133.1;122.3
+A;ALA;688;Other (turns, coils, etc.);58.08;-62.4;142.9
+A;SER;689;Other (turns, coils, etc.);44.37;-151.0;154.3
+A;GLN;690;Sheet;38.07;-125.2;132.1
+A;SER;691;Sheet;19.62;-144.5;155.8
+A;ILE;692;Sheet;3.78;-78.4;126.1
+A;ILE;693;Sheet;3.24;-116.2;147.6
+A;ALA;694;Sheet;0.0;-115.6;136.4
+A;TYR;695;Sheet;0.94;-149.8;156.7
+A;THR;696;Sheet;42.54;-71.8;127.5
+A;MET;697;Other (turns, coils, etc.);8.0;-62.5;141.0
+A;SER;698;Other (turns, coils, etc.);37.54;-82.9;123.0
+A;LEU;699;Other (turns, coils, etc.);7.1;-66.8;-42.0
+A;GLY;700;Other (turns, coils, etc.);33.04;170.6;-173.7
+A;ALA;701;Other (turns, coils, etc.);57.17;-75.1;128.1
+A;GLU;702;Sheet;65.83;-65.0;136.1
+A;ASN;703;Sheet;47.81;-147.2;149.0
+A;SER;704;Sheet;77.65;-128.6;132.4
+A;VAL;705;Other (turns, coils, etc.);12.36;-98.2;121.3
+A;ALA;706;Other (turns, coils, etc.);71.69;-68.3;102.9
+A;TYR;707;Other (turns, coils, etc.);10.29;-100.3;131.7
+A;SER;708;Other (turns, coils, etc.);24.74;-144.0;160.7
+A;ASN;709;Other (turns, coils, etc.);59.43;-80.1;-15.1
+A;ASN;710;Other (turns, coils, etc.);58.06;-127.1;19.0
+A;SER;711;Sheet;20.48;-118.7;136.7
+A;ILE;712;Sheet;4.32;-133.3;155.5
+A;ALA;713;Sheet;4.54;-115.2;129.9
+A;ILE;714;Sheet;0.54;-121.8;133.1
+A;PRO;715;Sheet;1.41;-69.9;137.9
+A;THR;716;Other (turns, coils, etc.);33.89;-105.3;2.9
+A;ASN;717;Other (turns, coils, etc.);29.37;-158.8;170.2
+A;PHE;718;Sheet;0.5;-139.7;161.1
+A;THR;719;Sheet;47.58;-129.2;126.0
+A;ILE;720;Sheet;4.86;-86.8;127.1
+A;SER;721;Sheet;35.84;-121.8;145.6
+A;VAL;722;Sheet;5.86;-120.9;124.9
+A;THR;723;Sheet;34.61;-123.6;157.7
+A;THR;724;Sheet;43.98;-111.8;129.8
+A;GLU;725;Sheet;23.47;-120.8;130.6
+A;ILE;726;Sheet;12.97;-118.5;123.0
+A;LEU;727;Sheet;5.46;-126.7;123.2
+A;PRO;728;Sheet;10.57;-55.0;132.8
+A;VAL;729;Other (turns, coils, etc.);0.65;-108.1;-30.0
+A;SER;730;Other (turns, coils, etc.);10.24;-153.4;165.3
+A;MET;731;Other (turns, coils, etc.);1.5;-129.5;169.3
+A;THR;732;Other (turns, coils, etc.);12.26;-64.0;137.6
+A;LYS;733;Sheet;11.18;-94.4;123.0
+A;THR;734;Sheet;5.05;-126.6;148.5
+A;SER;735;Sheet;22.18;-131.3;150.4
+A;VAL;736;Sheet;7.16;-128.7;125.8
+A;ASP;737;Other (turns, coils, etc.);28.45;-82.4;115.1
+A;CYS;738;Helix;5.7;-65.4;-43.8
+A;THR;739;Helix;28.12;-68.5;-43.1
+A;MET;740;Helix;5.5;-63.0;-44.0
+A;TYR;741;Helix;1.4;-65.0;-47.4
+A;ILE;742;Helix;0.0;-78.4;-45.8
+A;CYS;743;Helix;2.14;-97.3;-19.9
+A;GLY;744;Other (turns, coils, etc.);63.53;63.9;30.9
+A;ASP;745;Other (turns, coils, etc.);39.56;68.7;42.2
+A;SER;746;Other (turns, coils, etc.);11.09;-105.6;125.4
+A;THR;747;Other (turns, coils, etc.);69.21;-66.4;-40.1
+A;GLU;748;Other (turns, coils, etc.);61.82;-63.4;-40.5
+A;CYS;749;Other (turns, coils, etc.);1.42;-72.1;166.3
+A;SER;750;Other (turns, coils, etc.);34.13;86.8;-34.2
+A;ASN;751;Other (turns, coils, etc.);41.67;-60.6;-43.8
+A;LEU;752;Helix;16.38;-67.5;-30.1
+A;LEU;753;Helix;4.92;-80.4;-7.2
+A;LEU;754;Helix;44.24;-57.4;-44.0
+A;GLN;755;Other (turns, coils, etc.);42.55;-72.3;-25.3
+A;TYR;756;Other (turns, coils, etc.);2.81;-90.9;-0.8
+A;GLY;757;Helix;34.31;-62.8;-29.4
+A;SER;758;Helix;29.86;-61.7;-38.6
+A;PHE;759;Helix;4.98;-63.9;-43.7
+A;CYS;760;Helix;7.12;-59.9;-43.8
+A;THR;761;Helix;33.89;-60.0;-39.4
+A;GLN;762;Helix;15.12;-61.9;-42.9
+A;LEU;763;Helix;7.65;-63.7;-44.0
+A;ASN;764;Helix;39.62;-63.0;-40.1
+A;ARG;765;Helix;35.37;-60.8;-39.8
+A;ALA;766;Helix;11.8;-65.5;-44.6
+A;LEU;767;Helix;3.82;-63.5;-41.9
+A;THR;768;Helix;51.19;-63.3;-38.9
+A;GLY;769;Helix;47.01;-61.7;-37.9
+A;ILE;770;Helix;5.41;-65.0;-43.9
+A;ALA;771;Helix;9.07;-62.8;-46.0
+A;VAL;772;Helix;59.21;-64.8;-33.4
+A;GLU;773;Helix;16.6;-62.6;-42.5
+A;GLN;774;Helix;1.68;-63.1;-41.7
+A;ASP;775;Helix;20.82;-62.3;-41.3
+A;LYS;776;Helix;43.27;-61.6;-43.6
+A;ASN;777;Helix;0.0;-59.7;-44.6
+A;THR;778;Helix;8.65;-61.6;-42.7
+A;GLN;779;Helix;36.95;-62.9;-44.9
+A;GLU;780;Helix;37.78;-62.5;-40.7
+A;VAL;781;Helix;0.0;-70.1;-46.2
+A;PHE;782;Helix;1.99;-100.3;-18.6
+A;ALA;783;Other (turns, coils, etc.);12.7;-103.0;27.4
+A;GLN;784;Other (turns, coils, etc.);26.32;-59.1;-38.6
+A;VAL;785;Other (turns, coils, etc.);5.86;-113.0;125.7
+A;LYS;786;Other (turns, coils, etc.);46.67;-84.0;-16.5
+A;GLN;787;Other (turns, coils, etc.);48.15;-71.6;120.3
+A;ILE;788;Sheet;4.32;-90.7;104.7
+A;TYR;789;Sheet;5.15;-85.3;111.0
+A;LYS;790;Sheet;56.88;-60.2;132.9
+A;THR;791;Other (turns, coils, etc.);27.4;-63.4;125.4
+A;PRO;792;Other (turns, coils, etc.);19.73;-69.0;161.1
+A;PRO;793;Other (turns, coils, etc.);83.16;-51.0;131.0
+A;ILE;794;Other (turns, coils, etc.);59.46;-58.6;116.1
+A;LYS;795;Other (turns, coils, etc.);36.95;-102.1;170.4
+A;ASP;796;Other (turns, coils, etc.);63.15;-59.1;131.2
+A;PHE;797;Other (turns, coils, etc.);3.99;-114.2;12.4
+A;GLY;798;Other (turns, coils, etc.);8.89;88.7;22.8
+A;GLY;799;Other (turns, coils, etc.);49.56;86.4;-3.7
+A;PHE;800;Other (turns, coils, etc.);4.98;-71.1;132.1
+A;ASN;801;Other (turns, coils, etc.);55.33;-107.4;113.5
+A;PHE;802;Other (turns, coils, etc.);2.99;-111.4;7.5
+A;SER;803;Other (turns, coils, etc.);52.9;-59.3;-38.4
+A;GLN;804;Other (turns, coils, etc.);31.91;-60.8;-39.2
+A;ILE;805;Other (turns, coils, etc.);1.62;-93.0;-15.5
+A;LEU;806;Other (turns, coils, etc.);7.1;-77.4;157.3
+A;PRO;807;Sheet;20.44;-71.3;138.9
+A;ASP;808;Other (turns, coils, etc.);36.78;-87.4;120.3
+A;PRO;809;Other (turns, coils, etc.);69.77;-71.9;-30.6
+A;SER;810;Other (turns, coils, etc.);93.0;-92.4;31.1
+A;LYS;811;Other (turns, coils, etc.);17.99;-137.0;166.0
+A;PRO;812;Other (turns, coils, etc.);79.63;-71.8;150.9
+A;SER;813;Other (turns, coils, etc.);29.01;75.8;-17.9
+A;LYS;814;Other (turns, coils, etc.);55.42;61.2;44.0
+A;ARG;815;Other (turns, coils, etc.);8.3;-110.3;165.6
+A;SER;816;Sheet;0.0;-66.0;154.8
+A;PHE;817;Helix;45.34;-61.5;-41.3
+A;ILE;818;Helix;1.08;-62.8;-43.8
+A;GLU;819;Helix;3.43;-61.3;-38.9
+A;ASP;820;Helix;27.06;-60.1;-43.4
+A;LEU;821;Helix;13.65;-61.0;-46.2
+A;LEU;822;Helix;0.55;-60.8;-41.4
+A;PHE;823;Helix;37.87;-62.1;-44.2
+A;ASN;824;Helix;81.28;-66.1;-34.6
+A;LYS;825;Helix;23.82;-65.5;-39.6
+A;VAL;826;Other (turns, coils, etc.);3.9;-93.1;118.8
+A;THR;827;Other (turns, coils, etc.);45.42;-84.7;119.0
+A;LEU;828;Other (turns, coils, etc.);37.14;-110.3;-5.6
+A;ALA;829;Other (turns, coils, etc.);71.69;-66.8;-35.0
+A;ASP;830;Other (turns, coils, etc.);57.6;-68.1;-43.1
+A;ALA;831;Other (turns, coils, etc.);12.7;-62.8;-40.6
+A;GLY;832;Other (turns, coils, etc.);39.39;-174.8;155.8
+A;PHE;833;Other (turns, coils, etc.);71.25;-150.4;153.1
+A;ILE;834;Other (turns, coils, etc.);49.73;-59.5;136.5
+A;LYS;835;Other (turns, coils, etc.);15.07;-139.8;114.0
+A;GLN;836;Other (turns, coils, etc.);24.08;-80.0;164.5
+A;TYR;837;Helix;26.2;-59.6;-40.0
+A;GLY;838;Helix;52.1;-63.3;-36.2
+A;ASP;839;Helix;51.35;-63.3;-50.4
+A;CYS;840;Helix;1.42;-64.6;-39.8
+A;LEU;841;Helix;24.58;-65.8;-37.0
+A;GLY;842;Helix;81.32;-72.8;-42.4
+A;ASP;843;Other (turns, coils, etc.);58.99;-96.2;59.1
+A;ILE;844;Other (turns, coils, etc.);21.62;-71.3;-27.5
+A;ALA;845;Other (turns, coils, etc.);44.46;-63.7;-46.3
+A;ALA;846;Other (turns, coils, etc.);44.46;-83.6;124.5
+A;ARG;847;Other (turns, coils, etc.);32.75;-86.1;69.0
+A;ASP;848;Other (turns, coils, etc.);30.53;-67.0;138.5
+A;LEU;849;Helix;52.43;-65.5;-35.2
+A;ILE;850;Helix;13.51;-62.9;-44.5
+A;CYS;851;Helix;5.7;-64.1;-43.4
+A;ALA;852;Helix;23.59;-61.7;-43.7
+A;GLN;853;Helix;3.36;-66.2;-38.4
+A;LYS;854;Helix;7.29;-60.9;-43.4
+A;PHE;855;Helix;14.45;-63.7;-24.8
+A;ASN;856;Other (turns, coils, etc.);21.17;-97.6;17.0
+A;GLY;857;Other (turns, coils, etc.);10.17;82.4;11.9
+A;LEU;858;Sheet;0.55;-102.4;117.7
+A;THR;859;Sheet;15.86;-137.5;161.1
+A;VAL;860;Sheet;37.09;-116.6;128.7
+A;LEU;861;Sheet;12.56;-95.5;134.0
+A;PRO;862;Other (turns, coils, etc.);30.3;-69.2;143.7
+A;PRO;863;Other (turns, coils, etc.);42.28;-53.7;147.5
+A;LEU;864;Other (turns, coils, etc.);12.56;-64.9;-43.3
+A;LEU;865;Other (turns, coils, etc.);4.37;-88.4;117.9
+A;THR;866;Other (turns, coils, etc.);12.98;-78.1;156.9
+A;ASP;867;Helix;34.0;-54.0;-40.8
+A;GLU;868;Helix;29.77;-57.8;-41.3
+A;MET;869;Helix;8.0;-67.0;-40.0
+A;ILE;870;Helix;12.43;-61.7;-43.4
+A;ALA;871;Helix;3.63;-61.8;-40.8
+A;GLN;872;Helix;48.71;-62.1;-41.6
+A;TYR;873;Helix;1.87;-62.5;-43.8
+A;THR;874;Helix;1.44;-60.0;-44.6
+A;SER;875;Helix;20.48;-63.6;-39.6
+A;ALA;876;Helix;0.0;-61.2;-44.2
+A;LEU;877;Helix;0.0;-61.0;-43.0
+A;LEU;878;Helix;0.55;-65.6;-43.9
+A;ALA;879;Helix;0.91;-62.2;-44.3
+A;GLY;880;Helix;0.0;-56.3;-54.6
+A;THR;881;Helix;0.0;-62.1;-40.1
+A;ILE;882;Helix;0.0;-69.1;-42.0
+A;THR;883;Helix;0.72;-81.6;-34.1
+A;SER;884;Helix;0.0;-128.8;-4.8
+A;GLY;885;Other (turns, coils, etc.);0.0;69.2;-117.8
+A;TRP;886;Other (turns, coils, etc.);10.81;-90.5;-12.4
+A;THR;887;Other (turns, coils, etc.);9.37;-66.2;-36.1
+A;PHE;888;Other (turns, coils, etc.);1.0;-64.0;-26.3
+A;GLY;889;Other (turns, coils, etc.);2.54;-71.2;-34.6
+A;ALA;890;Other (turns, coils, etc.);7.26;-125.6;103.9
+A;GLY;891;Other (turns, coils, etc.);25.41;91.2;-163.6
+A;ALA;892;Other (turns, coils, etc.);44.46;-71.8;149.7
+A;ALA;893;Other (turns, coils, etc.);18.15;-70.2;124.7
+A;LEU;894;Other (turns, coils, etc.);8.19;-113.6;117.6
+A;GLN;895;Other (turns, coils, etc.);9.52;-60.9;143.1
+A;ILE;896;Other (turns, coils, etc.);3.24;-145.5;139.4
+A;PRO;897;Other (turns, coils, etc.);5.64;-55.0;135.4
+A;PHE;898;Helix;0.0;-60.0;-40.7
+A;ALA;899;Helix;13.61;-60.0;-42.3
+A;MET;900;Helix;3.5;-66.2;-38.4
+A;GLN;901;Helix;0.0;-60.6;-44.2
+A;MET;902;Helix;1.0;-64.6;-37.5
+A;ALA;903;Helix;0.0;-59.7;-39.8
+A;TYR;904;Helix;37.44;-61.4;-42.4
+A;ARG;905;Helix;0.87;-62.6;-40.5
+A;PHE;906;Helix;0.0;-61.8;-43.4
+A;ASN;907;Helix;47.13;-61.6;-38.8
+A;GLY;908;Helix;29.22;-62.2;-26.2
+A;ILE;909;Other (turns, coils, etc.);11.35;-97.1;2.2
+A;GLY;910;Other (turns, coils, etc.);57.18;84.9;21.5
+A;VAL;911;Other (turns, coils, etc.);0.0;-106.4;129.0
+A;THR;912;Other (turns, coils, etc.);33.17;-59.7;145.7
+A;GLN;913;Helix;2.24;-59.3;-33.6
+A;ASN;914;Helix;3.42;-58.4;-41.0
+A;VAL;915;Helix;0.0;-57.3;-40.2
+A;LEU;916;Helix;1.09;-65.4;-44.9
+A;TYR;917;Helix;2.81;-65.9;-45.5
+A;GLU;918;Helix;32.05;-66.0;-38.2
+A;ASN;919;Other (turns, coils, etc.);30.05;-97.0;17.9
+A;GLN;920;Helix;7.84;-57.7;-42.3
+A;LYS;921;Helix;67.09;-61.5;-41.6
+A;LEU;922;Helix;40.42;-66.2;-43.4
+A;ILE;923;Helix;0.0;-61.4;-45.1
+A;ALA;924;Helix;1.81;-62.2;-44.9
+A;ASN;925;Helix;64.89;-63.0;-42.3
+A;GLN;926;Helix;22.96;-62.5;-43.0
+A;PHE;927;Helix;1.49;-60.5;-46.7
+A;ASN;928;Helix;30.05;-62.3;-42.9
+A;SER;929;Helix;68.26;-62.3;-40.0
+A;ALA;930;Helix;12.7;-64.9;-43.6
+A;ILE;931;Helix;2.7;-61.1;-44.0
+A;GLY;932;Helix;27.95;-56.2;-46.3
+A;LYS;933;Helix;70.49;-62.0;-38.6
+A;ILE;934;Helix;13.51;-61.9;-45.0
+A;GLN;935;Helix;21.84;-64.5;-41.4
+A;ASP;936;Helix;64.54;-62.3;-43.3
+A;SER;937;Helix;57.17;-62.3;-45.1
+A;LEU;938;Helix;5.46;-63.3;-42.1
+A;SER;939;Helix;59.73;-64.2;-52.5
+A;SER;940;Helix;92.15;-78.6;-23.0
+A;THR;941;Other (turns, coils, etc.);48.31;-102.1;117.1
+A;ALA;942;Other (turns, coils, etc.);74.41;-65.8;-47.4
+A;SER;943;Other (turns, coils, etc.);93.0;-84.6;81.0
+A;ALA;944;Other (turns, coils, etc.);33.58;-116.2;-49.0
+A;LEU;945;Other (turns, coils, etc.);3.82;-96.7;50.9
+A;GLY;946;Helix;35.58;-47.6;-52.5
+A;LYS;947;Helix;53.96;-58.9;-40.7
+A;LEU;948;Helix;0.0;-67.0;-41.6
+A;GLN;949;Helix;19.6;-62.9;-40.8
+A;ASP;950;Helix;60.37;-59.0;-41.2
+A;VAL;951;Helix;10.41;-60.0;-47.2
+A;VAL;952;Helix;0.65;-65.9;-41.3
+A;ASN;953;Helix;48.5;-61.7;-44.2
+A;GLN;954;Helix;49.27;-63.2;-43.3
+A;ASN;955;Helix;2.05;-65.5;-44.3
+A;ALA;956;Helix;18.15;-63.8;-42.3
+A;GLN;957;Helix;49.83;-59.4;-41.6
+A;ALA;958;Helix;6.35;-63.5;-41.8
+A;LEU;959;Helix;2.18;-65.6;-44.8
+A;ASN;960;Helix;23.22;-61.7;-40.5
+A;THR;961;Helix;4.33;-64.0;-36.7
+A;LEU;962;Helix;2.18;-64.5;-42.8
+A;VAL;963;Helix;5.2;-60.1;-40.7
+A;LYS;964;Helix;45.21;-65.4;-26.6
+A;GLN;965;Helix;0.56;-72.1;-13.7
+A;LEU;966;Other (turns, coils, etc.);2.73;-68.1;-31.1
+A;SER;967;Other (turns, coils, etc.);27.3;-67.4;-32.5
+A;SER;968;Other (turns, coils, etc.);0.85;-62.6;146.1
+A;ASN;969;Other (turns, coils, etc.);25.27;-117.0;129.3
+A;PHE;970;Other (turns, coils, etc.);8.47;-96.0;63.3
+A;GLY;971;Other (turns, coils, etc.);29.22;78.1;6.2
+A;ALA;972;Other (turns, coils, etc.);5.44;-85.2;153.5
+A;ILE;973;Other (turns, coils, etc.);47.03;-63.6;-23.0
+A;SER;974;Other (turns, coils, etc.);18.77;-149.9;161.3
+A;SER;975;Other (turns, coils, etc.);5.12;-91.5;-9.3
+A;VAL;976;Other (turns, coils, etc.);5.2;-93.8;121.6
+A;LEU;977;Helix;6.01;-60.4;-43.8
+A;ASN;978;Helix;25.96;-59.7;-44.9
+A;ASP;979;Helix;9.72;-59.6;-40.6
+A;ILE;980;Helix;0.0;-64.7;-48.4
+A;LEU;981;Helix;15.84;-63.8;-39.0
+A;SER;982;Helix;1.71;-61.2;-41.6
+A;ARG;983;Helix;24.02;-92.7;-24.3
+A;LEU;984;Other (turns, coils, etc.);9.83;-123.0;138.5
+A;ASP;985;Other (turns, coils, etc.);16.66;-67.7;162.3
+A;LYS;986;Helix;60.77;-59.0;-43.1
+A;VAL;987;Helix;46.19;-61.8;-46.9
+A;GLU;988;Helix;47.51;-68.9;-40.7
+A;ALA;989;Helix;2.72;-58.6;-42.2
+A;GLU;990;Helix;44.65;-55.7;-39.7
+A;VAL;991;Helix;31.88;-61.6;-45.0
+A;GLN;992;Helix;6.16;-67.1;-41.9
+A;ILE;993;Helix;2.7;-63.2;-42.6
+A;ASP;994;Helix;17.35;-60.9;-40.7
+A;ARG;995;Helix;32.75;-58.2;-43.5
+A;LEU;996;Helix;0.0;-65.0;-40.4
+A;ILE;997;Helix;0.54;-61.6;-48.5
+A;THR;998;Helix;43.26;-64.3;-43.8
+A;GLY;999;Helix;10.17;-70.1;-37.1
+A;ARG;1000;Helix;7.86;-65.8;-40.1
+A;LEU;1001;Helix;3.82;-60.2;-43.5
+A;GLN;1002;Helix;19.04;-60.7;-41.9
+A;SER;1003;Helix;2.56;-59.8;-43.2
+A;LEU;1004;Helix;2.73;-63.4;-43.0
+A;GLN;1005;Helix;10.08;-61.3;-43.3
+A;THR;1006;Helix;12.98;-61.6;-43.3
+A;TYR;1007;Helix;2.81;-60.6;-46.8
+A;VAL;1008;Helix;2.6;-62.2;-42.9
+A;THR;1009;Helix;16.58;-60.6;-44.0
+A;GLN;1010;Helix;14.56;-61.8;-42.6
+A;GLN;1011;Helix;1.12;-62.5;-40.5
+A;LEU;1012;Helix;13.11;-61.7;-43.2
+A;ILE;1013;Helix;15.14;-64.1;-42.7
+A;ARG;1014;Helix;20.52;-61.7;-41.3
+A;ALA;1015;Helix;3.63;-59.5;-41.9
+A;ALA;1016;Helix;37.21;-60.2;-42.1
+A;GLU;1017;Helix;46.37;-63.7;-43.4
+A;ILE;1018;Helix;8.11;-62.2;-41.8
+A;ARG;1019;Helix;10.48;-60.2;-44.2
+A;ALA;1020;Helix;48.09;-62.2;-44.1
+A;SER;1021;Helix;16.21;-62.8;-43.2
+A;ALA;1022;Helix;0.0;-63.3;-42.5
+A;ASN;1023;Helix;40.98;-61.8;-40.7
+A;LEU;1024;Helix;38.23;-62.5;-43.1
+A;ALA;1025;Helix;0.0;-61.6;-40.9
+A;ALA;1026;Helix;15.43;-63.4;-44.2
+A;THR;1027;Helix;30.28;-62.8;-40.0
+A;LYS;1028;Helix;5.35;-63.3;-41.7
+A;MET;1029;Helix;0.0;-60.6;-49.3
+A;SER;1030;Helix;10.24;-66.8;-48.4
+A;GLU;1031;Helix;2.86;-74.3;-33.8
+A;CYS;1032;Helix;0.0;-105.7;-32.6
+A;VAL;1033;Other (turns, coils, etc.);0.0;-87.2;-41.4
+A;LEU;1034;Other (turns, coils, etc.);2.18;-92.5;-5.3
+A;GLY;1035;Other (turns, coils, etc.);3.81;-146.9;-164.9
+A;GLN;1036;Other (turns, coils, etc.);18.48;-123.3;122.0
+A;SER;1037;Other (turns, coils, etc.);11.95;-98.2;139.1
+A;LYS;1038;Other (turns, coils, etc.);71.95;-100.5;3.8
+A;ARG;1039;Other (turns, coils, etc.);15.28;-75.8;127.9
+A;VAL;1040;Other (turns, coils, etc.);23.42;-67.1;124.5
+A;ASP;1041;Other (turns, coils, etc.);34.7;60.8;10.6
+A;PHE;1042;Other (turns, coils, etc.);7.97;-67.9;-41.1
+A;CYS;1043;Other (turns, coils, etc.);1.42;-115.9;42.1
+A;GLY;1044;Other (turns, coils, etc.);15.25;93.2;150.8
+A;LYS;1045;Other (turns, coils, etc.);44.73;-65.1;135.8
+A;GLY;1046;Other (turns, coils, etc.);11.44;103.7;-175.8
+A;TYR;1047;Sheet;21.06;-85.2;116.1
+A;HIS;1048;Sheet;5.5;-60.6;130.0
+A;LEU;1049;Sheet;0.0;-104.4;-54.8
+A;MET;1050;Sheet;1.0;-163.4;166.3
+A;SER;1051;Sheet;0.0;-141.6;147.8
+A;PHE;1052;Sheet;0.0;-119.9;123.5
+A;PRO;1053;Sheet;0.0;-79.7;143.9
+A;GLN;1054;Sheet;0.0;-131.5;135.4
+A;SER;1055;Sheet;5.97;-67.4;147.6
+A;ALA;1056;Sheet;11.8;-149.7;149.8
+A;PRO;1057;Other (turns, coils, etc.);6.34;-59.6;121.9
+A;HIS;1058;Other (turns, coils, etc.);20.34;60.3;22.6
+A;GLY;1059;Sheet;2.54;-165.6;-178.9
+A;VAL;1060;Sheet;0.0;-130.8;137.6
+A;VAL;1061;Sheet;1.3;-108.7;121.9
+A;PHE;1062;Sheet;0.0;-101.2;128.6
+A;LEU;1063;Sheet;1.09;-98.0;111.7
+A;HIS;1064;Sheet;0.55;-103.7;122.4
+A;VAL;1065;Sheet;0.0;-98.1;118.0
+A;THR;1066;Sheet;0.72;-126.1;150.7
+A;TYR;1067;Sheet;0.0;-93.5;124.5
+A;VAL;1068;Sheet;22.77;-118.0;127.6
+A;PRO;1069;Sheet;10.57;-59.2;133.4
+A;ALA;1070;Other (turns, coils, etc.);17.24;-98.9;-139.8
+A;GLN;1071;Other (turns, coils, etc.);63.83;-54.2;136.2
+A;GLU;1072;Sheet;49.23;-116.0;167.4
+A;LYS;1073;Sheet;56.39;-138.0;138.9
+A;ASN;1074;Sheet;76.5;-64.7;135.9
+A;PHE;1075;Sheet;7.47;-145.3;141.6
+A;THR;1076;Sheet;47.58;-66.9;137.7
+A;THR;1077;Sheet;4.33;-130.3;158.1
+A;ALA;1078;Sheet;0.91;-143.1;138.7
+A;PRO;1079;Other (turns, coils, etc.);13.39;-64.9;-30.8
+A;ALA;1080;Other (turns, coils, etc.);0.0;-155.6;163.2
+A;ILE;1081;Sheet;0.0;-116.7;133.2
+A;CYS;1082;Sheet;13.53;-97.8;106.3
+A;HIS;1083;Other (turns, coils, etc.);42.88;-88.7;-49.3
+A;ASP;1084;Other (turns, coils, etc.);83.28;-159.2;67.3
+A;GLY;1085;Other (turns, coils, etc.);55.91;75.3;-3.9
+A;LYS;1086;Sheet;41.32;-117.0;139.2
+A;ALA;1087;Sheet;0.0;-86.6;129.0
+A;HIS;1088;Sheet;7.15;-110.6;129.5
+A;PHE;1089;Sheet;0.0;-115.5;141.2
+A;PRO;1090;Sheet;4.23;-75.0;141.0
+A;ARG;1091;Other (turns, coils, etc.);55.9;-71.2;-51.5
+A;GLU;1092;Other (turns, coils, etc.);57.81;-116.5;-26.2
+A;GLY;1093;Other (turns, coils, etc.);0.0;-94.3;-161.8
+A;VAL;1094;Sheet;0.65;-129.3;137.0
+A;PHE;1095;Sheet;0.0;-71.7;125.7
+A;VAL;1096;Sheet;0.0;-129.7;148.0
+A;SER;1097;Sheet;5.12;-118.9;136.4
+A;ASN;1098;Other (turns, coils, etc.);60.79;-81.3;-12.4
+A;GLY;1099;Other (turns, coils, etc.);71.16;148.3;-51.2
+A;THR;1100;Other (turns, coils, etc.);86.52;-123.4;-4.3
+A;HIS;1101;Other (turns, coils, etc.);61.57;-136.4;138.1
+A;TRP;1102;Sheet;17.05;-102.8;135.4
+A;PHE;1103;Sheet;20.93;-132.3;164.3
+A;VAL;1104;Sheet;1.3;-113.1;139.6
+A;THR;1105;Sheet;2.16;-151.0;151.5
+A;GLN;1106;Other (turns, coils, etc.);12.32;-62.2;144.7
+A;ARG;1107;Other (turns, coils, etc.);15.72;-66.5;-41.2
+A;ASN;1108;Other (turns, coils, etc.);16.39;-77.3;-22.5
+A;PHE;1109;Other (turns, coils, etc.);9.47;-147.4;137.4
+A;TYR;1110;Other (turns, coils, etc.);21.53;-81.4;97.7
+A;GLU;1111;Other (turns, coils, etc.);30.34;-121.4;74.1
+A;PRO;1112;Other (turns, coils, etc.);39.46;-58.8;122.1
+A;GLN;1113;Sheet;45.91;-124.3;149.7
+A;ILE;1114;Sheet;61.62;-59.0;139.3
+A;ILE;1115;Other (turns, coils, etc.);1.62;-74.3;121.5
+A;THR;1116;Sheet;10.81;-130.6;166.5
+A;THR;1117;Other (turns, coils, etc.);44.7;-64.1;-36.3
+A;ASP;1118;Other (turns, coils, etc.);58.29;-66.1;-45.8
+A;ASN;1119;Other (turns, coils, etc.);17.76;-64.1;-36.3
+A;THR;1120;Sheet;1.44;-112.3;165.8
+A;PHE;1121;Sheet;21.92;-122.5;139.7
+A;VAL;1122;Sheet;43.59;-98.2;132.3
+A;SER;1123;Sheet;11.09;-149.6;145.7
+A;GLY;1124;Sheet;52.1;52.7;-165.7
+A;ASN;1125;Sheet;64.89;-106.3;165.9
+A;CYS;1126;Other (turns, coils, etc.);12.11;-63.3;-35.5
+A;ASP;1127;Other (turns, coils, etc.);86.75;-59.7;-38.6
+A;VAL;1128;Other (turns, coils, etc.);33.83;-62.3;-30.2
+A;VAL;1129;Other (turns, coils, etc.);3.25;-86.3;115.8
+A;ILE;1130;Other (turns, coils, etc.);61.62;-58.3;-41.6
+A;GLY;1131;Other (turns, coils, etc.);41.93;-103.6;16.1
+A;ILE;1132;Other (turns, coils, etc.);22.16;-60.8;143.0
+A;VAL;1133;Sheet;24.72;-124.0;164.0
+A;ASN;1134;Sheet;94.95;-92.9;128.0
+A;ASN;1135;Other (turns, coils, etc.);31.42;-161.6;171.7
+A;THR;1136;Other (turns, coils, etc.);68.49;-105.4;138.3
+A;VAL;1137;Other (turns, coils, etc.);2.6;-101.5;115.8
+A;TYR;1138;Sheet;50.07;-66.4;139.9
+A;ASP;1139;Other (turns, coils, etc.);38.17;-108.1;119.0
+A;PRO;1140;Other (turns, coils, etc.);40.87;-69.9;-18.9
+A;LEU;1141;Other (turns, coils, etc.);36.59;-75.6;-40.8
+A;GLN;1142;Other (turns, coils, etc.);72.23;-66.2;-18.8
+A;PRO;1143;Other (turns, coils, etc.);48.63;-76.7;-21.8
+A;GLU;1144;Other (turns, coils, etc.);120.21;-92.8;0.0
+B;GLN;14;Other (turns, coils, etc.);76.15;0.0;-81.6
+B;CYS;15;Other (turns, coils, etc.);12.82;-58.8;157.9
+B;VAL;16;Other (turns, coils, etc.);40.34;-141.3;160.3
+B;ASN;17;Other (turns, coils, etc.);51.91;-68.1;148.3
+B;LEU;18;Other (turns, coils, etc.);3.82;-95.7;110.1
+B;THR;19;Other (turns, coils, etc.);49.03;-94.2;168.6
+B;THR;20;Other (turns, coils, etc.);74.98;61.1;61.1
+B;ARG;21;Other (turns, coils, etc.);23.58;-127.8;131.5
+B;THR;22;Other (turns, coils, etc.);36.05;-83.7;122.8
+B;GLN;23;Other (turns, coils, etc.);78.39;-96.7;99.9
+B;LEU;24;Other (turns, coils, etc.);43.69;-116.8;133.7
+B;PRO;25;Other (turns, coils, etc.);74.7;-53.0;150.3
+B;PRO;26;Other (turns, coils, etc.);26.78;-70.2;167.2
+B;ALA;27;Sheet;29.95;-89.3;169.4
+B;TYR;28;Sheet;73.47;-119.9;137.5
+B;THR;29;Sheet;14.42;-134.9;-174.7
+B;ASN;30;Sheet;46.45;-136.2;160.9
+B;SER;31;Sheet;0.85;-107.4;105.5
+B;PHE;32;Other (turns, coils, etc.);39.86;-57.8;-55.5
+B;THR;33;Other (turns, coils, etc.);6.49;-148.4;18.6
+B;ARG;34;Other (turns, coils, etc.);6.55;-81.2;162.5
+B;GLY;35;Other (turns, coils, etc.);1.27;86.1;5.2
+B;VAL;36;Sheet;0.65;-76.5;134.9
+B;TYR;37;Sheet;0.0;-136.0;163.6
+B;TYR;38;Other (turns, coils, etc.);4.68;-71.8;122.3
+B;PRO;39;Other (turns, coils, etc.);21.14;-70.1;-38.3
+B;ASP;40;Other (turns, coils, etc.);28.45;-138.8;172.4
+B;LYS;41;Other (turns, coils, etc.);34.52;-96.2;15.7
+B;VAL;42;Sheet;4.55;-78.6;131.1
+B;PHE;43;Sheet;0.5;-80.1;132.9
+B;ARG;44;Other (turns, coils, etc.);8.3;-137.8;136.4
+B;SER;45;Other (turns, coils, etc.);0.0;-133.8;131.7
+B;SER;46;Other (turns, coils, etc.);52.9;59.8;45.2
+B;VAL;47;Sheet;14.31;-142.0;158.0
+B;LEU;48;Sheet;30.58;-112.6;120.5
+B;HIS;49;Sheet;27.49;-117.2;136.7
+B;SER;50;Sheet;39.25;-108.7;130.3
+B;THR;51;Sheet;18.75;-145.3;151.9
+B;GLN;52;Sheet;45.35;-122.4;123.1
+B;ASP;53;Sheet;29.15;-157.0;177.1
+B;LEU;54;Sheet;17.48;-67.6;116.1
+B;PHE;55;Sheet;0.0;-132.5;161.6
+B;LEU;56;Other (turns, coils, etc.);0.55;-81.6;123.0
+B;PRO;57;Other (turns, coils, etc.);9.16;-67.7;146.8
+B;PHE;58;Other (turns, coils, etc.);7.97;-66.6;137.6
+B;PHE;59;Other (turns, coils, etc.);48.33;55.8;34.4
+B;SER;60;Sheet;15.36;-69.9;154.7
+B;ASN;61;Sheet;77.87;-70.2;122.9
+B;VAL;62;Sheet;0.0;-121.6;134.7
+B;THR;63;Sheet;18.02;-92.8;131.3
+B;TRP;64;Sheet;8.32;-111.4;115.8
+B;PHE;65;Sheet;4.98;-111.2;128.9
+B;HIS;66;Sheet;16.49;-143.3;128.8
+B;ALA;67;Sheet;7.26;-92.0;107.5
+B;ILE;68;Other (turns, coils, etc.);29.19;-119.3;125.7
+B;HIS;69;Other (turns, coils, etc.);7.7;-123.3;29.1
+B;VAL;70;Other (turns, coils, etc.);48.8;-60.3;147.5
+B;SER;71;Other (turns, coils, etc.);102.39;-68.0;-41.7
+B;GLY;72;Other (turns, coils, etc.);85.13;-77.6;0.9
+B;THR;73;Other (turns, coils, etc.);36.05;-98.1;4.4
+B;ASN;74;Other (turns, coils, etc.);116.8;64.5;25.8
+B;GLY;75;Other (turns, coils, etc.);43.2;126.5;-0.2
+B;THR;76;Other (turns, coils, etc.);26.68;-58.9;13.8
+B;LYS;77;Other (turns, coils, etc.);17.02;-50.7;125.2
+B;ARG;78;Other (turns, coils, etc.);10.48;-146.8;145.8
+B;PHE;79;Other (turns, coils, etc.);0.5;-106.3;-15.6
+B;ASP;80;Other (turns, coils, etc.);8.33;39.7;60.0
+B;ASN;81;Other (turns, coils, etc.);18.44;-120.5;102.2
+B;PRO;82;Other (turns, coils, etc.);32.42;-123.5;178.9
+B;VAL;83;Other (turns, coils, etc.);39.69;-96.2;124.1
+B;LEU;84;Sheet;10.38;-111.3;139.6
+B;PRO;85;Sheet;39.46;-66.6;153.6
+B;PHE;86;Other (turns, coils, etc.);8.47;-105.5;99.9
+B;ASN;87;Other (turns, coils, etc.);46.45;-101.5;100.6
+B;ASP;88;Other (turns, coils, etc.);60.37;42.4;38.4
+B;GLY;89;Other (turns, coils, etc.);0.0;100.8;146.4
+B;VAL;90;Sheet;0.0;-132.6;158.0
+B;TYR;91;Sheet;0.0;-112.8;131.8
+B;PHE;92;Sheet;0.0;-127.4;124.3
+B;ALA;93;Sheet;0.0;-123.2;132.8
+B;SER;94;Sheet;2.56;-121.0;129.8
+B;THR;95;Sheet;1.44;-113.2;105.3
+B;GLU;96;Sheet;2.29;-140.2;170.6
+B;LYS;97;Other (turns, coils, etc.);12.15;-127.1;-26.8
+B;SER;98;Other (turns, coils, etc.);4.27;-99.1;7.6
+B;ASN;99;Other (turns, coils, etc.);18.44;57.8;37.1
+B;ILE;100;Other (turns, coils, etc.);3.24;-62.7;-41.2
+B;ILE;101;Sheet;12.43;-69.1;119.2
+B;ARG;102;Sheet;5.24;-111.5;-15.9
+B;GLY;103;Sheet;3.81;155.6;-161.6
+B;TRP;104;Sheet;7.9;-149.7;150.0
+B;ILE;105;Sheet;0.0;-120.2;134.5
+B;PHE;106;Sheet;0.0;-127.8;126.1
+B;GLY;107;Sheet;0.0;-170.7;162.9
+B;THR;108;Other (turns, coils, etc.);15.86;-73.9;-56.1
+B;THR;109;Other (turns, coils, etc.);36.05;-107.6;-34.9
+B;LEU;110;Other (turns, coils, etc.);6.01;74.8;12.0
+B;ASP;111;Sheet;34.0;-114.2;13.3
+B;SER;112;Other (turns, coils, etc.);33.28;81.0;0.4
+B;LYS;113;Other (turns, coils, etc.);48.13;-80.7;-15.8
+B;THR;114;Other (turns, coils, etc.);24.51;-136.7;152.6
+B;GLN;115;Other (turns, coils, etc.);6.16;-59.4;138.6
+B;SER;116;Sheet;0.0;-130.6;157.4
+B;LEU;117;Sheet;0.0;-105.5;129.7
+B;LEU;118;Sheet;1.09;-114.6;124.5
+B;ILE;119;Sheet;3.78;-120.2;117.4
+B;VAL;120;Sheet;2.6;-148.2;138.0
+B;ASN;121;Sheet;23.91;-101.2;113.3
+B;ASN;122;Other (turns, coils, etc.);40.3;-66.4;-62.1
+B;ALA;123;Other (turns, coils, etc.);16.33;-154.6;-23.2
+B;THR;124;Other (turns, coils, etc.);26.68;-126.3;-45.1
+B;ASN;125;Other (turns, coils, etc.);12.98;-128.2;140.4
+B;VAL;126;Sheet;33.18;-71.1;129.5
+B;VAL;127;Sheet;15.61;-121.2;127.9
+B;ILE;128;Sheet;3.78;-124.1;117.8
+B;LYS;129;Sheet;15.56;-131.3;140.6
+B;VAL;130;Sheet;0.0;-115.9;110.6
+B;CYS;131;Sheet;0.0;-147.7;165.5
+B;GLU;132;Other (turns, coils, etc.);10.3;-77.9;81.1
+B;PHE;133;Other (turns, coils, etc.);0.0;-78.8;136.7
+B;GLN;134;Sheet;38.63;-86.0;86.5
+B;PHE;135;Sheet;6.98;-70.6;140.7
+B;CYS;136;Sheet;16.38;-92.9;169.3
+B;ASN;137;Sheet;89.48;-59.4;-45.5
+B;ASP;138;Sheet;14.57;-112.3;103.9
+B;PRO;139;Sheet;0.0;-96.5;121.0
+B;PHE;140;Sheet;0.0;-152.1;172.4
+B;LEU;141;Sheet;0.0;-120.2;153.6
+B;GLY;142;Sheet;2.54;-127.2;137.5
+B;VAL;143;Sheet;5.2;-119.5;145.3
+B;TYR;144;Sheet;46.33;-117.6;133.0
+B;TYR;145;Sheet;29.95;-103.0;112.0
+B;HIS;146;Sheet;28.59;-87.5;121.7
+B;LYS;147;Other (turns, coils, etc.);63.68;-75.9;-36.7
+B;ASN;148;Other (turns, coils, etc.);88.8;-61.0;-47.5
+B;ASN;149;Other (turns, coils, etc.);86.07;-121.5;119.1
+B;LYS;150;Other (turns, coils, etc.);67.57;-68.4;87.7
+B;SER;151;Sheet;36.69;-142.4;165.9
+B;TRP;152;Sheet;25.36;-141.4;126.1
+B;MET;153;Other (turns, coils, etc.);68.97;-107.4;-5.6
+B;GLU;154;Other (turns, coils, etc.);16.03;51.1;73.0
+B;SER;155;Sheet;71.67;-100.0;-155.5
+B;GLU;156;Sheet;20.03;43.1;49.7
+B;PHE;157;Sheet;38.86;-79.2;114.3
+B;ARG;158;Sheet;24.02;-158.7;60.3
+B;VAL;159;Sheet;0.0;-75.1;-40.9
+B;TYR;160;Sheet;19.65;-134.5;164.4
+B;SER;161;Sheet;45.22;-101.2;-18.7
+B;SER;162;Sheet;44.37;-161.1;163.5
+B;ALA;163;Other (turns, coils, etc.);36.3;-125.5;177.4
+B;ASN;164;Other (turns, coils, etc.);61.48;-145.3;-123.4
+B;ASN;165;Other (turns, coils, etc.);63.52;-59.7;-38.8
+B;CYS;166;Other (turns, coils, etc.);31.34;59.0;59.6
+B;THR;167;Other (turns, coils, etc.);46.14;-66.4;-30.4
+B;PHE;168;Sheet;20.43;-132.0;132.6
+B;GLU;169;Sheet;56.1;-135.9;135.6
+B;TYR;170;Sheet;48.2;-147.7;119.6
+B;VAL;171;Sheet;54.65;-130.7;126.7
+B;SER;172;Other (turns, coils, etc.);15.36;-82.9;161.9
+B;GLN;173;Other (turns, coils, etc.);71.67;-61.8;149.0
+B;PRO;174;Other (turns, coils, etc.);71.18;-68.1;138.8
+B;PHE;175;Other (turns, coils, etc.);54.31;-121.7;-155.4
+B;LEU;176;Other (turns, coils, etc.);85.75;-147.8;154.5
+B;MET;177;Other (turns, coils, etc.);34.98;-149.1;153.4
+B;ASP;178;Other (turns, coils, etc.);62.46;-71.9;146.4
+B;LEU;179;Other (turns, coils, etc.);12.56;-117.3;-1.9
+B;GLU;180;Other (turns, coils, etc.);21.18;-119.9;-78.0
+B;GLY;181;Other (turns, coils, etc.);25.41;45.3;42.3
+B;LYS;182;Other (turns, coils, etc.);43.27;-94.9;88.4
+B;GLN;183;Other (turns, coils, etc.);59.35;-109.1;4.5
+B;GLY;184;Other (turns, coils, etc.);50.83;117.7;-111.0
+B;ASN;185;Other (turns, coils, etc.);47.81;-59.5;141.8
+B;PHE;186;Other (turns, coils, etc.);6.48;-64.8;142.5
+B;LYS;187;Other (turns, coils, etc.);39.38;-123.4;-11.8
+B;ASN;188;Other (turns, coils, etc.);19.13;-86.6;-52.4
+B;LEU;189;Other (turns, coils, etc.);0.55;48.5;64.0
+B;ARG;190;Sheet;30.13;-87.0;124.4
+B;GLU;191;Sheet;0.0;-111.7;129.0
+B;PHE;192;Sheet;16.94;-131.1;140.3
+B;VAL;193;Sheet;0.0;-119.8;132.3
+B;PHE;194;Sheet;0.0;-119.1;127.5
+B;LYS;195;Sheet;2.92;-136.0;130.6
+B;ASN;196;Sheet;31.42;-114.5;113.6
+B;ILE;197;Sheet;36.22;-147.6;134.3
+B;ASP;198;Other (turns, coils, etc.);47.19;47.1;42.8
+B;GLY;199;Other (turns, coils, etc.);10.17;78.2;2.9
+B;TYR;200;Sheet;11.7;-113.4;129.2
+B;PHE;201;Sheet;0.0;-97.9;113.7
+B;LYS;202;Sheet;17.99;-104.4;125.5
+B;ILE;203;Sheet;3.78;-116.1;128.5
+B;TYR;204;Sheet;6.55;-116.5;140.2
+B;SER;205;Sheet;25.6;-139.9;154.9
+B;LYS;206;Sheet;30.63;-154.0;148.6
+B;HIS;207;Sheet;47.83;-132.2;125.3
+B;THR;208;Other (turns, coils, etc.);24.51;-135.6;120.5
+B;PRO;209;Other (turns, coils, etc.);74.0;-65.0;143.1
+B;ILE;210;Other (turns, coils, etc.);23.24;-139.9;164.3
+B;ASN;211;Other (turns, coils, etc.);79.23;-121.9;11.8
+B;LEU;212;Other (turns, coils, etc.);34.95;-69.1;127.1
+B;VAL;213;Other (turns, coils, etc.);54.0;-63.7;-42.7
+B;ARG;214;Other (turns, coils, etc.);63.76;-160.8;23.8
+B;ASP;215;Other (turns, coils, etc.);45.11;-137.7;166.1
+B;LEU;216;Other (turns, coils, etc.);5.46;-83.3;122.9
+B;PRO;217;Other (turns, coils, etc.);5.64;-80.7;132.5
+B;GLN;218;Other (turns, coils, etc.);82.31;-74.6;111.1
+B;GLY;219;Other (turns, coils, etc.);25.41;-178.1;157.7
+B;PHE;220;Other (turns, coils, etc.);27.9;-87.8;139.1
+B;SER;221;Other (turns, coils, etc.);2.56;-147.6;132.0
+B;ALA;222;Sheet;6.35;-98.8;128.2
+B;LEU;223;Sheet;0.0;-97.8;122.3
+B;GLU;224;Sheet;42.36;-77.3;144.8
+B;PRO;225;Sheet;21.14;-59.2;124.6
+B;LEU;226;Sheet;57.35;-96.5;-57.0
+B;VAL;227;Sheet;22.77;-156.6;146.2
+B;ASP;228;Sheet;40.25;-117.0;86.6
+B;LEU;229;Sheet;1.64;-75.2;138.2
+B;PRO;230;Other (turns, coils, etc.);11.98;-99.1;64.8
+B;ILE;231;Other (turns, coils, etc.);0.54;-62.9;-41.2
+B;GLY;232;Other (turns, coils, etc.);2.54;64.0;28.8
+B;ILE;233;Other (turns, coils, etc.);5.41;-122.0;152.5
+B;ASN;234;Other (turns, coils, etc.);56.69;-75.5;135.8
+B;ILE;235;Other (turns, coils, etc.);5.95;-133.0;119.2
+B;THR;236;Other (turns, coils, etc.);47.58;-121.1;-7.9
+B;ARG;237;Sheet;41.48;-146.3;156.8
+B;PHE;238;Sheet;0.0;-144.3;162.4
+B;GLN;239;Sheet;10.08;-136.1;164.9
+B;THR;240;Sheet;0.0;-111.5;119.7
+B;LEU;241;Sheet;0.0;-80.9;132.7
+B;LEU;242;Sheet;1.64;-129.3;153.0
+B;ALA;243;Sheet;2.72;-110.2;142.8
+B;LEU;244;Sheet;0.0;-131.3;141.6
+B;HIS;245;Sheet;8.25;-106.8;128.1
+B;ARG;246;Sheet;3.93;-115.2;135.8
+B;SER;247;Other (turns, coils, etc.);25.6;-136.9;-98.8
+B;TYR;248;Other (turns, coils, etc.);61.77;-112.2;8.0
+B;LEU;249;Other (turns, coils, etc.);58.98;-106.9;123.0
+B;THR;250;Other (turns, coils, etc.);70.66;41.8;59.7
+B;PRO;251;Other (turns, coils, etc.);75.41;-63.7;162.9
+B;GLY;252;Other (turns, coils, etc.);69.89;143.9;-9.3
+B;ASP;253;Other (turns, coils, etc.);63.84;76.2;-22.2
+B;SER;254;Other (turns, coils, etc.);38.4;-88.0;-41.8
+B;SER;255;Other (turns, coils, etc.);26.45;-128.9;31.6
+B;SER;256;Other (turns, coils, etc.);8.53;-66.6;55.7
+B;GLY;257;Other (turns, coils, etc.);12.71;51.8;34.5
+B;TRP;258;Other (turns, coils, etc.);0.0;-73.5;64.1
+B;THR;259;Sheet;39.65;-70.3;126.2
+B;ALA;260;Other (turns, coils, etc.);0.0;-106.4;116.8
+B;GLY;261;Other (turns, coils, etc.);33.04;-67.3;-26.0
+B;ALA;262;Other (turns, coils, etc.);12.7;166.0;127.7
+B;ALA;263;Sheet;4.54;-157.1;157.4
+B;ALA;264;Sheet;1.81;-143.0;144.8
+B;TYR;265;Sheet;2.34;-143.3;147.2
+B;TYR;266;Sheet;0.0;-126.7;130.2
+B;VAL;267;Sheet;0.65;-116.6;127.5
+B;GLY;268;Sheet;0.0;-128.4;163.4
+B;TYR;269;Sheet;21.99;-115.0;137.4
+B;LEU;270;Other (turns, coils, etc.);0.0;-76.5;156.9
+B;GLN;271;Sheet;37.51;-147.0;149.9
+B;PRO;272;Sheet;52.15;-59.4;127.3
+B;ARG;273;Sheet;24.89;-151.5;159.4
+B;THR;274;Sheet;19.47;-109.7;119.3
+B;PHE;275;Sheet;0.0;-121.5;137.6
+B;LEU;276;Sheet;1.09;-98.0;123.0
+B;LEU;277;Sheet;0.0;-115.8;130.3
+B;LYS;278;Sheet;42.78;-100.5;121.9
+B;TYR;279;Sheet;0.94;-95.2;130.4
+B;ASN;280;Other (turns, coils, etc.);43.03;-67.8;172.4
+B;GLU;281;Other (turns, coils, etc.);83.0;-60.0;-36.5
+B;ASN;282;Other (turns, coils, etc.);79.23;-88.0;9.5
+B;GLY;283;Other (turns, coils, etc.);0.0;78.7;8.1
+B;THR;284;Other (turns, coils, etc.);32.44;-83.3;145.0
+B;ILE;285;Sheet;4.86;-77.8;122.8
+B;THR;286;Sheet;44.7;-114.9;-12.4
+B;ASP;287;Sheet;29.15;-159.0;159.7
+B;ALA;288;Sheet;5.44;-154.2;153.7
+B;VAL;289;Sheet;6.51;-125.7;123.8
+B;ASP;290;Sheet;1.39;-90.9;111.0
+B;CYS;291;Other (turns, coils, etc.);1.42;-62.1;-30.3
+B;ALA;292;Other (turns, coils, etc.);12.7;-88.0;-6.3
+B;LEU;293;Other (turns, coils, etc.);8.74;-62.5;-48.8
+B;ASP;294;Other (turns, coils, etc.);17.35;-159.7;166.6
+B;PRO;295;Helix;0.0;-62.8;-31.3
+B;LEU;296;Helix;2.18;-69.3;-43.4
+B;SER;297;Helix;10.24;-64.0;-38.8
+B;GLU;298;Helix;0.0;-58.7;-46.5
+B;THR;299;Helix;1.44;-65.4;-38.9
+B;LYS;300;Helix;10.7;-59.0;-42.1
+B;CYS;301;Helix;5.7;-62.4;-43.2
+B;THR;302;Helix;28.12;-62.4;-44.0
+B;LEU;303;Helix;38.23;-75.6;-21.5
+B;LYS;304;Other (turns, coils, etc.);50.56;67.7;38.1
+B;SER;305;Other (turns, coils, etc.);29.01;-146.5;145.8
+B;PHE;306;Other (turns, coils, etc.);43.35;-67.7;-41.2
+B;THR;307;Other (turns, coils, etc.);52.63;-92.5;139.5
+B;VAL;308;Other (turns, coils, etc.);0.65;-132.4;123.5
+B;GLU;309;Other (turns, coils, etc.);66.4;-80.1;-171.9
+B;LYS;310;Other (turns, coils, etc.);51.53;-75.1;131.0
+B;GLY;311;Sheet;16.52;-179.2;168.8
+B;ILE;312;Other (turns, coils, etc.);23.78;-70.2;-37.3
+B;TYR;313;Other (turns, coils, etc.);25.27;39.6;79.7
+B;GLN;314;Sheet;38.63;-57.7;132.8
+B;THR;315;Other (turns, coils, etc.);9.37;-118.4;144.1
+B;SER;316;Other (turns, coils, etc.);32.42;-76.9;149.0
+B;ASN;317;Other (turns, coils, etc.);31.42;-72.1;121.3
+B;PHE;318;Other (turns, coils, etc.);30.39;-112.8;23.7
+B;ARG;319;Other (turns, coils, etc.);13.97;-117.4;150.0
+B;VAL;320;Other (turns, coils, etc.);63.76;-85.8;147.7
+B;GLN;321;Other (turns, coils, etc.);8.96;-134.2;-33.1
+B;PRO;322;Other (turns, coils, etc.);31.01;-98.5;125.1
+B;THR;323;Other (turns, coils, etc.);85.8;-122.0;-2.8
+B;GLU;324;Sheet;38.92;-115.6;134.3
+B;SER;325;Sheet;74.23;-122.1;127.4
+B;ILE;326;Sheet;3.78;-120.9;144.1
+B;VAL;327;Sheet;15.61;-123.9;126.3
+B;ARG;328;Sheet;7.42;-124.9;108.0
+B;PHE;329;Other (turns, coils, etc.);1.99;-125.2;150.1
+B;PRO;330;Other (turns, coils, etc.);18.32;-68.0;167.8
+B;ASN;331;Other (turns, coils, etc.);83.33;-86.5;98.1
+B;ILE;332;Other (turns, coils, etc.);20.0;-121.8;124.4
+B;THR;333;Other (turns, coils, etc.);99.5;-109.8;-30.8
+B;ASN;334;Other (turns, coils, etc.);60.79;-81.1;128.8
+B;LEU;335;Sheet;48.06;-62.7;150.0
+B;CYS;336;Other (turns, coils, etc.);9.26;-60.1;144.6
+B;PRO;337;Other (turns, coils, etc.);27.48;-82.4;64.2
+B;PHE;338;Helix;14.95;-62.9;-36.2
+B;GLY;339;Helix;52.1;-50.7;-58.1
+B;GLU;340;Helix;74.41;-63.7;-40.7
+B;VAL;341;Helix;7.16;-68.5;-45.7
+B;PHE;342;Helix;8.47;-99.4;-44.6
+B;ASN;343;Other (turns, coils, etc.);90.85;-97.2;55.6
+B;ALA;344;Other (turns, coils, etc.);24.5;-97.3;144.6
+B;THR;345;Other (turns, coils, etc.);78.59;-59.9;-35.0
+B;ARG;346;Other (turns, coils, etc.);74.24;-138.5;151.4
+B;PHE;347;Other (turns, coils, etc.);9.97;-123.0;159.4
+B;ALA;348;Other (turns, coils, etc.);22.69;-75.5;151.5
+B;SER;349;Sheet;18.77;-63.3;147.5
+B;VAL;350;Other (turns, coils, etc.);0.0;-60.1;-39.9
+B;TYR;351;Other (turns, coils, etc.);18.72;-62.6;-40.8
+B;ALA;352;Other (turns, coils, etc.);28.13;-101.4;48.6
+B;TRP;353;Other (turns, coils, etc.);0.42;-54.7;133.5
+B;ASN;354;Sheet;58.06;-89.1;140.3
+B;ARG;355;Sheet;14.41;-123.4;121.4
+B;LYS;356;Sheet;40.84;-114.7;123.6
+B;ARG;357;Sheet;47.6;-66.7;137.2
+B;ILE;358;Other (turns, coils, etc.);6.49;-118.9;136.0
+B;SER;359;Other (turns, coils, etc.);46.93;-159.1;158.4
+B;ASN;360;Other (turns, coils, etc.);56.01;52.3;60.4
+B;CYS;361;Sheet;0.71;-147.0;145.9
+B;VAL;362;Sheet;18.87;-91.8;115.3
+B;ALA;363;Other (turns, coils, etc.);13.61;-84.6;73.8
+B;ASP;364;Other (turns, coils, etc.);27.06;-99.3;115.9
+B;TYR;365;Other (turns, coils, etc.);19.19;-92.7;3.3
+B;SER;366;Other (turns, coils, etc.);33.28;-62.6;-36.1
+B;VAL;367;Other (turns, coils, etc.);44.24;-59.6;-30.3
+B;LEU;368;Helix;8.74;-78.8;-14.2
+B;TYR;369;Helix;13.1;-60.6;-36.5
+B;ASN;370;Helix;59.43;-89.9;-36.5
+B;SER;371;Helix;80.2;-72.6;-35.1
+B;ALA;372;Other (turns, coils, etc.);28.13;-132.9;152.9
+B;SER;373;Other (turns, coils, etc.);15.36;-122.8;135.9
+B;PHE;374;Other (turns, coils, etc.);13.45;-119.5;114.8
+B;SER;375;Other (turns, coils, etc.);41.81;-59.9;-47.0
+B;THR;376;Sheet;38.21;-124.9;125.4
+B;PHE;377;Sheet;16.94;-133.8;115.8
+B;LYS;378;Sheet;45.7;-136.9;121.4
+B;CYS;379;Sheet;9.97;-106.6;137.2
+B;TYR;380;Other (turns, coils, etc.);37.9;-107.4;-44.5
+B;GLY;381;Other (turns, coils, etc.);13.98;-87.8;-10.4
+B;VAL;382;Other (turns, coils, etc.);1.95;-150.6;149.6
+B;SER;383;Other (turns, coils, etc.);7.68;-72.8;139.4
+B;PRO;384;Helix;16.91;-68.5;-27.7
+B;THR;385;Helix;30.28;-62.4;-31.9
+B;LYS;386;Helix;26.25;-90.2;-2.9
+B;LEU;387;Helix;5.46;-58.3;-34.8
+B;ASN;388;Helix;25.27;-65.7;-29.8
+B;ASP;389;Helix;34.7;-96.0;3.6
+B;LEU;390;Other (turns, coils, etc.);0.55;-109.9;162.5
+B;CYS;391;Sheet;0.0;-119.9;151.3
+B;PHE;392;Sheet;7.47;-124.2;116.5
+B;THR;393;Other (turns, coils, etc.);7.21;-67.2;-49.5
+B;ASN;394;Other (turns, coils, etc.);19.13;-133.7;59.6
+B;VAL;395;Other (turns, coils, etc.);5.86;-77.2;121.5
+B;TYR;396;Sheet;5.15;-117.8;142.9
+B;ALA;397;Sheet;3.63;-115.5;117.7
+B;ASP;398;Sheet;0.0;-104.7;117.8
+B;SER;399;Sheet;14.51;-119.6;132.2
+B;PHE;400;Sheet;0.0;-162.4;167.8
+B;VAL;401;Sheet;0.0;-119.4;136.1
+B;ILE;402;Sheet;0.0;-141.4;174.0
+B;ARG;403;Sheet;19.65;-74.0;162.2
+B;GLY;404;Helix;22.87;-65.1;-32.4
+B;ASP;405;Helix;10.41;-93.1;3.9
+B;GLU;406;Helix;0.0;-94.7;-7.3
+B;VAL;407;Helix;12.36;-60.2;-37.0
+B;ARG;408;Helix;24.45;-65.2;-18.9
+B;GLN;409;Helix;7.84;-79.3;-16.3
+B;ILE;410;Other (turns, coils, etc.);2.16;-84.2;64.5
+B;ALA;411;Other (turns, coils, etc.);19.96;-148.9;150.5
+B;PRO;412;Other (turns, coils, etc.);24.67;-55.6;133.7
+B;GLY;413;Other (turns, coils, etc.);11.44;78.6;-1.3
+B;GLN;414;Other (turns, coils, etc.);19.6;-75.6;161.0
+B;THR;415;Other (turns, coils, etc.);5.05;-137.9;159.4
+B;GLY;416;Other (turns, coils, etc.);7.62;133.6;168.6
+B;LYS;417;Helix;3.89;-55.8;-37.0
+B;ILE;418;Helix;0.0;-70.1;-45.9
+B;ALA;419;Helix;2.72;-65.1;-45.0
+B;ASP;420;Helix;7.63;-69.8;-46.5
+B;TYR;421;Helix;13.1;-124.5;6.3
+B;ASN;422;Other (turns, coils, etc.);0.0;-132.2;-56.1
+B;TYR;423;Other (turns, coils, etc.);1.87;-140.2;121.3
+B;LYS;424;Other (turns, coils, etc.);16.53;-120.9;123.9
+B;LEU;425;Other (turns, coils, etc.);2.18;-84.9;145.4
+B;PRO;426;Other (turns, coils, etc.);7.75;-60.4;152.4
+B;ASP;427;Other (turns, coils, etc.);36.09;-72.0;-42.5
+B;ASP;428;Other (turns, coils, etc.);89.52;-82.4;57.8
+B;PHE;429;Other (turns, coils, etc.);6.98;-84.4;120.0
+B;THR;430;Other (turns, coils, etc.);29.56;-103.5;116.6
+B;GLY;431;Sheet;0.0;155.9;-173.1
+B;CYS;432;Sheet;2.14;-129.2;142.7
+B;VAL;433;Sheet;3.25;-112.1;128.5
+B;ILE;434;Sheet;4.32;-126.5;130.3
+B;ALA;435;Sheet;0.0;-141.2;144.4
+B;TRP;436;Sheet;13.31;-148.1;151.6
+B;ASN;437;Sheet;26.64;-67.9;129.4
+B;SER;438;Other (turns, coils, etc.);5.97;-118.6;16.3
+B;ASN;439;Helix;13.66;-45.8;-41.8
+B;ASN;440;Helix;99.73;-62.2;-34.0
+B;LEU;441;Helix;60.08;-103.0;-27.1
+B;ASP;442;Helix;0.69;-107.6;3.5
+B;SER;443;Other (turns, coils, etc.);11.95;-117.5;154.0
+B;LYS;444;Other (turns, coils, etc.);55.91;-138.1;157.8
+B;VAL;445;Other (turns, coils, etc.);85.88;-61.2;-39.9
+B;GLY;446;Other (turns, coils, etc.);86.4;-81.8;-8.5
+B;GLY;447;Other (turns, coils, etc.);15.25;108.9;154.1
+B;ASN;448;Sheet;5.46;-117.5;111.5
+B;TYR;449;Other (turns, coils, etc.);59.9;-112.5;7.2
+B;ASN;450;Other (turns, coils, etc.);69.67;-66.6;-41.4
+B;TYR;451;Other (turns, coils, etc.);5.15;-70.9;137.5
+B;LEU;452;Sheet;25.12;-132.4;156.4
+B;TYR;453;Sheet;0.47;-138.3;154.7
+B;ARG;454;Sheet;2.18;-87.2;115.9
+B;LEU;455;Other (turns, coils, etc.);7.1;-85.5;-39.2
+B;PHE;456;Other (turns, coils, etc.);30.39;-119.8;136.8
+B;ARG;457;Other (turns, coils, etc.);16.16;-151.0;155.2
+B;LYS;458;Other (turns, coils, etc.);78.27;-66.4;-35.9
+B;SER;459;Other (turns, coils, etc.);58.87;-147.7;155.4
+B;ASN;460;Other (turns, coils, etc.);53.96;-63.2;141.1
+B;LEU;461;Other (turns, coils, etc.);4.37;-64.1;146.5
+B;LYS;462;Other (turns, coils, etc.);69.52;-79.0;159.2
+B;PRO;463;Other (turns, coils, etc.);16.91;-54.0;127.0
+B;PHE;464;Other (turns, coils, etc.);4.48;57.6;35.0
+B;GLU;465;Other (turns, coils, etc.);6.87;-99.7;144.8
+B;ARG;466;Other (turns, coils, etc.);10.92;-131.5;121.5
+B;ASP;467;Other (turns, coils, etc.);13.88;-115.3;129.5
+B;ILE;468;Other (turns, coils, etc.);10.27;-114.1;7.8
+B;SER;469;Other (turns, coils, etc.);23.89;-58.2;137.3
+B;THR;470;Other (turns, coils, etc.);50.47;-110.6;6.2
+B;GLU;471;Other (turns, coils, etc.);57.81;-54.7;135.0
+B;ILE;472;Other (turns, coils, etc.);26.49;-64.0;133.6
+B;TYR;473;Sheet;26.2;-97.7;116.4
+B;GLN;474;Sheet;33.59;-87.1;121.3
+B;ALA;475;Other (turns, coils, etc.);51.72;-78.4;-40.8
+B;GLY;476;Other (turns, coils, etc.);20.33;-74.5;165.3
+B;SER;477;Other (turns, coils, etc.);103.24;-64.9;-42.0
+B;THR;478;Other (turns, coils, etc.);74.98;-47.0;124.7
+B;PRO;479;Other (turns, coils, etc.);52.85;-67.3;143.1
+B;CYS;480;Other (turns, coils, etc.);7.83;-73.2;-47.5
+B;ASN;481;Other (turns, coils, etc.);92.9;56.6;33.1
+B;GLY;482;Other (turns, coils, etc.);43.2;85.0;-126.4
+B;VAL;483;Other (turns, coils, etc.);81.33;34.9;71.8
+B;GLU;484;Other (turns, coils, etc.);66.4;-53.5;131.1
+B;GLY;485;Other (turns, coils, etc.);55.91;-155.0;-148.7
+B;PHE;486;Other (turns, coils, etc.);93.67;-61.9;-45.8
+B;ASN;487;Other (turns, coils, etc.);39.62;-124.4;18.7
+B;CYS;488;Sheet;7.83;-121.1;127.9
+B;TYR;489;Sheet;34.16;-132.3;141.7
+B;PHE;490;Other (turns, coils, etc.);39.36;-61.8;137.3
+B;PRO;491;Other (turns, coils, etc.);1.41;-81.4;-23.8
+B;LEU;492;Sheet;8.74;-96.4;132.5
+B;GLN;493;Sheet;44.79;-114.0;128.7
+B;SER;494;Sheet;28.16;-67.1;141.8
+B;TYR;495;Other (turns, coils, etc.);0.0;-79.8;160.5
+B;GLY;496;Other (turns, coils, etc.);34.31;-130.5;76.3
+B;PHE;497;Sheet;0.5;-88.1;132.1
+B;GLN;498;Other (turns, coils, etc.);23.52;-140.8;144.9
+B;PRO;499;Other (turns, coils, etc.);39.46;-65.6;-29.9
+B;THR;500;Other (turns, coils, etc.);98.77;-97.5;3.3
+B;ASN;501;Other (turns, coils, etc.);37.57;-70.2;149.2
+B;GLY;502;Other (turns, coils, etc.);41.93;-58.9;153.7
+B;VAL;503;Other (turns, coils, etc.);24.72;-57.7;-32.4
+B;GLY;504;Other (turns, coils, etc.);30.5;-66.5;-29.6
+B;TYR;505;Other (turns, coils, etc.);36.97;-101.0;-3.4
+B;GLN;506;Other (turns, coils, etc.);15.68;-65.5;149.0
+B;PRO;507;Sheet;0.0;-73.2;139.9
+B;TYR;508;Sheet;10.76;-127.1;129.4
+B;ARG;509;Sheet;1.31;-84.9;131.0
+B;VAL;510;Sheet;0.0;-121.8;132.8
+B;VAL;511;Sheet;0.0;-121.1;126.6
+B;VAL;512;Sheet;0.0;-111.2;130.8
+B;LEU;513;Sheet;17.48;-111.9;122.1
+B;SER;514;Sheet;7.68;-114.0;134.0
+B;PHE;515;Other (turns, coils, etc.);9.47;-161.4;161.8
+B;GLU;516;Other (turns, coils, etc.);41.21;-118.0;152.0
+B;LEU;517;Other (turns, coils, etc.);4.37;-112.7;-83.0
+B;LEU;518;Other (turns, coils, etc.);12.56;-62.7;-39.5
+B;HIS;519;Other (turns, coils, etc.);29.69;-71.9;142.6
+B;ALA;520;Other (turns, coils, etc.);1.81;71.9;175.1
+B;PRO;521;Other (turns, coils, etc.);45.1;-82.6;132.6
+B;ALA;522;Other (turns, coils, etc.);9.07;-105.5;123.5
+B;THR;523;Other (turns, coils, etc.);30.28;-100.2;-1.4
+B;VAL;524;Sheet;2.6;-121.9;127.2
+B;CYS;525;Sheet;4.27;-139.3;154.1
+B;GLY;526;Other (turns, coils, etc.);5.08;-67.6;179.1
+B;PRO;527;Other (turns, coils, etc.);38.76;-98.9;75.2
+B;LYS;528;Other (turns, coils, etc.);34.03;-117.2;130.4
+B;LYS;529;Other (turns, coils, etc.);95.77;-68.7;129.2
+B;SER;530;Other (turns, coils, etc.);37.54;-65.8;149.3
+B;THR;531;Other (turns, coils, etc.);36.77;-116.0;164.5
+B;ASN;532;Other (turns, coils, etc.);99.04;-62.2;138.2
+B;LEU;533;Other (turns, coils, etc.);25.12;-66.3;131.1
+B;VAL;534;Other (turns, coils, etc.);26.02;-115.2;132.8
+B;LYS;535;Other (turns, coils, etc.);30.14;-132.2;156.1
+B;ASN;536;Other (turns, coils, etc.);79.92;65.6;22.7
+B;LYS;537;Other (turns, coils, etc.);49.1;-139.7;155.7
+B;CYS;538;Sheet;10.68;-76.4;112.3
+B;VAL;539;Sheet;0.0;-136.6;154.1
+B;ASN;540;Sheet;37.57;-86.9;127.2
+B;PHE;541;Sheet;4.98;-120.0;148.5
+B;ASN;542;Sheet;6.83;-129.1;100.6
+B;PHE;543;Sheet;1.49;-108.6;109.4
+B;ASN;544;Other (turns, coils, etc.);10.93;52.6;39.2
+B;GLY;545;Other (turns, coils, etc.);1.27;83.5;4.3
+B;LEU;546;Sheet;7.65;-96.6;109.1
+B;THR;547;Sheet;34.61;-95.3;137.2
+B;GLY;548;Sheet;10.17;-169.0;172.0
+B;THR;549;Sheet;25.23;-120.3;126.3
+B;GLY;550;Sheet;0.0;-175.5;175.0
+B;VAL;551;Sheet;6.51;-95.7;130.5
+B;LEU;552;Sheet;0.0;-103.2;129.0
+B;THR;553;Sheet;11.54;-133.5;163.3
+B;GLU;554;Sheet;77.85;-73.1;142.3
+B;SER;555;Other (turns, coils, etc.);11.95;-111.4;131.8
+B;ASN;556;Other (turns, coils, etc.);99.04;-71.8;-22.8
+B;LYS;557;Other (turns, coils, etc.);12.64;-73.2;135.3
+B;LYS;558;Other (turns, coils, etc.);84.1;-118.4;115.6
+B;PHE;559;Other (turns, coils, etc.);2.99;-64.9;142.8
+B;LEU;560;Other (turns, coils, etc.);21.85;-64.0;160.4
+B;PRO;561;Other (turns, coils, etc.);81.04;-59.6;-35.8
+B;PHE;562;Other (turns, coils, etc.);11.96;-71.2;-27.3
+B;GLN;563;Other (turns, coils, etc.);0.56;-85.9;133.0
+B;GLN;564;Other (turns, coils, etc.);7.84;-112.7;-20.8
+B;PHE;565;Sheet;4.48;-154.0;157.9
+B;GLY;566;Sheet;0.0;-108.9;157.5
+B;ARG;567;Other (turns, coils, etc.);10.48;-136.6;149.3
+B;ASP;568;Other (turns, coils, etc.);18.04;-91.9;-159.9
+B;ILE;569;Other (turns, coils, etc.);36.22;-75.8;-17.9
+B;ALA;570;Other (turns, coils, etc.);7.26;-96.2;0.6
+B;ASP;571;Other (turns, coils, etc.);29.15;69.6;15.7
+B;THR;572;Other (turns, coils, etc.);48.31;-82.2;161.5
+B;THR;573;Other (turns, coils, etc.);5.05;-83.7;89.6
+B;ASP;574;Other (turns, coils, etc.);15.96;-68.3;-40.5
+B;ALA;575;Sheet;0.0;-129.5;143.5
+B;VAL;576;Sheet;1.95;-131.2;163.9
+B;ARG;577;Sheet;13.54;-112.5;137.1
+B;ASP;578;Other (turns, coils, etc.);1.39;-63.1;145.1
+B;PRO;579;Other (turns, coils, etc.);17.62;-81.7;-29.0
+B;GLN;580;Other (turns, coils, etc.);35.27;-85.2;-40.3
+B;THR;581;Other (turns, coils, etc.);49.03;-120.2;135.8
+B;LEU;582;Other (turns, coils, etc.);76.46;-80.3;53.7
+B;GLU;583;Other (turns, coils, etc.);30.34;-98.6;136.6
+B;ILE;584;Sheet;7.03;-91.0;131.3
+B;LEU;585;Sheet;0.0;-122.0;121.7
+B;ASP;586;Sheet;3.47;-78.4;147.5
+B;ILE;587;Sheet;15.14;-117.4;115.1
+B;THR;588;Sheet;1.44;-114.5;132.4
+B;PRO;589;Other (turns, coils, etc.);30.3;-49.3;137.7
+B;CYS;590;Other (turns, coils, etc.);6.41;-68.6;-45.1
+B;SER;591;Other (turns, coils, etc.);10.24;-82.9;142.8
+B;PHE;592;Other (turns, coils, etc.);8.97;-108.6;-5.6
+B;GLY;593;Other (turns, coils, etc.);38.12;67.1;-176.5
+B;GLY;594;Other (turns, coils, etc.);27.95;94.6;75.4
+B;VAL;595;Sheet;11.06;-139.8;139.6
+B;SER;596;Sheet;0.0;-145.8;145.4
+B;VAL;597;Sheet;0.0;-114.3;105.4
+B;ILE;598;Sheet;1.08;-88.2;120.1
+B;THR;599;Sheet;0.72;-139.5;138.8
+B;PRO;600;Other (turns, coils, etc.);4.93;-63.2;170.0
+B;GLY;601;Other (turns, coils, etc.);12.71;-59.0;139.9
+B;THR;602;Other (turns, coils, etc.);14.42;-65.0;-27.5
+B;ASN;603;Other (turns, coils, etc.);112.7;-62.9;-42.9
+B;THR;604;Other (turns, coils, etc.);69.94;-69.2;-44.0
+B;SER;605;Other (turns, coils, etc.);17.92;-166.4;155.4
+B;ASN;606;Other (turns, coils, etc.);68.99;-98.0;3.2
+B;GLN;607;Other (turns, coils, etc.);41.43;-64.4;138.9
+B;VAL;608;Other (turns, coils, etc.);1.95;-134.8;158.4
+B;ALA;609;Sheet;0.0;-124.3;136.9
+B;VAL;610;Sheet;0.0;-114.8;128.2
+B;LEU;611;Sheet;0.0;-113.5;132.1
+B;TYR;612;Sheet;0.94;-116.1;111.2
+B;GLN;613;Other (turns, coils, etc.);11.2;-62.8;-48.3
+B;ASP;614;Other (turns, coils, etc.);9.02;-106.2;16.1
+B;VAL;615;Other (turns, coils, etc.);8.46;-120.4;116.9
+B;ASN;616;Other (turns, coils, etc.);45.08;-68.2;151.8
+B;CYS;617;Other (turns, coils, etc.);21.37;-57.3;-34.6
+B;THR;618;Other (turns, coils, etc.);79.31;-62.1;-37.8
+B;GLU;619;Other (turns, coils, etc.);48.08;-92.5;-3.2
+B;VAL;620;Helix;0.65;-57.3;-46.1
+B;PRO;621;Helix;32.42;-62.9;-38.0
+B;VAL;622;Helix;70.27;-67.4;-44.6
+B;ALA;623;Helix;35.39;-62.7;-37.9
+B;ILE;624;Other (turns, coils, etc.);7.03;-103.5;4.2
+B;HIS;625;Other (turns, coils, etc.);25.29;58.4;49.3
+B;ALA;626;Helix;2.72;-58.7;-35.6
+B;ASP;627;Helix;97.15;-55.0;-40.6
+B;GLN;628;Helix;54.87;-92.5;0.7
+B;LEU;629;Other (turns, coils, etc.);6.01;-80.3;170.7
+B;THR;630;Other (turns, coils, etc.);28.84;-61.1;150.4
+B;PRO;631;Helix;58.49;-57.2;-36.8
+B;THR;632;Helix;36.05;-62.5;-42.9
+B;TRP;633;Helix;0.0;-61.9;-37.9
+B;ARG;634;Helix;43.23;-60.1;-37.1
+B;VAL;635;Helix;59.86;-56.9;-34.4
+B;TYR;636;Other (turns, coils, etc.);17.78;-89.9;7.6
+B;SER;637;Other (turns, coils, etc.);14.51;-115.2;-9.5
+B;THR;638;Other (turns, coils, etc.);56.24;-63.6;143.4
+B;GLY;639;Other (turns, coils, etc.);49.56;-62.5;-177.7
+B;SER;640;Other (turns, coils, etc.);104.95;86.7;-34.4
+B;ASN;641;Other (turns, coils, etc.);51.23;-111.3;15.5
+B;VAL;642;Sheet;39.04;-75.7;125.9
+B;PHE;643;Sheet;17.44;-129.5;129.5
+B;GLN;644;Sheet;43.67;-98.2;123.9
+B;THR;645;Other (turns, coils, etc.);11.54;-124.0;174.8
+B;ARG;646;Other (turns, coils, etc.);73.36;-71.8;-26.6
+B;ALA;647;Other (turns, coils, etc.);2.72;-74.5;-29.3
+B;GLY;648;Other (turns, coils, etc.);2.54;155.0;-178.4
+B;CYS;649;Sheet;0.0;-73.4;132.5
+B;LEU;650;Sheet;0.0;-118.0;129.4
+B;ILE;651;Sheet;0.54;-126.2;138.9
+B;GLY;652;Other (turns, coils, etc.);19.06;99.0;4.4
+B;ALA;653;Other (turns, coils, etc.);1.81;-126.1;130.5
+B;GLU;654;Sheet;25.19;-78.9;119.0
+B;HIS;655;Sheet;36.83;-71.0;124.2
+B;VAL;656;Other (turns, coils, etc.);8.46;-119.4;139.0
+B;ASN;657;Other (turns, coils, etc.);89.48;-72.0;-26.5
+B;ASN;658;Other (turns, coils, etc.);53.96;-65.0;132.7
+B;SER;659;Other (turns, coils, etc.);56.31;-101.3;129.4
+B;TYR;660;Other (turns, coils, etc.);28.08;-126.8;168.7
+B;GLU;661;Other (turns, coils, etc.);88.72;-60.9;144.0
+B;CYS;662;Other (turns, coils, etc.);34.9;-71.4;120.8
+B;ASP;663;Other (turns, coils, etc.);45.8;-91.1;-58.9
+B;ILE;664;Sheet;5.41;-120.8;128.3
+B;PRO;665;Sheet;32.42;-92.6;110.5
+B;ILE;666;Sheet;5.41;-68.7;-42.3
+B;GLY;667;Sheet;6.35;115.6;163.4
+B;ALA;668;Other (turns, coils, etc.);9.07;58.4;38.5
+B;GLY;669;Other (turns, coils, etc.);2.54;81.1;-0.1
+B;ILE;670;Sheet;8.65;-106.2;140.4
+B;CYS;671;Sheet;0.0;-135.2;157.9
+B;ALA;672;Sheet;0.0;-121.0;152.4
+B;SER;673;Sheet;17.06;-150.8;165.2
+B;TYR;674;Sheet;22.46;-104.0;110.8
+B;GLN;675;Sheet;29.68;-127.3;142.3
+B;THR;676;Sheet;29.56;-67.2;131.2
+B;GLN;677;Other (turns, coils, etc.);12.88;-85.8;40.7
+B;THR;678;Other (turns, coils, etc.);51.91;-117.9;-13.4
+B;ASN;679;Other (turns, coils, etc.);61.48;-52.2;-101.4
+B;SER;680;Other (turns, coils, etc.);17.92;-21.6;129.7
+B;PRO;681;Other (turns, coils, etc.);87.39;-69.1;-4.9
+B;ARG;682;Other (turns, coils, etc.);88.65;-88.3;-14.2
+B;ARG;683;Other (turns, coils, etc.);44.54;-87.8;160.6
+B;ALA;684;Other (turns, coils, etc.);71.69;-54.9;-30.8
+B;ARG;685;Other (turns, coils, etc.);25.33;61.9;29.7
+B;SER;686;Other (turns, coils, etc.);93.86;-107.3;-25.3
+B;VAL;687;Other (turns, coils, etc.);56.6;-131.7;122.7
+B;ALA;688;Other (turns, coils, etc.);57.17;-62.4;143.1
+B;SER;689;Other (turns, coils, etc.);42.66;-151.5;154.5
+B;GLN;690;Sheet;38.63;-125.8;132.2
+B;SER;691;Sheet;17.92;-144.4;156.2
+B;ILE;692;Sheet;3.78;-78.5;126.1
+B;ILE;693;Sheet;3.24;-116.2;147.6
+B;ALA;694;Sheet;0.0;-115.5;136.4
+B;TYR;695;Sheet;0.94;-149.8;156.6
+B;THR;696;Sheet;42.54;-71.8;127.5
+B;MET;697;Other (turns, coils, etc.);8.0;-62.5;141.0
+B;SER;698;Other (turns, coils, etc.);36.69;-83.0;123.1
+B;LEU;699;Other (turns, coils, etc.);8.19;-66.9;-42.0
+B;GLY;700;Other (turns, coils, etc.);31.77;170.5;-173.7
+B;ALA;701;Other (turns, coils, etc.);55.35;-75.1;128.5
+B;GLU;702;Sheet;64.68;-65.9;135.2
+B;ASN;703;Sheet;47.81;-147.3;150.3
+B;SER;704;Sheet;75.94;-125.2;126.6
+B;VAL;705;Other (turns, coils, etc.);10.41;-80.5;125.5
+B;ALA;706;Other (turns, coils, etc.);68.06;-79.1;108.7
+B;TYR;707;Other (turns, coils, etc.);11.23;-108.7;132.4
+B;SER;708;Other (turns, coils, etc.);26.45;-144.5;160.9
+B;ASN;709;Other (turns, coils, etc.);58.74;-80.2;-15.2
+B;ASN;710;Other (turns, coils, etc.);56.69;-127.0;19.1
+B;SER;711;Sheet;22.18;-119.0;136.1
+B;ILE;712;Sheet;4.32;-132.7;156.0
+B;ALA;713;Sheet;4.54;-115.8;130.1
+B;ILE;714;Sheet;0.54;-121.6;133.1
+B;PRO;715;Sheet;0.7;-69.9;138.3
+B;THR;716;Other (turns, coils, etc.);33.17;-105.8;2.5
+B;ASN;717;Other (turns, coils, etc.);30.05;-159.0;169.0
+B;PHE;718;Sheet;0.5;-138.4;161.7
+B;THR;719;Sheet;47.58;-129.1;126.0
+B;ILE;720;Sheet;3.78;-86.7;127.2
+B;SER;721;Sheet;34.98;-121.8;145.8
+B;VAL;722;Sheet;5.86;-121.1;125.0
+B;THR;723;Sheet;34.61;-123.6;157.6
+B;THR;724;Sheet;42.54;-111.7;129.8
+B;GLU;725;Sheet;22.9;-120.7;130.7
+B;ILE;726;Sheet;12.43;-118.6;123.1
+B;LEU;727;Sheet;5.46;-126.7;123.3
+B;PRO;728;Sheet;10.57;-55.0;132.8
+B;VAL;729;Other (turns, coils, etc.);0.65;-108.2;-29.9
+B;SER;730;Other (turns, coils, etc.);11.09;-153.5;165.3
+B;MET;731;Other (turns, coils, etc.);1.5;-129.5;169.3
+B;THR;732;Other (turns, coils, etc.);12.26;-63.9;137.6
+B;LYS;733;Sheet;10.7;-94.4;123.0
+B;THR;734;Sheet;5.05;-126.5;148.5
+B;SER;735;Sheet;21.33;-131.3;150.4
+B;VAL;736;Sheet;7.81;-128.6;125.8
+B;ASP;737;Other (turns, coils, etc.);28.45;-82.3;115.1
+B;CYS;738;Helix;6.41;-65.4;-43.8
+B;THR;739;Helix;28.12;-68.5;-43.2
+B;MET;740;Helix;5.0;-63.1;-44.0
+B;TYR;741;Helix;0.94;-65.0;-47.3
+B;ILE;742;Helix;0.54;-78.4;-45.8
+B;CYS;743;Helix;1.42;-97.3;-19.8
+B;GLY;744;Other (turns, coils, etc.);62.26;63.8;30.8
+B;ASP;745;Other (turns, coils, etc.);41.64;68.7;42.2
+B;SER;746;Other (turns, coils, etc.);11.09;-105.6;125.4
+B;THR;747;Other (turns, coils, etc.);69.94;-66.5;-40.1
+B;GLU;748;Other (turns, coils, etc.);61.25;-63.4;-40.6
+B;CYS;749;Other (turns, coils, etc.);1.42;-72.1;166.2
+B;SER;750;Other (turns, coils, etc.);34.98;86.9;-34.1
+B;ASN;751;Other (turns, coils, etc.);41.67;-60.8;-43.8
+B;LEU;752;Helix;15.84;-67.5;-30.1
+B;LEU;753;Helix;5.46;-80.4;-7.3
+B;LEU;754;Helix;43.15;-57.4;-44.0
+B;GLN;755;Other (turns, coils, etc.);43.11;-72.3;-25.4
+B;TYR;756;Other (turns, coils, etc.);3.28;-90.8;-0.9
+B;GLY;757;Helix;30.5;-62.8;-29.4
+B;SER;758;Helix;31.57;-61.7;-38.6
+B;PHE;759;Helix;4.48;-64.0;-43.7
+B;CYS;760;Helix;7.12;-60.0;-43.7
+B;THR;761;Helix;34.61;-60.0;-39.4
+B;GLN;762;Helix;15.12;-61.8;-42.9
+B;LEU;763;Helix;7.1;-63.7;-44.0
+B;ASN;764;Helix;40.98;-63.0;-40.1
+B;ARG;765;Helix;36.24;-60.8;-39.9
+B;ALA;766;Helix;10.89;-65.5;-44.6
+B;LEU;767;Helix;3.28;-63.5;-42.0
+B;THR;768;Helix;50.47;-63.2;-38.9
+B;GLY;769;Helix;47.01;-61.8;-37.8
+B;ILE;770;Helix;6.49;-65.0;-44.0
+B;ALA;771;Helix;8.17;-62.7;-46.0
+B;VAL;772;Helix;59.86;-64.9;-33.5
+B;GLU;773;Helix;16.03;-62.6;-42.5
+B;GLN;774;Helix;1.68;-63.2;-41.7
+B;ASP;775;Helix;21.51;-62.3;-41.2
+B;LYS;776;Helix;43.27;-61.6;-43.8
+B;ASN;777;Helix;0.0;-59.6;-44.7
+B;THR;778;Helix;8.65;-61.6;-42.6
+B;GLN;779;Helix;36.95;-62.9;-45.0
+B;GLU;780;Helix;38.35;-62.5;-40.7
+B;VAL;781;Helix;0.0;-70.1;-46.2
+B;PHE;782;Helix;1.99;-100.4;-18.7
+B;ALA;783;Other (turns, coils, etc.);13.61;-102.9;27.4
+B;GLN;784;Other (turns, coils, etc.);24.64;-59.1;-38.6
+B;VAL;785;Other (turns, coils, etc.);7.16;-113.0;125.7
+B;LYS;786;Other (turns, coils, etc.);46.18;-84.1;-16.3
+B;GLN;787;Other (turns, coils, etc.);45.91;-71.8;120.3
+B;ILE;788;Sheet;4.86;-90.8;104.6
+B;TYR;789;Sheet;6.08;-85.2;111.2
+B;LYS;790;Sheet;56.39;-60.5;132.7
+B;THR;791;Other (turns, coils, etc.);25.23;-63.1;125.4
+B;PRO;792;Other (turns, coils, etc.);21.14;-69.2;161.1
+B;PRO;793;Other (turns, coils, etc.);82.45;-51.0;130.9
+B;ILE;794;Other (turns, coils, etc.);58.92;-58.6;116.0
+B;LYS;795;Other (turns, coils, etc.);36.95;-102.1;170.4
+B;ASP;796;Other (turns, coils, etc.);62.46;-59.1;130.8
+B;PHE;797;Other (turns, coils, etc.);4.48;-113.1;11.6
+B;GLY;798;Other (turns, coils, etc.);11.44;89.1;22.7
+B;GLY;799;Other (turns, coils, etc.);49.56;86.4;-3.6
+B;PHE;800;Other (turns, coils, etc.);5.48;-70.5;132.3
+B;ASN;801;Other (turns, coils, etc.);56.01;-105.6;113.9
+B;PHE;802;Other (turns, coils, etc.);2.49;-112.3;6.3
+B;SER;803;Other (turns, coils, etc.);53.75;-59.5;-38.6
+B;GLN;804;Other (turns, coils, etc.);31.35;-60.9;-39.1
+B;ILE;805;Other (turns, coils, etc.);2.16;-93.1;-15.3
+B;LEU;806;Other (turns, coils, etc.);6.55;-77.4;157.3
+B;PRO;807;Sheet;20.44;-71.3;138.9
+B;ASP;808;Other (turns, coils, etc.);36.78;-87.3;120.3
+B;PRO;809;Other (turns, coils, etc.);70.47;-71.9;-30.6
+B;SER;810;Other (turns, coils, etc.);92.15;-92.4;31.1
+B;LYS;811;Other (turns, coils, etc.);17.99;-137.0;166.0
+B;PRO;812;Other (turns, coils, etc.);78.93;-71.8;150.9
+B;SER;813;Other (turns, coils, etc.);27.3;75.7;-17.8
+B;LYS;814;Other (turns, coils, etc.);56.39;61.2;44.0
+B;ARG;815;Other (turns, coils, etc.);8.3;-110.3;165.6
+B;SER;816;Sheet;0.0;-65.9;154.8
+B;PHE;817;Helix;44.84;-61.5;-41.3
+B;ILE;818;Helix;1.08;-62.9;-43.8
+B;GLU;819;Helix;2.86;-61.3;-39.0
+B;ASP;820;Helix;25.68;-60.1;-43.4
+B;LEU;821;Helix;13.65;-60.9;-46.3
+B;LEU;822;Helix;0.0;-60.7;-41.5
+B;PHE;823;Helix;38.86;-62.1;-44.1
+B;ASN;824;Helix;80.6;-66.1;-34.6
+B;LYS;825;Helix;25.28;-65.4;-39.7
+B;VAL;826;Other (turns, coils, etc.);5.2;-93.2;118.8
+B;THR;827;Other (turns, coils, etc.);48.31;-84.7;119.0
+B;LEU;828;Other (turns, coils, etc.);37.14;-110.3;-5.7
+B;ALA;829;Other (turns, coils, etc.);71.69;-66.7;-35.0
+B;ASP;830;Other (turns, coils, etc.);58.29;-68.2;-43.1
+B;ALA;831;Other (turns, coils, etc.);13.61;-62.8;-40.6
+B;GLY;832;Other (turns, coils, etc.);40.66;-174.8;155.9
+B;PHE;833;Other (turns, coils, etc.);71.25;-150.4;153.1
+B;ILE;834;Other (turns, coils, etc.);50.81;-59.5;136.5
+B;LYS;835;Other (turns, coils, etc.);14.58;-139.8;114.0
+B;GLN;836;Other (turns, coils, etc.);25.76;-80.1;164.5
+B;TYR;837;Helix;26.67;-59.5;-40.0
+B;GLY;838;Helix;52.1;-63.3;-36.1
+B;ASP;839;Helix;52.74;-63.3;-50.4
+B;CYS;840;Helix;2.14;-64.6;-39.8
+B;LEU;841;Helix;25.12;-65.8;-36.9
+B;GLY;842;Helix;83.86;-73.0;-42.3
+B;ASP;843;Other (turns, coils, etc.);59.68;-96.2;59.2
+B;ILE;844;Other (turns, coils, etc.);21.62;-71.4;-27.4
+B;ALA;845;Other (turns, coils, etc.);44.46;-63.8;-46.3
+B;ALA;846;Other (turns, coils, etc.);45.37;-83.7;124.5
+B;ARG;847;Other (turns, coils, etc.);32.75;-86.1;69.0
+B;ASP;848;Other (turns, coils, etc.);31.23;-66.9;138.5
+B;LEU;849;Helix;52.98;-65.5;-35.2
+B;ILE;850;Helix;11.89;-63.0;-44.5
+B;CYS;851;Helix;5.7;-64.1;-43.4
+B;ALA;852;Helix;22.69;-61.7;-43.7
+B;GLN;853;Helix;3.36;-66.2;-38.3
+B;LYS;854;Helix;7.29;-61.0;-43.3
+B;PHE;855;Helix;14.45;-63.7;-24.8
+B;ASN;856;Other (turns, coils, etc.);20.49;-97.6;16.9
+B;GLY;857;Other (turns, coils, etc.);10.17;82.4;11.9
+B;LEU;858;Sheet;0.55;-102.4;117.7
+B;THR;859;Sheet;15.14;-137.5;161.0
+B;VAL;860;Sheet;39.04;-116.6;128.6
+B;LEU;861;Sheet;13.65;-95.5;134.0
+B;PRO;862;Other (turns, coils, etc.);29.6;-69.0;143.6
+B;PRO;863;Other (turns, coils, etc.);42.28;-53.7;147.5
+B;LEU;864;Other (turns, coils, etc.);12.02;-64.9;-43.3
+B;LEU;865;Other (turns, coils, etc.);4.37;-88.3;117.9
+B;THR;866;Other (turns, coils, etc.);13.7;-78.0;156.9
+B;ASP;867;Helix;32.62;-54.0;-40.7
+B;GLU;868;Helix;29.19;-57.8;-41.2
+B;MET;869;Helix;8.0;-67.2;-39.9
+B;ILE;870;Helix;12.43;-61.7;-43.4
+B;ALA;871;Helix;3.63;-61.8;-40.9
+B;GLN;872;Helix;49.27;-62.0;-41.7
+B;TYR;873;Helix;1.4;-62.5;-43.8
+B;THR;874;Helix;0.72;-60.0;-44.7
+B;SER;875;Helix;17.06;-63.4;-39.7
+B;ALA;876;Helix;0.0;-61.2;-44.3
+B;LEU;877;Helix;0.0;-61.0;-43.0
+B;LEU;878;Helix;1.09;-65.6;-43.9
+B;ALA;879;Helix;0.91;-62.2;-44.2
+B;GLY;880;Helix;0.0;-56.4;-54.7
+B;THR;881;Helix;0.0;-62.0;-40.0
+B;ILE;882;Helix;0.0;-69.2;-42.2
+B;THR;883;Helix;1.44;-81.0;-34.5
+B;SER;884;Helix;0.0;-128.7;-4.9
+B;GLY;885;Other (turns, coils, etc.);0.0;69.2;-117.6
+B;TRP;886;Other (turns, coils, etc.);10.81;-90.5;-12.4
+B;THR;887;Other (turns, coils, etc.);10.09;-66.3;-36.0
+B;PHE;888;Other (turns, coils, etc.);1.0;-63.9;-26.2
+B;GLY;889;Other (turns, coils, etc.);1.27;-71.3;-34.7
+B;ALA;890;Other (turns, coils, etc.);8.17;-125.5;103.9
+B;GLY;891;Other (turns, coils, etc.);25.41;91.2;-163.5
+B;ALA;892;Other (turns, coils, etc.);44.46;-71.9;149.7
+B;ALA;893;Other (turns, coils, etc.);17.24;-70.0;125.0
+B;LEU;894;Other (turns, coils, etc.);8.19;-114.0;117.6
+B;GLN;895;Other (turns, coils, etc.);7.84;-60.7;142.9
+B;ILE;896;Other (turns, coils, etc.);4.32;-145.5;139.3
+B;PRO;897;Other (turns, coils, etc.);4.23;-54.9;135.3
+B;PHE;898;Helix;0.5;-59.9;-40.7
+B;ALA;899;Helix;12.7;-59.9;-42.3
+B;MET;900;Helix;3.0;-66.2;-38.5
+B;GLN;901;Helix;0.0;-60.5;-44.2
+B;MET;902;Helix;1.0;-64.6;-37.6
+B;ALA;903;Helix;0.0;-59.6;-39.8
+B;TYR;904;Helix;37.44;-61.5;-42.3
+B;ARG;905;Helix;0.87;-62.7;-40.5
+B;PHE;906;Helix;0.0;-61.8;-43.4
+B;ASN;907;Helix;47.13;-61.6;-38.8
+B;GLY;908;Helix;27.95;-62.2;-26.3
+B;ILE;909;Other (turns, coils, etc.);11.35;-97.0;2.3
+B;GLY;910;Other (turns, coils, etc.);58.45;84.8;21.6
+B;VAL;911;Other (turns, coils, etc.);0.0;-106.4;129.0
+B;THR;912;Other (turns, coils, etc.);31.72;-59.7;145.7
+B;GLN;913;Helix;2.24;-59.3;-33.7
+B;ASN;914;Helix;2.73;-58.4;-40.9
+B;VAL;915;Helix;0.0;-57.2;-40.3
+B;LEU;916;Helix;0.55;-65.4;-44.9
+B;TYR;917;Helix;2.81;-65.9;-45.5
+B;GLU;918;Helix;33.2;-66.0;-38.2
+B;ASN;919;Other (turns, coils, etc.);31.42;-96.7;17.7
+B;GLN;920;Helix;8.4;-57.7;-42.3
+B;LYS;921;Helix;69.03;-61.5;-41.6
+B;LEU;922;Helix;39.87;-66.2;-43.4
+B;ILE;923;Helix;0.0;-61.3;-45.0
+B;ALA;924;Helix;0.91;-62.2;-45.0
+B;ASN;925;Helix;61.48;-63.0;-42.3
+B;GLN;926;Helix;24.08;-62.5;-43.1
+B;PHE;927;Helix;1.99;-60.6;-46.6
+B;ASN;928;Helix;30.74;-62.3;-42.9
+B;SER;929;Helix;65.7;-62.4;-40.0
+B;ALA;930;Helix;12.7;-64.8;-43.6
+B;ILE;931;Helix;3.24;-61.1;-43.9
+B;GLY;932;Helix;26.68;-56.4;-46.1
+B;LYS;933;Helix;70.49;-62.0;-38.6
+B;ILE;934;Helix;14.05;-61.9;-45.1
+B;GLN;935;Helix;21.28;-64.5;-41.4
+B;ASP;936;Helix;64.54;-62.3;-43.2
+B;SER;937;Helix;58.87;-62.3;-45.1
+B;LEU;938;Helix;5.46;-63.2;-42.1
+B;SER;939;Helix;61.43;-64.2;-52.5
+B;SER;940;Helix;91.3;-78.6;-23.0
+B;THR;941;Other (turns, coils, etc.);48.31;-102.1;117.0
+B;ALA;942;Other (turns, coils, etc.);74.41;-65.7;-47.4
+B;SER;943;Other (turns, coils, etc.);93.0;-84.6;81.0
+B;ALA;944;Other (turns, coils, etc.);34.48;-116.2;-49.1
+B;LEU;945;Other (turns, coils, etc.);3.28;-96.8;51.0
+B;GLY;946;Helix;36.85;-47.5;-52.5
+B;LYS;947;Helix;55.91;-58.8;-40.7
+B;LEU;948;Helix;0.0;-67.1;-41.5
+B;GLN;949;Helix;20.16;-63.0;-40.7
+B;ASP;950;Helix;63.15;-59.0;-41.1
+B;VAL;951;Helix;11.06;-60.0;-47.2
+B;VAL;952;Helix;0.65;-65.9;-41.3
+B;ASN;953;Helix;48.5;-61.8;-44.2
+B;GLN;954;Helix;48.71;-63.1;-43.3
+B;ASN;955;Helix;2.73;-65.5;-44.2
+B;ALA;956;Helix;19.96;-63.9;-42.3
+B;GLN;957;Helix;49.83;-59.5;-41.6
+B;ALA;958;Helix;5.44;-63.5;-41.8
+B;LEU;959;Helix;1.64;-65.6;-44.9
+B;ASN;960;Helix;22.54;-61.7;-40.4
+B;THR;961;Helix;5.77;-64.1;-36.6
+B;LEU;962;Helix;2.18;-64.5;-42.9
+B;VAL;963;Helix;4.55;-60.2;-40.7
+B;LYS;964;Helix;43.75;-65.3;-26.6
+B;GLN;965;Helix;1.12;-72.1;-13.7
+B;LEU;966;Other (turns, coils, etc.);3.28;-68.2;-31.1
+B;SER;967;Other (turns, coils, etc.);27.3;-67.4;-32.4
+B;SER;968;Other (turns, coils, etc.);0.85;-62.7;146.2
+B;ASN;969;Other (turns, coils, etc.);25.27;-117.1;129.3
+B;PHE;970;Other (turns, coils, etc.);8.97;-96.0;63.2
+B;GLY;971;Other (turns, coils, etc.);30.5;78.0;6.3
+B;ALA;972;Other (turns, coils, etc.);6.35;-85.1;153.5
+B;ILE;973;Other (turns, coils, etc.);47.57;-63.6;-23.0
+B;SER;974;Other (turns, coils, etc.);19.62;-150.0;161.2
+B;SER;975;Other (turns, coils, etc.);5.97;-91.4;-9.3
+B;VAL;976;Other (turns, coils, etc.);6.51;-93.8;121.6
+B;LEU;977;Helix;6.01;-60.3;-43.8
+B;ASN;978;Helix;26.64;-59.8;-44.8
+B;ASP;979;Helix;9.72;-59.7;-40.6
+B;ILE;980;Helix;0.0;-64.6;-48.4
+B;LEU;981;Helix;15.84;-63.8;-39.0
+B;SER;982;Helix;3.41;-61.2;-41.6
+B;ARG;983;Helix;23.58;-92.6;-24.3
+B;LEU;984;Other (turns, coils, etc.);9.28;-123.0;138.5
+B;ASP;985;Other (turns, coils, etc.);15.96;-67.7;162.3
+B;LYS;986;Helix;60.77;-58.9;-43.2
+B;VAL;987;Helix;47.5;-61.7;-47.0
+B;GLU;988;Helix;46.37;-68.9;-40.7
+B;ALA;989;Helix;2.72;-58.6;-42.2
+B;GLU;990;Helix;45.22;-55.7;-39.6
+B;VAL;991;Helix;32.53;-61.7;-45.1
+B;GLN;992;Helix;5.6;-67.0;-41.8
+B;ILE;993;Helix;3.24;-63.2;-42.5
+B;ASP;994;Helix;16.66;-60.9;-40.7
+B;ARG;995;Helix;34.06;-58.3;-43.5
+B;LEU;996;Helix;0.0;-65.0;-40.4
+B;ILE;997;Helix;0.54;-61.6;-48.5
+B;THR;998;Helix;43.98;-64.3;-43.8
+B;GLY;999;Helix;11.44;-70.1;-37.0
+B;ARG;1000;Helix;7.42;-65.8;-40.0
+B;LEU;1001;Helix;3.82;-60.2;-43.5
+B;GLN;1002;Helix;19.04;-60.7;-41.9
+B;SER;1003;Helix;3.41;-59.9;-43.1
+B;LEU;1004;Helix;2.18;-63.3;-43.1
+B;GLN;1005;Helix;9.52;-61.2;-43.4
+B;THR;1006;Helix;12.98;-61.6;-43.3
+B;TYR;1007;Helix;2.34;-60.6;-46.8
+B;VAL;1008;Helix;2.6;-62.2;-42.9
+B;THR;1009;Helix;15.86;-60.7;-44.0
+B;GLN;1010;Helix;14.56;-61.8;-42.7
+B;GLN;1011;Helix;0.56;-62.6;-40.4
+B;LEU;1012;Helix;13.11;-61.7;-43.1
+B;ILE;1013;Helix;14.05;-64.1;-42.7
+B;ARG;1014;Helix;20.96;-61.8;-41.3
+B;ALA;1015;Helix;3.63;-59.5;-41.9
+B;ALA;1016;Helix;39.02;-60.1;-42.1
+B;GLU;1017;Helix;48.65;-63.7;-43.5
+B;ILE;1018;Helix;7.03;-62.1;-41.9
+B;ARG;1019;Helix;10.48;-60.1;-44.2
+B;ALA;1020;Helix;47.19;-62.1;-44.2
+B;SER;1021;Helix;17.06;-62.7;-43.1
+B;ALA;1022;Helix;0.0;-63.4;-42.5
+B;ASN;1023;Helix;41.67;-61.8;-40.7
+B;LEU;1024;Helix;37.68;-62.6;-43.0
+B;ALA;1025;Helix;0.0;-61.7;-40.8
+B;ALA;1026;Helix;14.52;-63.3;-44.3
+B;THR;1027;Helix;30.28;-62.7;-40.1
+B;LYS;1028;Helix;5.35;-63.3;-41.6
+B;MET;1029;Helix;0.0;-60.7;-49.2
+B;SER;1030;Helix;11.09;-66.8;-48.3
+B;GLU;1031;Helix;2.86;-74.3;-33.7
+B;CYS;1032;Helix;0.0;-105.7;-32.6
+B;VAL;1033;Other (turns, coils, etc.);0.0;-87.2;-41.5
+B;LEU;1034;Other (turns, coils, etc.);1.09;-92.5;-5.3
+B;GLY;1035;Other (turns, coils, etc.);3.81;-146.9;-164.9
+B;GLN;1036;Other (turns, coils, etc.);19.6;-123.3;122.0
+B;SER;1037;Other (turns, coils, etc.);12.8;-98.1;139.1
+B;LYS;1038;Other (turns, coils, etc.);72.44;-100.5;3.8
+B;ARG;1039;Other (turns, coils, etc.);16.16;-75.9;127.8
+B;VAL;1040;Other (turns, coils, etc.);22.77;-67.0;124.6
+B;ASP;1041;Other (turns, coils, etc.);34.7;60.7;10.6
+B;PHE;1042;Other (turns, coils, etc.);7.47;-67.9;-41.1
+B;CYS;1043;Other (turns, coils, etc.);0.71;-115.8;42.1
+B;GLY;1044;Other (turns, coils, etc.);13.98;93.2;150.8
+B;LYS;1045;Other (turns, coils, etc.);44.73;-65.1;135.8
+B;GLY;1046;Other (turns, coils, etc.);11.44;103.7;-175.9
+B;TYR;1047;Sheet;21.53;-85.1;116.1
+B;HIS;1048;Sheet;5.5;-60.7;130.0
+B;LEU;1049;Sheet;0.0;-104.3;-54.8
+B;MET;1050;Sheet;1.0;-163.4;166.3
+B;SER;1051;Sheet;0.0;-141.7;147.9
+B;PHE;1052;Sheet;0.0;-120.0;123.5
+B;PRO;1053;Sheet;0.0;-79.6;143.8
+B;GLN;1054;Sheet;0.56;-131.5;135.4
+B;SER;1055;Sheet;6.83;-67.4;147.6
+B;ALA;1056;Sheet;11.8;-149.7;149.8
+B;PRO;1057;Other (turns, coils, etc.);7.75;-59.6;121.8
+B;HIS;1058;Other (turns, coils, etc.);19.79;60.3;22.6
+B;GLY;1059;Sheet;2.54;-165.6;-179.0
+B;VAL;1060;Sheet;0.0;-130.8;137.6
+B;VAL;1061;Sheet;1.3;-108.6;121.8
+B;PHE;1062;Sheet;0.0;-101.1;128.6
+B;LEU;1063;Sheet;1.09;-98.0;111.7
+B;HIS;1064;Sheet;0.55;-103.7;122.4
+B;VAL;1065;Sheet;0.0;-98.1;118.1
+B;THR;1066;Sheet;0.0;-126.2;150.6
+B;TYR;1067;Sheet;0.0;-93.4;124.6
+B;VAL;1068;Sheet;21.47;-118.3;127.7
+B;PRO;1069;Sheet;10.57;-59.6;133.7
+B;ALA;1070;Other (turns, coils, etc.);19.06;-98.8;-140.0
+B;GLN;1071;Other (turns, coils, etc.);62.15;-54.0;136.1
+B;GLU;1072;Sheet;50.94;-116.6;163.0
+B;LYS;1073;Sheet;57.85;-132.0;137.0
+B;ASN;1074;Sheet;74.45;-62.2;139.1
+B;PHE;1075;Sheet;6.98;-144.1;143.5
+B;THR;1076;Sheet;48.31;-68.0;136.9
+B;THR;1077;Sheet;4.33;-130.2;157.9
+B;ALA;1078;Sheet;1.81;-143.3;139.0
+B;PRO;1079;Other (turns, coils, etc.);13.39;-64.7;-30.9
+B;ALA;1080;Other (turns, coils, etc.);0.0;-155.2;163.3
+B;ILE;1081;Sheet;0.0;-117.5;134.3
+B;CYS;1082;Sheet;12.82;-99.1;106.9
+B;HIS;1083;Other (turns, coils, etc.);43.43;-89.2;-49.9
+B;ASP;1084;Other (turns, coils, etc.);82.58;-158.8;67.4
+B;GLY;1085;Other (turns, coils, etc.);58.45;75.3;-4.0
+B;LYS;1086;Sheet;42.78;-117.0;139.3
+B;ALA;1087;Sheet;0.0;-86.7;129.1
+B;HIS;1088;Sheet;6.6;-110.6;129.6
+B;PHE;1089;Sheet;0.0;-115.6;141.2
+B;PRO;1090;Sheet;3.52;-75.0;141.0
+B;ARG;1091;Other (turns, coils, etc.);56.33;-71.3;-51.5
+B;GLU;1092;Other (turns, coils, etc.);59.53;-116.5;-26.2
+B;GLY;1093;Other (turns, coils, etc.);0.0;-94.3;-161.8
+B;VAL;1094;Sheet;0.65;-129.2;137.0
+B;PHE;1095;Sheet;0.5;-71.6;125.6
+B;VAL;1096;Sheet;0.0;-129.4;148.0
+B;SER;1097;Sheet;5.97;-118.6;140.8
+B;ASN;1098;Other (turns, coils, etc.);60.79;-95.1;-0.6
+B;GLY;1099;Other (turns, coils, etc.);76.24;138.9;-52.4
+B;THR;1100;Other (turns, coils, etc.);85.8;-131.6;-7.9
+B;HIS;1101;Other (turns, coils, etc.);61.57;-129.7;144.8
+B;TRP;1102;Sheet;17.05;-108.1;135.1
+B;PHE;1103;Sheet;20.43;-132.4;164.5
+B;VAL;1104;Sheet;0.65;-113.4;139.7
+B;THR;1105;Sheet;2.16;-151.0;151.5
+B;GLN;1106;Other (turns, coils, etc.);12.32;-62.0;144.7
+B;ARG;1107;Other (turns, coils, etc.);15.72;-66.5;-41.1
+B;ASN;1108;Other (turns, coils, etc.);15.71;-77.5;-22.3
+B;PHE;1109;Other (turns, coils, etc.);10.46;-147.5;137.3
+B;TYR;1110;Other (turns, coils, etc.);22.46;-81.3;97.7
+B;GLU;1111;Other (turns, coils, etc.);29.19;-121.4;74.1
+B;PRO;1112;Other (turns, coils, etc.);39.46;-58.8;122.1
+B;GLN;1113;Sheet;47.03;-124.3;149.6
+B;ILE;1114;Sheet;61.08;-59.0;139.2
+B;ILE;1115;Other (turns, coils, etc.);1.08;-74.3;121.6
+B;THR;1116;Sheet;11.54;-130.6;166.5
+B;THR;1117;Other (turns, coils, etc.);43.26;-64.2;-36.3
+B;ASP;1118;Other (turns, coils, etc.);61.76;-66.0;-46.0
+B;ASN;1119;Other (turns, coils, etc.);17.76;-64.1;-36.2
+B;THR;1120;Sheet;1.44;-112.3;165.9
+B;PHE;1121;Sheet;20.93;-122.5;139.8
+B;VAL;1122;Sheet;45.54;-98.3;132.3
+B;SER;1123;Sheet;11.95;-149.6;145.7
+B;GLY;1124;Sheet;49.56;52.7;-165.6
+B;ASN;1125;Sheet;64.89;-106.3;165.8
+B;CYS;1126;Other (turns, coils, etc.);12.11;-63.3;-35.4
+B;ASP;1127;Other (turns, coils, etc.);89.52;-59.7;-38.7
+B;VAL;1128;Other (turns, coils, etc.);34.48;-62.4;-30.1
+B;VAL;1129;Other (turns, coils, etc.);2.6;-86.3;115.8
+B;ILE;1130;Other (turns, coils, etc.);61.62;-58.4;-41.6
+B;GLY;1131;Other (turns, coils, etc.);43.2;-103.7;15.6
+B;ILE;1132;Other (turns, coils, etc.);21.62;-60.6;141.5
+B;VAL;1133;Sheet;28.63;-126.3;157.0
+B;ASN;1134;Sheet;92.9;-84.8;127.1
+B;ASN;1135;Other (turns, coils, etc.);30.05;-160.0;157.9
+B;THR;1136;Other (turns, coils, etc.);70.66;-89.0;137.4
+B;VAL;1137;Other (turns, coils, etc.);3.25;-101.4;115.7
+B;TYR;1138;Sheet;51.94;-66.2;139.8
+B;ASP;1139;Other (turns, coils, etc.);37.47;-108.0;119.0
+B;PRO;1140;Other (turns, coils, etc.);40.87;-69.9;-18.9
+B;LEU;1141;Other (turns, coils, etc.);37.14;-75.6;-40.8
+B;GLN;1142;Other (turns, coils, etc.);73.35;-66.2;-18.8
+B;PRO;1143;Other (turns, coils, etc.);49.33;-76.7;-21.9
+B;GLU;1144;Other (turns, coils, etc.);118.49;-92.8;0.0
+C;GLN;14;Other (turns, coils, etc.);76.15;0.0;-80.8
+C;CYS;15;Other (turns, coils, etc.);13.53;-59.0;157.4
+C;VAL;16;Other (turns, coils, etc.);38.39;-138.4;151.4
+C;ASN;17;Other (turns, coils, etc.);56.01;-66.1;143.5
+C;LEU;18;Other (turns, coils, etc.);4.92;-92.6;129.9
+C;THR;19;Other (turns, coils, etc.);49.03;-109.7;168.8
+C;THR;20;Other (turns, coils, etc.);74.26;61.5;61.6
+C;ARG;21;Other (turns, coils, etc.);24.89;-127.7;130.7
+C;THR;22;Other (turns, coils, etc.);26.68;-81.8;118.0
+C;GLN;23;Other (turns, coils, etc.);78.95;-95.2;100.6
+C;LEU;24;Other (turns, coils, etc.);45.33;-118.4;135.9
+C;PRO;25;Other (turns, coils, etc.);80.34;-55.4;150.3
+C;PRO;26;Other (turns, coils, etc.);26.78;-70.4;167.0
+C;ALA;27;Sheet;30.85;-88.8;169.3
+C;TYR;28;Sheet;73.94;-119.9;137.4
+C;THR;29;Sheet;15.14;-134.9;-174.6
+C;ASN;30;Sheet;47.13;-136.2;160.9
+C;SER;31;Sheet;0.85;-107.5;105.5
+C;PHE;32;Other (turns, coils, etc.);40.36;-57.8;-55.5
+C;THR;33;Other (turns, coils, etc.);7.21;-148.4;18.6
+C;ARG;34;Other (turns, coils, etc.);6.99;-81.2;162.5
+C;GLY;35;Other (turns, coils, etc.);0.0;86.1;5.2
+C;VAL;36;Sheet;0.65;-76.6;134.9
+C;TYR;37;Sheet;0.0;-136.1;163.6
+C;TYR;38;Other (turns, coils, etc.);4.68;-71.8;122.3
+C;PRO;39;Other (turns, coils, etc.);20.44;-70.1;-38.3
+C;ASP;40;Other (turns, coils, etc.);27.76;-138.9;172.4
+C;LYS;41;Other (turns, coils, etc.);34.03;-96.2;15.5
+C;VAL;42;Sheet;4.55;-78.4;131.0
+C;PHE;43;Sheet;0.5;-80.0;132.9
+C;ARG;44;Other (turns, coils, etc.);8.3;-137.8;136.4
+C;SER;45;Other (turns, coils, etc.);0.85;-133.8;131.7
+C;SER;46;Other (turns, coils, etc.);54.61;59.9;45.1
+C;VAL;47;Sheet;14.96;-141.9;158.0
+C;LEU;48;Sheet;31.68;-112.6;120.5
+C;HIS;49;Sheet;28.59;-117.2;136.6
+C;SER;50;Sheet;40.1;-108.7;130.3
+C;THR;51;Sheet;19.47;-145.3;151.9
+C;GLN;52;Sheet;44.23;-122.4;123.1
+C;ASP;53;Sheet;27.06;-157.0;177.1
+C;LEU;54;Sheet;17.48;-67.5;116.0
+C;PHE;55;Sheet;0.0;-132.5;161.6
+C;LEU;56;Other (turns, coils, etc.);0.0;-81.5;123.0
+C;PRO;57;Other (turns, coils, etc.);8.46;-67.7;146.8
+C;PHE;58;Other (turns, coils, etc.);8.47;-66.6;137.6
+C;PHE;59;Other (turns, coils, etc.);47.83;55.8;34.3
+C;SER;60;Sheet;16.21;-70.0;154.7
+C;ASN;61;Sheet;79.92;-70.1;122.9
+C;VAL;62;Sheet;0.0;-121.6;134.7
+C;THR;63;Sheet;18.02;-92.7;131.3
+C;TRP;64;Sheet;6.65;-111.4;116.0
+C;PHE;65;Sheet;5.98;-111.1;128.7
+C;HIS;66;Sheet;19.24;-143.1;128.1
+C;ALA;67;Sheet;6.35;-91.3;105.7
+C;ILE;68;Other (turns, coils, etc.);30.81;-117.6;125.3
+C;HIS;69;Other (turns, coils, etc.);6.6;-126.8;31.2
+C;VAL;70;Other (turns, coils, etc.);58.56;-55.9;155.2
+C;SER;71;Other (turns, coils, etc.);109.22;-76.2;44.5
+C;GLY;72;Other (turns, coils, etc.);36.85;-58.8;140.6
+C;THR;73;Other (turns, coils, etc.);100.94;-66.4;-27.4
+C;ASN;74;Other (turns, coils, etc.);94.26;-91.3;10.2
+C;GLY;75;Other (turns, coils, etc.);49.56;73.0;22.0
+C;THR;76;Other (turns, coils, etc.);31.72;-68.1;42.4
+C;LYS;77;Other (turns, coils, etc.);16.53;-84.7;139.7
+C;ARG;78;Other (turns, coils, etc.);12.23;-149.3;149.1
+C;PHE;79;Other (turns, coils, etc.);0.5;-107.5;-15.7
+C;ASP;80;Other (turns, coils, etc.);10.41;40.1;60.3
+C;ASN;81;Other (turns, coils, etc.);19.13;-121.3;102.3
+C;PRO;82;Other (turns, coils, etc.);31.71;-123.3;178.9
+C;VAL;83;Other (turns, coils, etc.);39.69;-96.3;124.2
+C;LEU;84;Sheet;10.38;-111.3;139.6
+C;PRO;85;Sheet;40.17;-66.6;153.7
+C;PHE;86;Other (turns, coils, etc.);8.47;-105.5;99.9
+C;ASN;87;Other (turns, coils, etc.);46.45;-101.5;100.6
+C;ASP;88;Other (turns, coils, etc.);61.76;42.5;38.4
+C;GLY;89;Other (turns, coils, etc.);0.0;100.9;146.4
+C;VAL;90;Sheet;0.0;-132.6;158.1
+C;TYR;91;Sheet;0.0;-112.9;131.9
+C;PHE;92;Sheet;0.0;-127.4;124.3
+C;ALA;93;Sheet;0.0;-123.2;132.8
+C;SER;94;Sheet;1.71;-121.0;129.7
+C;THR;95;Sheet;1.44;-113.2;105.4
+C;GLU;96;Sheet;2.29;-140.3;170.6
+C;LYS;97;Other (turns, coils, etc.);11.67;-127.0;-26.8
+C;SER;98;Other (turns, coils, etc.);4.27;-99.1;7.6
+C;ASN;99;Other (turns, coils, etc.);18.44;57.8;37.1
+C;ILE;100;Other (turns, coils, etc.);3.24;-62.7;-41.2
+C;ILE;101;Sheet;12.97;-69.1;119.2
+C;ARG;102;Sheet;5.24;-111.5;-16.0
+C;GLY;103;Sheet;3.81;155.5;-161.7
+C;TRP;104;Sheet;8.73;-149.6;150.0
+C;ILE;105;Sheet;0.0;-120.2;134.5
+C;PHE;106;Sheet;0.0;-127.9;126.2
+C;GLY;107;Sheet;0.0;-170.8;163.0
+C;THR;108;Other (turns, coils, etc.);18.02;-74.0;-56.1
+C;THR;109;Other (turns, coils, etc.);36.05;-107.7;-34.9
+C;LEU;110;Other (turns, coils, etc.);6.01;74.7;12.3
+C;ASP;111;Sheet;34.7;-114.8;12.6
+C;SER;112;Other (turns, coils, etc.);34.13;81.9;1.1
+C;LYS;113;Other (turns, coils, etc.);48.13;-80.9;-16.2
+C;THR;114;Other (turns, coils, etc.);23.79;-136.5;152.3
+C;GLN;115;Other (turns, coils, etc.);6.72;-59.1;138.8
+C;SER;116;Sheet;0.0;-130.7;158.6
+C;LEU;117;Sheet;0.0;-107.0;129.7
+C;LEU;118;Sheet;0.55;-114.2;124.6
+C;ILE;119;Sheet;3.24;-120.3;117.4
+C;VAL;120;Sheet;2.6;-148.2;138.0
+C;ASN;121;Sheet;23.22;-101.2;113.3
+C;ASN;122;Other (turns, coils, etc.);38.25;-66.4;-62.2
+C;ALA;123;Other (turns, coils, etc.);17.24;-154.5;-23.1
+C;THR;124;Other (turns, coils, etc.);28.12;-126.4;-45.2
+C;ASN;125;Other (turns, coils, etc.);14.34;-128.2;140.4
+C;VAL;126;Sheet;33.83;-71.1;129.6
+C;VAL;127;Sheet;14.96;-121.3;127.7
+C;ILE;128;Sheet;4.32;-124.1;117.8
+C;LYS;129;Sheet;17.5;-131.7;139.5
+C;VAL;130;Sheet;0.0;-115.8;107.4
+C;CYS;131;Sheet;0.0;-144.2;169.3
+C;GLU;132;Other (turns, coils, etc.);11.45;-78.8;84.0
+C;PHE;133;Other (turns, coils, etc.);0.0;-81.2;137.9
+C;GLN;134;Sheet;38.07;-85.9;80.9
+C;PHE;135;Sheet;7.97;-66.6;146.2
+C;CYS;136;Sheet;13.53;-97.7;166.2
+C;ASN;137;Sheet;88.8;-64.8;-35.0
+C;ASP;138;Sheet;11.1;-111.5;103.5
+C;PRO;139;Sheet;0.0;-96.6;115.1
+C;PHE;140;Sheet;0.0;-147.9;171.2
+C;LEU;141;Sheet;0.0;-119.6;153.8
+C;GLY;142;Sheet;2.54;-127.7;136.8
+C;VAL;143;Sheet;5.2;-119.0;145.1
+C;TYR;144;Sheet;46.79;-117.9;133.6
+C;TYR;145;Sheet;29.48;-104.0;112.5
+C;HIS;146;Sheet;29.14;-88.5;123.2
+C;LYS;147;Other (turns, coils, etc.);63.68;-77.6;-36.2
+C;ASN;148;Other (turns, coils, etc.);88.8;-61.4;-47.5
+C;ASN;149;Other (turns, coils, etc.);86.07;-120.6;118.8
+C;LYS;150;Other (turns, coils, etc.);68.55;-67.3;91.5
+C;SER;151;Sheet;35.84;-146.1;166.0
+C;TRP;152;Sheet;27.44;-141.5;126.1
+C;MET;153;Other (turns, coils, etc.);69.47;-108.4;-5.6
+C;GLU;154;Other (turns, coils, etc.);16.6;51.3;73.6
+C;SER;155;Sheet;70.82;-100.4;-155.1
+C;GLU;156;Sheet;20.03;43.0;50.0
+C;PHE;157;Sheet;37.87;-79.3;114.0
+C;ARG;158;Sheet;23.14;-158.4;59.7
+C;VAL;159;Sheet;0.0;-74.4;-39.5
+C;TYR;160;Sheet;18.72;-135.3;163.9
+C;SER;161;Sheet;48.63;-97.8;-21.8
+C;SER;162;Sheet;46.93;-162.3;165.1
+C;ALA;163;Other (turns, coils, etc.);37.21;-120.2;-168.2
+C;ASN;164;Other (turns, coils, etc.);62.16;-147.2;-133.7
+C;ASN;165;Other (turns, coils, etc.);68.99;-57.7;-44.2
+C;CYS;166;Other (turns, coils, etc.);27.07;64.1;76.2
+C;THR;167;Other (turns, coils, etc.);46.14;-69.1;-29.8
+C;PHE;168;Sheet;20.43;-132.8;132.6
+C;GLU;169;Sheet;57.24;-135.5;135.5
+C;TYR;170;Sheet;49.6;-147.6;119.4
+C;VAL;171;Sheet;54.0;-130.6;126.7
+C;SER;172;Other (turns, coils, etc.);16.21;-82.9;162.0
+C;GLN;173;Other (turns, coils, etc.);71.11;-61.9;149.0
+C;PRO;174;Other (turns, coils, etc.);71.18;-68.2;138.8
+C;PHE;175;Other (turns, coils, etc.);53.81;-121.7;-155.4
+C;LEU;176;Other (turns, coils, etc.);85.75;-147.8;154.4
+C;MET;177;Other (turns, coils, etc.);35.48;-149.0;153.4
+C;ASP;178;Other (turns, coils, etc.);63.15;-71.8;146.4
+C;LEU;179;Other (turns, coils, etc.);12.56;-117.3;-1.9
+C;GLU;180;Other (turns, coils, etc.);19.46;-119.9;-78.1
+C;GLY;181;Other (turns, coils, etc.);26.68;45.3;42.3
+C;LYS;182;Other (turns, coils, etc.);43.27;-94.9;88.5
+C;GLN;183;Other (turns, coils, etc.);59.91;-109.3;4.5
+C;GLY;184;Other (turns, coils, etc.);50.83;117.6;-111.0
+C;ASN;185;Other (turns, coils, etc.);47.13;-59.6;141.8
+C;PHE;186;Other (turns, coils, etc.);7.47;-64.7;142.6
+C;LYS;187;Other (turns, coils, etc.);39.38;-123.4;-11.9
+C;ASN;188;Other (turns, coils, etc.);20.49;-86.5;-52.5
+C;LEU;189;Other (turns, coils, etc.);0.55;48.6;63.9
+C;ARG;190;Sheet;29.69;-87.0;124.4
+C;GLU;191;Sheet;0.0;-111.7;129.0
+C;PHE;192;Sheet;16.44;-131.1;140.2
+C;VAL;193;Sheet;0.0;-119.8;132.3
+C;PHE;194;Sheet;0.0;-119.0;127.5
+C;LYS;195;Sheet;2.92;-136.0;130.6
+C;ASN;196;Sheet;31.42;-114.6;113.6
+C;ILE;197;Sheet;36.76;-147.6;134.4
+C;ASP;198;Other (turns, coils, etc.);47.19;47.1;42.7
+C;GLY;199;Other (turns, coils, etc.);11.44;78.2;2.9
+C;TYR;200;Sheet;12.63;-113.5;129.2
+C;PHE;201;Sheet;0.0;-97.8;113.7
+C;LYS;202;Sheet;17.99;-104.4;125.5
+C;ILE;203;Sheet;3.78;-116.2;128.5
+C;TYR;204;Sheet;7.02;-116.5;140.2
+C;SER;205;Sheet;25.6;-139.9;155.0
+C;LYS;206;Sheet;31.6;-154.0;148.6
+C;HIS;207;Sheet;49.48;-132.2;125.3
+C;THR;208;Other (turns, coils, etc.);25.23;-135.5;120.6
+C;PRO;209;Other (turns, coils, etc.);76.11;-65.2;143.1
+C;ILE;210;Other (turns, coils, etc.);24.32;-139.8;164.3
+C;ASN;211;Other (turns, coils, etc.);80.6;-121.9;11.8
+C;LEU;212;Other (turns, coils, etc.);35.5;-69.1;127.1
+C;VAL;213;Other (turns, coils, etc.);54.0;-63.7;-42.7
+C;ARG;214;Other (turns, coils, etc.);63.32;-160.8;23.8
+C;ASP;215;Other (turns, coils, etc.);43.72;-137.6;166.2
+C;LEU;216;Other (turns, coils, etc.);6.01;-83.3;122.9
+C;PRO;217;Other (turns, coils, etc.);6.34;-80.7;132.5
+C;GLN;218;Other (turns, coils, etc.);83.99;-74.7;111.1
+C;GLY;219;Other (turns, coils, etc.);25.41;-178.1;157.6
+C;PHE;220;Other (turns, coils, etc.);27.9;-87.8;139.1
+C;SER;221;Other (turns, coils, etc.);3.41;-147.6;132.0
+C;ALA;222;Sheet;5.44;-98.7;128.2
+C;LEU;223;Sheet;0.0;-97.8;122.3
+C;GLU;224;Sheet;41.79;-77.3;144.7
+C;PRO;225;Sheet;23.26;-59.2;124.6
+C;LEU;226;Sheet;57.89;-96.4;-57.0
+C;VAL;227;Sheet;23.42;-156.6;146.2
+C;ASP;228;Sheet;38.86;-117.0;86.6
+C;LEU;229;Sheet;2.18;-75.2;138.2
+C;PRO;230;Other (turns, coils, etc.);11.98;-99.1;64.8
+C;ILE;231;Other (turns, coils, etc.);0.54;-62.8;-41.3
+C;GLY;232;Other (turns, coils, etc.);2.54;64.1;28.8
+C;ILE;233;Other (turns, coils, etc.);5.41;-122.0;152.5
+C;ASN;234;Other (turns, coils, etc.);55.33;-75.5;135.8
+C;ILE;235;Other (turns, coils, etc.);5.41;-133.0;119.2
+C;THR;236;Other (turns, coils, etc.);48.31;-121.1;-8.0
+C;ARG;237;Sheet;40.61;-146.2;156.9
+C;PHE;238;Sheet;0.0;-144.3;162.4
+C;GLN;239;Sheet;9.52;-136.1;164.9
+C;THR;240;Sheet;0.0;-111.4;119.6
+C;LEU;241;Sheet;0.0;-80.4;132.6
+C;LEU;242;Sheet;1.09;-129.3;153.0
+C;ALA;243;Sheet;2.72;-110.2;143.0
+C;LEU;244;Sheet;0.0;-131.4;141.9
+C;HIS;245;Sheet;9.35;-107.2;128.2
+C;ARG;246;Sheet;3.49;-115.1;135.9
+C;SER;247;Other (turns, coils, etc.);25.6;-137.0;-98.9
+C;TYR;248;Other (turns, coils, etc.);60.83;-112.1;8.0
+C;LEU;249;Other (turns, coils, etc.);59.53;-106.9;123.0
+C;THR;250;Other (turns, coils, etc.);73.54;41.8;59.7
+C;PRO;251;Other (turns, coils, etc.);74.7;-63.6;162.7
+C;GLY;252;Other (turns, coils, etc.);69.89;144.2;-9.7
+C;ASP;253;Other (turns, coils, etc.);63.15;76.7;-22.6
+C;SER;254;Other (turns, coils, etc.);35.84;-87.9;-41.0
+C;SER;255;Other (turns, coils, etc.);23.89;-130.1;32.0
+C;SER;256;Other (turns, coils, etc.);10.24;-66.7;55.6
+C;GLY;257;Other (turns, coils, etc.);11.44;52.2;34.2
+C;TRP;258;Other (turns, coils, etc.);0.0;-73.4;63.8
+C;THR;259;Sheet;38.21;-69.9;126.3
+C;ALA;260;Other (turns, coils, etc.);0.0;-106.8;115.9
+C;GLY;261;Other (turns, coils, etc.);31.77;-66.8;-25.6
+C;ALA;262;Other (turns, coils, etc.);13.61;166.0;127.6
+C;ALA;263;Sheet;3.63;-157.1;157.2
+C;ALA;264;Sheet;1.81;-142.8;144.7
+C;TYR;265;Sheet;2.81;-143.3;147.3
+C;TYR;266;Sheet;0.0;-126.6;130.2
+C;VAL;267;Sheet;0.0;-116.6;127.6
+C;GLY;268;Sheet;0.0;-128.3;163.3
+C;TYR;269;Sheet;23.4;-115.0;137.3
+C;LEU;270;Other (turns, coils, etc.);0.0;-76.5;156.9
+C;GLN;271;Sheet;37.51;-147.0;150.0
+C;PRO;272;Sheet;49.33;-59.5;127.3
+C;ARG;273;Sheet;24.89;-151.5;159.4
+C;THR;274;Sheet;19.47;-109.7;119.3
+C;PHE;275;Sheet;0.0;-121.5;137.6
+C;LEU;276;Sheet;2.18;-98.0;123.1
+C;LEU;277;Sheet;0.0;-115.8;130.3
+C;LYS;278;Sheet;42.29;-100.5;121.9
+C;TYR;279;Sheet;1.4;-95.2;130.4
+C;ASN;280;Other (turns, coils, etc.);45.08;-67.8;172.3
+C;GLU;281;Other (turns, coils, etc.);83.0;-59.9;-36.6
+C;ASN;282;Other (turns, coils, etc.);79.92;-88.0;9.5
+C;GLY;283;Other (turns, coils, etc.);0.0;78.7;8.2
+C;THR;284;Other (turns, coils, etc.);32.44;-83.3;145.0
+C;ILE;285;Sheet;3.78;-77.8;122.8
+C;THR;286;Sheet;43.26;-114.9;-12.4
+C;ASP;287;Sheet;31.23;-159.0;159.7
+C;ALA;288;Sheet;5.44;-154.2;153.7
+C;VAL;289;Sheet;6.51;-125.6;123.9
+C;ASP;290;Sheet;1.39;-91.0;111.0
+C;CYS;291;Other (turns, coils, etc.);1.42;-62.1;-30.3
+C;ALA;292;Other (turns, coils, etc.);14.52;-87.9;-6.3
+C;LEU;293;Other (turns, coils, etc.);8.74;-62.5;-48.9
+C;ASP;294;Other (turns, coils, etc.);17.35;-159.6;166.6
+C;PRO;295;Helix;0.0;-62.7;-31.3
+C;LEU;296;Helix;2.18;-69.3;-43.4
+C;SER;297;Helix;9.39;-64.0;-38.7
+C;GLU;298;Helix;0.0;-58.8;-46.4
+C;THR;299;Helix;1.44;-65.4;-38.9
+C;LYS;300;Helix;10.7;-59.0;-42.1
+C;CYS;301;Helix;6.41;-62.4;-43.2
+C;THR;302;Helix;28.12;-62.5;-44.0
+C;LEU;303;Helix;37.68;-75.7;-21.5
+C;LYS;304;Other (turns, coils, etc.);49.59;67.7;38.2
+C;SER;305;Other (turns, coils, etc.);29.01;-146.6;145.8
+C;PHE;306;Other (turns, coils, etc.);44.34;-67.6;-41.2
+C;THR;307;Other (turns, coils, etc.);51.91;-92.5;139.5
+C;VAL;308;Other (turns, coils, etc.);0.65;-132.4;123.6
+C;GLU;309;Other (turns, coils, etc.);66.4;-80.1;-172.0
+C;LYS;310;Other (turns, coils, etc.);52.5;-75.0;131.0
+C;GLY;311;Sheet;16.52;-179.3;168.8
+C;ILE;312;Other (turns, coils, etc.);23.24;-70.2;-37.2
+C;TYR;313;Other (turns, coils, etc.);26.67;39.6;79.8
+C;GLN;314;Sheet;39.19;-57.8;132.8
+C;THR;315;Other (turns, coils, etc.);9.37;-118.3;144.2
+C;SER;316;Other (turns, coils, etc.);32.42;-77.0;149.0
+C;ASN;317;Other (turns, coils, etc.);31.42;-72.1;121.4
+C;PHE;318;Other (turns, coils, etc.);29.9;-112.8;23.7
+C;ARG;319;Other (turns, coils, etc.);13.54;-117.4;150.0
+C;VAL;320;Other (turns, coils, etc.);64.41;-85.9;147.7
+C;GLN;321;Other (turns, coils, etc.);9.52;-134.3;-33.2
+C;PRO;322;Other (turns, coils, etc.);31.71;-98.4;125.1
+C;THR;323;Other (turns, coils, etc.);85.8;-122.0;-2.8
+C;GLU;324;Sheet;40.07;-115.6;134.4
+C;SER;325;Sheet;73.38;-122.1;127.3
+C;ILE;326;Sheet;3.78;-120.8;144.1
+C;VAL;327;Sheet;14.31;-123.9;126.3
+C;ARG;328;Sheet;6.99;-124.9;108.0
+C;PHE;329;Other (turns, coils, etc.);2.99;-125.2;150.2
+C;PRO;330;Other (turns, coils, etc.);18.32;-68.0;167.8
+C;ASN;331;Other (turns, coils, etc.);84.02;-86.5;98.1
+C;ILE;332;Other (turns, coils, etc.);19.46;-121.9;124.5
+C;THR;333;Other (turns, coils, etc.);100.22;-109.8;-30.7
+C;ASN;334;Other (turns, coils, etc.);62.16;-81.1;128.8
+C;LEU;335;Sheet;48.06;-62.5;149.9
+C;CYS;336;Other (turns, coils, etc.);7.83;-60.1;144.6
+C;PRO;337;Other (turns, coils, etc.);28.19;-82.3;64.2
+C;PHE;338;Helix;15.45;-62.8;-36.3
+C;GLY;339;Helix;52.1;-50.7;-58.1
+C;GLU;340;Helix;73.84;-63.7;-40.7
+C;VAL;341;Helix;7.81;-68.5;-45.7
+C;PHE;342;Helix;7.47;-99.4;-44.5
+C;ASN;343;Other (turns, coils, etc.);92.21;-97.2;55.7
+C;ALA;344;Other (turns, coils, etc.);23.59;-97.3;144.6
+C;THR;345;Other (turns, coils, etc.);79.31;-59.9;-35.0
+C;ARG;346;Other (turns, coils, etc.);74.67;-138.4;151.4
+C;PHE;347;Other (turns, coils, etc.);9.47;-123.0;159.4
+C;ALA;348;Other (turns, coils, etc.);21.78;-75.5;151.5
+C;SER;349;Sheet;18.77;-63.3;147.4
+C;VAL;350;Other (turns, coils, etc.);0.0;-60.1;-39.8
+C;TYR;351;Other (turns, coils, etc.);19.19;-62.7;-40.7
+C;ALA;352;Other (turns, coils, etc.);29.95;-101.5;48.6
+C;TRP;353;Other (turns, coils, etc.);1.25;-54.8;133.5
+C;ASN;354;Sheet;58.06;-89.1;140.4
+C;ARG;355;Sheet;14.41;-123.4;121.4
+C;LYS;356;Sheet;40.84;-114.6;123.6
+C;ARG;357;Sheet;48.03;-66.6;137.2
+C;ILE;358;Other (turns, coils, etc.);6.49;-118.8;135.9
+C;SER;359;Other (turns, coils, etc.);46.93;-159.0;158.5
+C;ASN;360;Other (turns, coils, etc.);55.33;52.3;60.4
+C;CYS;361;Sheet;1.42;-147.0;145.9
+C;VAL;362;Sheet;20.17;-91.7;115.3
+C;ALA;363;Other (turns, coils, etc.);12.7;-84.6;73.8
+C;ASP;364;Other (turns, coils, etc.);24.98;-99.2;115.8
+C;TYR;365;Other (turns, coils, etc.);18.72;-92.7;3.3
+C;SER;366;Other (turns, coils, etc.);34.13;-62.5;-36.2
+C;VAL;367;Other (turns, coils, etc.);44.24;-59.7;-30.3
+C;LEU;368;Helix;6.55;-78.8;-14.2
+C;TYR;369;Helix;13.1;-60.7;-36.4
+C;ASN;370;Helix;60.11;-90.0;-36.4
+C;SER;371;Helix;80.2;-72.7;-35.1
+C;ALA;372;Other (turns, coils, etc.);28.13;-132.9;152.9
+C;SER;373;Other (turns, coils, etc.);15.36;-122.7;136.0
+C;PHE;374;Other (turns, coils, etc.);13.95;-119.5;114.8
+C;SER;375;Other (turns, coils, etc.);43.52;-60.0;-46.9
+C;THR;376;Sheet;37.49;-124.9;125.4
+C;PHE;377;Sheet;17.94;-133.8;115.7
+C;LYS;378;Sheet;45.7;-136.9;121.4
+C;CYS;379;Sheet;10.68;-106.6;137.2
+C;TYR;380;Other (turns, coils, etc.);37.9;-107.4;-44.6
+C;GLY;381;Other (turns, coils, etc.);12.71;-87.8;-10.3
+C;VAL;382;Other (turns, coils, etc.);2.6;-150.7;149.6
+C;SER;383;Other (turns, coils, etc.);8.53;-72.7;139.4
+C;PRO;384;Helix;16.21;-68.5;-27.7
+C;THR;385;Helix;31.72;-62.4;-31.9
+C;LYS;386;Helix;25.77;-90.1;-3.0
+C;LEU;387;Helix;6.55;-58.3;-34.8
+C;ASN;388;Helix;25.96;-65.8;-29.9
+C;ASP;389;Helix;34.0;-96.0;3.6
+C;LEU;390;Other (turns, coils, etc.);0.55;-109.9;162.5
+C;CYS;391;Sheet;0.0;-119.9;151.2
+C;PHE;392;Sheet;6.98;-124.1;116.5
+C;THR;393;Other (turns, coils, etc.);7.21;-67.2;-49.5
+C;ASN;394;Other (turns, coils, etc.);18.44;-133.7;59.6
+C;VAL;395;Other (turns, coils, etc.);7.16;-77.2;121.5
+C;TYR;396;Sheet;6.08;-117.8;143.0
+C;ALA;397;Sheet;2.72;-115.6;117.7
+C;ASP;398;Sheet;0.0;-104.7;117.8
+C;SER;399;Sheet;13.65;-119.6;132.1
+C;PHE;400;Sheet;0.0;-162.3;167.8
+C;VAL;401;Sheet;0.0;-119.4;136.1
+C;ILE;402;Sheet;0.0;-141.4;174.0
+C;ARG;403;Sheet;20.09;-74.0;162.2
+C;GLY;404;Helix;22.87;-65.1;-32.4
+C;ASP;405;Helix;12.49;-93.0;3.9
+C;GLU;406;Helix;0.0;-94.7;-7.3
+C;VAL;407;Helix;13.01;-60.2;-37.1
+C;ARG;408;Helix;24.89;-65.2;-18.9
+C;GLN;409;Helix;7.84;-79.4;-16.3
+C;ILE;410;Other (turns, coils, etc.);2.7;-84.1;64.5
+C;ALA;411;Other (turns, coils, etc.);19.06;-148.9;150.5
+C;PRO;412;Other (turns, coils, etc.);24.67;-55.5;133.7
+C;GLY;413;Other (turns, coils, etc.);8.89;78.6;-1.4
+C;GLN;414;Other (turns, coils, etc.);19.6;-75.7;161.1
+C;THR;415;Other (turns, coils, etc.);5.77;-137.9;159.3
+C;GLY;416;Other (turns, coils, etc.);6.35;133.7;168.7
+C;LYS;417;Helix;3.89;-55.9;-36.9
+C;ILE;418;Helix;0.0;-70.1;-45.9
+C;ALA;419;Helix;2.72;-65.1;-45.0
+C;ASP;420;Helix;6.25;-69.9;-46.5
+C;TYR;421;Helix;14.04;-124.5;6.3
+C;ASN;422;Other (turns, coils, etc.);0.68;-132.2;-56.1
+C;TYR;423;Other (turns, coils, etc.);1.87;-140.2;121.4
+C;LYS;424;Other (turns, coils, etc.);16.53;-120.9;124.0
+C;LEU;425;Other (turns, coils, etc.);2.73;-85.0;145.4
+C;PRO;426;Other (turns, coils, etc.);7.75;-60.4;152.4
+C;ASP;427;Other (turns, coils, etc.);35.39;-71.9;-42.6
+C;ASP;428;Other (turns, coils, etc.);89.52;-82.3;57.8
+C;PHE;429;Other (turns, coils, etc.);7.47;-84.3;120.0
+C;THR;430;Other (turns, coils, etc.);28.84;-103.5;116.7
+C;GLY;431;Sheet;0.0;155.8;-173.2
+C;CYS;432;Sheet;2.14;-129.2;142.7
+C;VAL;433;Sheet;2.6;-112.1;128.6
+C;ILE;434;Sheet;4.32;-126.5;130.2
+C;ALA;435;Sheet;0.0;-141.2;144.4
+C;TRP;436;Sheet;13.72;-148.1;151.6
+C;ASN;437;Sheet;28.01;-67.9;129.5
+C;SER;438;Other (turns, coils, etc.);5.97;-118.6;16.3
+C;ASN;439;Helix;13.66;-45.8;-41.7
+C;ASN;440;Helix;99.73;-62.2;-34.0
+C;LEU;441;Helix;60.62;-103.1;-27.1
+C;ASP;442;Helix;0.69;-107.6;3.5
+C;SER;443;Other (turns, coils, etc.);11.95;-117.5;154.0
+C;LYS;444;Other (turns, coils, etc.);54.93;-138.0;157.7
+C;VAL;445;Other (turns, coils, etc.);85.23;-61.2;-39.8
+C;GLY;446;Other (turns, coils, etc.);85.13;-81.8;-8.5
+C;GLY;447;Other (turns, coils, etc.);15.25;108.9;154.0
+C;ASN;448;Sheet;5.46;-117.4;111.5
+C;TYR;449;Other (turns, coils, etc.);59.43;-112.5;7.2
+C;ASN;450;Other (turns, coils, etc.);71.04;-66.5;-41.5
+C;TYR;451;Other (turns, coils, etc.);4.68;-71.0;137.6
+C;LEU;452;Sheet;24.03;-132.4;156.4
+C;TYR;453;Sheet;0.47;-138.3;154.6
+C;ARG;454;Sheet;2.18;-87.2;115.9
+C;LEU;455;Other (turns, coils, etc.);7.1;-85.6;-39.1
+C;PHE;456;Other (turns, coils, etc.);29.9;-119.8;136.9
+C;ARG;457;Other (turns, coils, etc.);16.59;-151.1;155.2
+C;LYS;458;Other (turns, coils, etc.);77.78;-66.4;-36.0
+C;SER;459;Other (turns, coils, etc.);59.73;-147.7;155.4
+C;ASN;460;Other (turns, coils, etc.);52.6;-63.3;141.1
+C;LEU;461;Other (turns, coils, etc.);4.37;-64.1;146.5
+C;LYS;462;Other (turns, coils, etc.);69.52;-79.0;159.2
+C;PRO;463;Other (turns, coils, etc.);18.32;-54.1;126.9
+C;PHE;464;Other (turns, coils, etc.);4.98;57.7;35.0
+C;GLU;465;Other (turns, coils, etc.);8.59;-99.9;144.7
+C;ARG;466;Other (turns, coils, etc.);10.48;-131.5;121.4
+C;ASP;467;Other (turns, coils, etc.);13.19;-115.1;129.5
+C;ILE;468;Other (turns, coils, etc.);10.81;-114.2;8.0
+C;SER;469;Other (turns, coils, etc.);22.18;-58.1;137.3
+C;THR;470;Other (turns, coils, etc.);51.91;-110.6;6.0
+C;GLU;471;Other (turns, coils, etc.);56.67;-54.6;135.1
+C;ILE;472;Other (turns, coils, etc.);26.49;-64.4;132.5
+C;TYR;473;Sheet;27.14;-95.2;116.1
+C;GLN;474;Sheet;31.35;-91.7;119.9
+C;ALA;475;Other (turns, coils, etc.);49.91;-77.8;-41.1
+C;GLY;476;Other (turns, coils, etc.);17.79;-72.7;163.2
+C;SER;477;Other (turns, coils, etc.);104.1;-63.3;-41.9
+C;THR;478;Other (turns, coils, etc.);76.42;-44.4;118.9
+C;PRO;479;Other (turns, coils, etc.);56.38;-57.1;133.8
+C;CYS;480;Other (turns, coils, etc.);9.97;-75.3;-45.7
+C;ASN;481;Other (turns, coils, etc.);94.26;58.6;34.8
+C;GLY;482;Other (turns, coils, etc.);44.47;83.9;-129.5
+C;VAL;483;Other (turns, coils, etc.);83.28;38.7;69.9
+C;GLU;484;Other (turns, coils, etc.);66.4;-52.9;131.5
+C;GLY;485;Other (turns, coils, etc.);54.64;-154.7;-149.5
+C;PHE;486;Other (turns, coils, etc.);93.67;-61.7;-46.4
+C;ASN;487;Other (turns, coils, etc.);43.03;-122.4;20.3
+C;CYS;488;Sheet;9.26;-118.9;135.4
+C;TYR;489;Sheet;33.69;-139.1;139.9
+C;PHE;490;Other (turns, coils, etc.);39.86;-60.9;136.9
+C;PRO;491;Other (turns, coils, etc.);2.11;-80.8;-23.6
+C;LEU;492;Sheet;8.74;-96.5;132.4
+C;GLN;493;Sheet;43.67;-114.0;128.7
+C;SER;494;Sheet;29.86;-67.2;141.8
+C;TYR;495;Other (turns, coils, etc.);0.47;-79.7;160.5
+C;GLY;496;Other (turns, coils, etc.);34.31;-130.5;76.4
+C;PHE;497;Sheet;0.5;-88.0;132.1
+C;GLN;498;Other (turns, coils, etc.);24.08;-140.7;145.0
+C;PRO;499;Other (turns, coils, etc.);40.17;-65.7;-30.0
+C;THR;500;Other (turns, coils, etc.);99.5;-97.5;3.3
+C;ASN;501;Other (turns, coils, etc.);36.89;-70.2;149.2
+C;GLY;502;Other (turns, coils, etc.);44.47;-58.8;153.7
+C;VAL;503;Other (turns, coils, etc.);24.72;-57.8;-32.3
+C;GLY;504;Other (turns, coils, etc.);29.22;-66.5;-29.6
+C;TYR;505;Other (turns, coils, etc.);38.37;-100.9;-3.5
+C;GLN;506;Other (turns, coils, etc.);15.12;-65.6;149.0
+C;PRO;507;Sheet;0.0;-73.2;139.9
+C;TYR;508;Sheet;10.29;-127.1;129.4
+C;ARG;509;Sheet;0.87;-84.8;131.0
+C;VAL;510;Sheet;0.0;-121.8;132.9
+C;VAL;511;Sheet;0.0;-121.2;126.6
+C;VAL;512;Sheet;0.0;-111.2;130.7
+C;LEU;513;Sheet;16.93;-111.9;122.1
+C;SER;514;Sheet;7.68;-114.0;134.0
+C;PHE;515;Other (turns, coils, etc.);9.97;-161.4;161.8
+C;GLU;516;Other (turns, coils, etc.);41.21;-118.0;152.1
+C;LEU;517;Other (turns, coils, etc.);3.82;-112.7;-83.0
+C;LEU;518;Other (turns, coils, etc.);13.11;-62.6;-39.7
+C;HIS;519;Other (turns, coils, etc.);29.69;-71.9;142.5
+C;ALA;520;Other (turns, coils, etc.);1.81;71.9;175.1
+C;PRO;521;Other (turns, coils, etc.);44.4;-82.6;132.6
+C;ALA;522;Other (turns, coils, etc.);8.17;-105.4;123.6
+C;THR;523;Other (turns, coils, etc.);29.56;-100.3;-1.5
+C;VAL;524;Sheet;1.95;-121.9;127.2
+C;CYS;525;Sheet;4.27;-139.3;154.0
+C;GLY;526;Other (turns, coils, etc.);5.08;-67.6;179.1
+C;PRO;527;Other (turns, coils, etc.);38.76;-98.9;75.2
+C;LYS;528;Other (turns, coils, etc.);34.52;-117.2;130.4
+C;LYS;529;Other (turns, coils, etc.);95.28;-68.7;129.1
+C;SER;530;Other (turns, coils, etc.);36.69;-65.8;149.3
+C;THR;531;Other (turns, coils, etc.);37.49;-116.0;164.5
+C;ASN;532;Other (turns, coils, etc.);99.73;-62.2;138.1
+C;LEU;533;Other (turns, coils, etc.);26.22;-66.3;131.1
+C;VAL;534;Other (turns, coils, etc.);24.72;-115.1;132.8
+C;LYS;535;Other (turns, coils, etc.);29.17;-132.2;156.1
+C;ASN;536;Other (turns, coils, etc.);80.6;65.5;22.6
+C;LYS;537;Other (turns, coils, etc.);50.56;-139.6;155.7
+C;CYS;538;Sheet;9.97;-76.4;112.3
+C;VAL;539;Sheet;0.0;-136.6;154.0
+C;ASN;540;Sheet;38.25;-86.9;127.2
+C;PHE;541;Sheet;4.48;-120.0;148.5
+C;ASN;542;Sheet;8.2;-129.1;100.6
+C;PHE;543;Sheet;1.99;-108.6;109.3
+C;ASN;544;Other (turns, coils, etc.);8.88;52.7;39.2
+C;GLY;545;Other (turns, coils, etc.);1.27;83.6;4.3
+C;LEU;546;Sheet;7.1;-96.6;109.1
+C;THR;547;Sheet;34.61;-95.3;137.1
+C;GLY;548;Sheet;11.44;-168.9;172.0
+C;THR;549;Sheet;25.23;-120.3;126.3
+C;GLY;550;Sheet;0.0;-175.6;175.0
+C;VAL;551;Sheet;6.51;-95.7;130.5
+C;LEU;552;Sheet;0.0;-103.3;129.0
+C;THR;553;Sheet;10.09;-133.5;163.3
+C;GLU;554;Sheet;78.42;-73.0;142.3
+C;SER;555;Other (turns, coils, etc.);11.09;-111.4;131.8
+C;ASN;556;Other (turns, coils, etc.);99.04;-71.9;-22.8
+C;LYS;557;Other (turns, coils, etc.);12.15;-73.2;135.2
+C;LYS;558;Other (turns, coils, etc.);83.13;-118.4;115.7
+C;PHE;559;Other (turns, coils, etc.);2.99;-64.9;142.8
+C;LEU;560;Other (turns, coils, etc.);22.94;-63.9;160.4
+C;PRO;561;Other (turns, coils, etc.);80.34;-59.7;-35.8
+C;PHE;562;Other (turns, coils, etc.);10.96;-71.0;-27.6
+C;GLN;563;Other (turns, coils, etc.);0.56;-85.7;133.0
+C;GLN;564;Other (turns, coils, etc.);8.4;-112.6;-21.0
+C;PHE;565;Sheet;4.98;-153.9;157.9
+C;GLY;566;Sheet;0.0;-108.8;157.5
+C;ARG;567;Other (turns, coils, etc.);10.04;-136.6;149.3
+C;ASP;568;Other (turns, coils, etc.);17.35;-91.8;-159.9
+C;ILE;569;Other (turns, coils, etc.);35.68;-75.9;-17.8
+C;ALA;570;Other (turns, coils, etc.);8.17;-96.2;0.7
+C;ASP;571;Other (turns, coils, etc.);29.84;69.5;15.6
+C;THR;572;Other (turns, coils, etc.);46.14;-82.2;161.4
+C;THR;573;Other (turns, coils, etc.);6.49;-83.7;89.6
+C;ASP;574;Other (turns, coils, etc.);16.66;-68.3;-40.5
+C;ALA;575;Sheet;0.0;-129.5;143.5
+C;VAL;576;Sheet;1.95;-131.1;163.9
+C;ARG;577;Sheet;13.54;-112.5;137.0
+C;ASP;578;Other (turns, coils, etc.);0.69;-63.1;145.0
+C;PRO;579;Other (turns, coils, etc.);18.32;-81.7;-29.0
+C;GLN;580;Other (turns, coils, etc.);35.83;-85.2;-40.3
+C;THR;581;Other (turns, coils, etc.);49.03;-120.2;135.8
+C;LEU;582;Other (turns, coils, etc.);75.91;-80.3;53.7
+C;GLU;583;Other (turns, coils, etc.);30.91;-98.6;136.6
+C;ILE;584;Sheet;7.03;-90.9;131.4
+C;LEU;585;Sheet;0.0;-122.0;121.7
+C;ASP;586;Sheet;2.78;-78.4;147.5
+C;ILE;587;Sheet;16.22;-117.4;115.1
+C;THR;588;Sheet;1.44;-114.5;132.4
+C;PRO;589;Other (turns, coils, etc.);29.6;-49.2;137.7
+C;CYS;590;Other (turns, coils, etc.);6.41;-68.5;-45.2
+C;SER;591;Other (turns, coils, etc.);11.95;-82.8;142.9
+C;PHE;592;Other (turns, coils, etc.);7.47;-108.7;-5.6
+C;GLY;593;Other (turns, coils, etc.);36.85;67.1;-176.5
+C;GLY;594;Other (turns, coils, etc.);26.68;94.6;75.3
+C;VAL;595;Sheet;11.06;-139.8;139.7
+C;SER;596;Sheet;0.0;-145.8;145.4
+C;VAL;597;Sheet;0.0;-114.3;105.4
+C;ILE;598;Sheet;1.08;-88.3;120.2
+C;THR;599;Sheet;0.0;-139.5;138.8
+C;PRO;600;Other (turns, coils, etc.);4.93;-63.2;170.0
+C;GLY;601;Other (turns, coils, etc.);12.71;-59.1;140.0
+C;THR;602;Other (turns, coils, etc.);13.7;-65.0;-27.5
+C;ASN;603;Other (turns, coils, etc.);112.02;-62.9;-42.9
+C;THR;604;Other (turns, coils, etc.);69.94;-69.2;-44.0
+C;SER;605;Other (turns, coils, etc.);17.06;-166.4;155.5
+C;ASN;606;Other (turns, coils, etc.);69.67;-98.1;3.3
+C;GLN;607;Other (turns, coils, etc.);42.55;-64.4;138.9
+C;VAL;608;Other (turns, coils, etc.);1.3;-134.9;158.4
+C;ALA;609;Sheet;0.0;-124.4;137.0
+C;VAL;610;Sheet;0.0;-114.9;128.3
+C;LEU;611;Sheet;0.0;-113.5;132.2
+C;TYR;612;Sheet;1.4;-116.2;111.2
+C;GLN;613;Other (turns, coils, etc.);12.32;-62.9;-48.2
+C;ASP;614;Other (turns, coils, etc.);9.72;-106.3;16.1
+C;VAL;615;Other (turns, coils, etc.);7.81;-120.3;116.9
+C;ASN;616;Other (turns, coils, etc.);45.77;-68.2;151.8
+C;CYS;617;Other (turns, coils, etc.);19.94;-57.3;-34.7
+C;THR;618;Other (turns, coils, etc.);75.7;-62.1;-37.9
+C;GLU;619;Other (turns, coils, etc.);49.23;-92.5;-3.2
+C;VAL;620;Helix;0.0;-57.3;-46.0
+C;PRO;621;Helix;33.12;-63.0;-37.9
+C;VAL;622;Helix;70.92;-67.4;-44.5
+C;ALA;623;Helix;35.39;-62.8;-37.8
+C;ILE;624;Other (turns, coils, etc.);7.03;-103.5;4.2
+C;HIS;625;Other (turns, coils, etc.);24.19;58.4;49.4
+C;ALA;626;Helix;1.81;-58.8;-35.5
+C;ASP;627;Helix;97.15;-55.1;-40.6
+C;GLN;628;Helix;54.31;-92.5;0.7
+C;LEU;629;Other (turns, coils, etc.);6.55;-80.3;170.7
+C;THR;630;Other (turns, coils, etc.);29.56;-61.1;150.4
+C;PRO;631;Helix;59.2;-57.2;-36.8
+C;THR;632;Helix;34.61;-62.5;-42.9
+C;TRP;633;Helix;0.0;-61.9;-37.9
+C;ARG;634;Helix;44.54;-60.2;-37.0
+C;VAL;635;Helix;57.91;-57.0;-34.3
+C;TYR;636;Other (turns, coils, etc.);17.31;-89.9;7.5
+C;SER;637;Other (turns, coils, etc.);14.51;-115.2;-9.4
+C;THR;638;Other (turns, coils, etc.);56.96;-63.8;143.5
+C;GLY;639;Other (turns, coils, etc.);48.28;-62.4;-177.8
+C;SER;640;Other (turns, coils, etc.);104.95;86.7;-34.4
+C;ASN;641;Other (turns, coils, etc.);51.91;-111.2;15.5
+C;VAL;642;Sheet;39.04;-75.7;125.9
+C;PHE;643;Sheet;18.93;-129.5;129.5
+C;GLN;644;Sheet;44.23;-98.2;123.9
+C;THR;645;Other (turns, coils, etc.);12.98;-123.9;174.9
+C;ARG;646;Other (turns, coils, etc.);72.05;-71.8;-26.5
+C;ALA;647;Other (turns, coils, etc.);1.81;-74.6;-29.3
+C;GLY;648;Other (turns, coils, etc.);3.81;155.0;-178.4
+C;CYS;649;Sheet;0.0;-73.5;132.4
+C;LEU;650;Sheet;0.0;-117.9;129.4
+C;ILE;651;Sheet;0.54;-126.2;138.9
+C;GLY;652;Other (turns, coils, etc.);19.06;99.0;4.3
+C;ALA;653;Other (turns, coils, etc.);1.81;-126.0;130.5
+C;GLU;654;Sheet;26.9;-78.9;119.0
+C;HIS;655;Sheet;36.83;-70.9;124.1
+C;VAL;656;Other (turns, coils, etc.);8.46;-119.4;139.0
+C;ASN;657;Other (turns, coils, etc.);90.16;-72.0;-26.5
+C;ASN;658;Other (turns, coils, etc.);53.28;-65.1;132.7
+C;SER;659;Other (turns, coils, etc.);54.61;-101.3;129.4
+C;TYR;660;Other (turns, coils, etc.);28.08;-126.9;168.6
+C;GLU;661;Other (turns, coils, etc.);88.72;-60.9;144.0
+C;CYS;662;Other (turns, coils, etc.);34.19;-71.4;120.8
+C;ASP;663;Other (turns, coils, etc.);45.8;-91.2;-59.0
+C;ILE;664;Sheet;4.86;-120.8;128.3
+C;PRO;665;Sheet;31.71;-92.5;110.5
+C;ILE;666;Sheet;5.41;-68.7;-42.3
+C;GLY;667;Sheet;6.35;115.7;163.3
+C;ALA;668;Other (turns, coils, etc.);9.07;58.3;38.6
+C;GLY;669;Other (turns, coils, etc.);2.54;81.1;-0.1
+C;ILE;670;Sheet;8.65;-106.2;140.4
+C;CYS;671;Sheet;0.0;-135.2;157.9
+C;ALA;672;Sheet;0.0;-121.0;152.4
+C;SER;673;Sheet;17.92;-150.7;165.0
+C;TYR;674;Sheet;21.53;-103.7;110.4
+C;GLN;675;Sheet;28.56;-125.8;142.5
+C;THR;676;Sheet;27.4;-67.0;131.2
+C;GLN;677;Other (turns, coils, etc.);14.0;-86.8;42.3
+C;THR;678;Other (turns, coils, etc.);51.91;-118.3;-11.1
+C;ASN;679;Other (turns, coils, etc.);59.43;-62.2;-97.7
+C;SER;680;Other (turns, coils, etc.);17.06;-21.7;128.6
+C;PRO;681;Other (turns, coils, etc.);85.98;-69.5;-5.1
+C;ARG;682;Other (turns, coils, etc.);88.21;-87.0;-12.6
+C;ARG;683;Other (turns, coils, etc.);43.67;-90.3;162.6
+C;ALA;684;Other (turns, coils, etc.);71.69;-55.3;-31.8
+C;ARG;685;Other (turns, coils, etc.);26.2;63.7;28.9
+C;SER;686;Other (turns, coils, etc.);93.0;-107.9;-24.5
+C;VAL;687;Other (turns, coils, etc.);57.91;-132.9;122.4
+C;ALA;688;Other (turns, coils, etc.);58.98;-62.4;142.9
+C;SER;689;Other (turns, coils, etc.);43.52;-151.2;154.2
+C;GLN;690;Sheet;38.63;-125.3;132.1
+C;SER;691;Sheet;17.92;-144.6;156.0
+C;ILE;692;Sheet;3.24;-78.4;126.1
+C;ILE;693;Sheet;3.24;-116.2;147.6
+C;ALA;694;Sheet;0.0;-115.6;136.4
+C;TYR;695;Sheet;0.47;-149.8;156.7
+C;THR;696;Sheet;43.26;-71.8;127.5
+C;MET;697;Other (turns, coils, etc.);7.0;-62.5;140.9
+C;SER;698;Other (turns, coils, etc.);37.54;-83.0;123.0
+C;LEU;699;Other (turns, coils, etc.);6.55;-66.7;-42.1
+C;GLY;700;Other (turns, coils, etc.);31.77;170.5;-173.6
+C;ALA;701;Other (turns, coils, etc.);56.26;-75.2;128.6
+C;GLU;702;Sheet;65.83;-66.0;135.3
+C;ASN;703;Sheet;48.5;-147.3;150.5
+C;SER;704;Sheet;74.23;-125.2;126.6
+C;VAL;705;Other (turns, coils, etc.);9.76;-80.6;125.4
+C;ALA;706;Other (turns, coils, etc.);69.87;-79.0;108.7
+C;TYR;707;Other (turns, coils, etc.);11.23;-108.7;132.4
+C;SER;708;Other (turns, coils, etc.);24.74;-144.7;160.8
+C;ASN;709;Other (turns, coils, etc.);60.79;-80.2;-15.1
+C;ASN;710;Other (turns, coils, etc.);58.06;-127.1;18.9
+C;SER;711;Sheet;23.89;-118.7;136.3
+C;ILE;712;Sheet;4.86;-132.8;155.0
+C;ALA;713;Sheet;3.63;-114.6;129.7
+C;ILE;714;Sheet;0.54;-121.8;133.4
+C;PRO;715;Sheet;0.7;-70.3;138.1
+C;THR;716;Other (turns, coils, etc.);34.61;-105.5;2.7
+C;ASN;717;Other (turns, coils, etc.);29.37;-159.1;169.8
+C;PHE;718;Sheet;1.0;-137.7;162.5
+C;THR;719;Sheet;47.58;-129.3;126.1
+C;ILE;720;Sheet;4.32;-86.6;127.3
+C;SER;721;Sheet;36.69;-121.9;145.8
+C;VAL;722;Sheet;6.51;-121.0;125.0
+C;THR;723;Sheet;34.61;-123.6;157.6
+C;THR;724;Sheet;42.54;-111.8;129.8
+C;GLU;725;Sheet;22.32;-120.7;130.6
+C;ILE;726;Sheet;12.43;-118.5;123.0
+C;LEU;727;Sheet;5.46;-126.7;123.2
+C;PRO;728;Sheet;9.87;-55.0;132.8
+C;VAL;729;Other (turns, coils, etc.);0.65;-108.1;-30.0
+C;SER;730;Other (turns, coils, etc.);11.95;-153.4;165.3
+C;MET;731;Other (turns, coils, etc.);1.5;-129.6;169.3
+C;THR;732;Other (turns, coils, etc.);10.81;-63.9;137.6
+C;LYS;733;Sheet;9.72;-94.4;123.0
+C;THR;734;Sheet;5.77;-126.5;148.5
+C;SER;735;Sheet;23.04;-131.3;150.4
+C;VAL;736;Sheet;8.46;-128.7;125.9
+C;ASP;737;Other (turns, coils, etc.);29.15;-82.3;115.1
+C;CYS;738;Helix;4.99;-65.4;-43.7
+C;THR;739;Helix;28.84;-68.5;-43.1
+C;MET;740;Helix;5.5;-63.0;-44.0
+C;TYR;741;Helix;1.4;-65.0;-47.4
+C;ILE;742;Helix;0.0;-78.4;-45.8
+C;CYS;743;Helix;2.14;-97.3;-19.8
+C;GLY;744;Other (turns, coils, etc.);62.26;63.8;30.9
+C;ASP;745;Other (turns, coils, etc.);39.56;68.7;42.2
+C;SER;746;Other (turns, coils, etc.);11.09;-105.6;125.4
+C;THR;747;Other (turns, coils, etc.);69.94;-66.5;-40.1
+C;GLU;748;Other (turns, coils, etc.);62.39;-63.4;-40.5
+C;CYS;749;Other (turns, coils, etc.);1.42;-72.0;166.3
+C;SER;750;Other (turns, coils, etc.);36.69;86.8;-34.1
+C;ASN;751;Other (turns, coils, etc.);41.67;-60.7;-43.8
+C;LEU;752;Helix;16.93;-67.5;-30.1
+C;LEU;753;Helix;4.92;-80.4;-7.2
+C;LEU;754;Helix;43.69;-57.4;-44.0
+C;GLN;755;Other (turns, coils, etc.);42.55;-72.3;-25.4
+C;TYR;756;Other (turns, coils, etc.);2.81;-90.9;-0.9
+C;GLY;757;Helix;31.77;-62.8;-29.4
+C;SER;758;Helix;31.57;-61.6;-38.7
+C;PHE;759;Helix;4.48;-64.0;-43.7
+C;CYS;760;Helix;7.12;-60.0;-43.7
+C;THR;761;Helix;34.61;-60.1;-39.4
+C;GLN;762;Helix;15.12;-61.8;-42.8
+C;LEU;763;Helix;7.65;-63.7;-44.0
+C;ASN;764;Helix;38.93;-63.0;-40.1
+C;ARG;765;Helix;36.24;-60.9;-39.8
+C;ALA;766;Helix;10.89;-65.4;-44.7
+C;LEU;767;Helix;3.82;-63.5;-41.9
+C;THR;768;Helix;52.63;-63.2;-38.9
+C;GLY;769;Helix;47.01;-61.7;-37.8
+C;ILE;770;Helix;5.41;-65.0;-44.0
+C;ALA;771;Helix;8.17;-62.6;-46.0
+C;VAL;772;Helix;58.56;-64.8;-33.5
+C;GLU;773;Helix;16.03;-62.5;-42.5
+C;GLN;774;Helix;1.68;-63.1;-41.7
+C;ASP;775;Helix;21.51;-62.2;-41.3
+C;LYS;776;Helix;42.78;-61.6;-43.7
+C;ASN;777;Helix;0.0;-59.7;-44.7
+C;THR;778;Helix;7.93;-61.5;-42.7
+C;GLN;779;Helix;35.83;-62.9;-44.9
+C;GLU;780;Helix;37.21;-62.5;-40.7
+C;VAL;781;Helix;0.0;-70.1;-46.2
+C;PHE;782;Helix;2.49;-100.4;-18.6
+C;ALA;783;Other (turns, coils, etc.);11.8;-103.0;27.5
+C;GLN;784;Other (turns, coils, etc.);25.2;-59.2;-38.6
+C;VAL;785;Other (turns, coils, etc.);7.16;-113.1;125.7
+C;LYS;786;Other (turns, coils, etc.);46.67;-84.0;-16.5
+C;GLN;787;Other (turns, coils, etc.);47.59;-71.6;120.4
+C;ILE;788;Sheet;4.32;-90.8;104.7
+C;TYR;789;Sheet;4.68;-85.3;110.9
+C;LYS;790;Sheet;56.39;-60.2;132.9
+C;THR;791;Other (turns, coils, etc.);25.23;-63.5;125.3
+C;PRO;792;Other (turns, coils, etc.);19.73;-68.9;161.1
+C;PRO;793;Other (turns, coils, etc.);82.45;-50.9;130.9
+C;ILE;794;Other (turns, coils, etc.);58.92;-58.5;116.1
+C;LYS;795;Other (turns, coils, etc.);36.95;-102.3;170.4
+C;ASP;796;Other (turns, coils, etc.);63.84;-59.0;131.1
+C;PHE;797;Other (turns, coils, etc.);4.48;-113.8;12.5
+C;GLY;798;Other (turns, coils, etc.);10.17;88.3;23.0
+C;GLY;799;Other (turns, coils, etc.);48.28;86.2;-3.4
+C;PHE;800;Other (turns, coils, etc.);4.48;-71.5;130.9
+C;ASN;801;Other (turns, coils, etc.);56.69;-105.7;114.2
+C;PHE;802;Other (turns, coils, etc.);1.99;-111.8;6.9
+C;SER;803;Other (turns, coils, etc.);52.9;-59.4;-38.7
+C;GLN;804;Other (turns, coils, etc.);34.15;-60.7;-39.0
+C;ILE;805;Other (turns, coils, etc.);2.16;-93.2;-15.3
+C;LEU;806;Other (turns, coils, etc.);6.55;-77.4;157.3
+C;PRO;807;Sheet;21.14;-71.3;138.9
+C;ASP;808;Other (turns, coils, etc.);36.78;-87.3;120.3
+C;PRO;809;Other (turns, coils, etc.);71.18;-71.9;-30.5
+C;SER;810;Other (turns, coils, etc.);92.15;-92.4;31.1
+C;LYS;811;Other (turns, coils, etc.);18.47;-137.0;165.9
+C;PRO;812;Other (turns, coils, etc.);78.22;-71.8;150.9
+C;SER;813;Other (turns, coils, etc.);27.3;75.7;-17.8
+C;LYS;814;Other (turns, coils, etc.);55.91;61.1;44.1
+C;ARG;815;Other (turns, coils, etc.);8.3;-110.3;165.6
+C;SER;816;Sheet;0.0;-66.0;154.8
+C;PHE;817;Helix;44.84;-61.5;-41.3
+C;ILE;818;Helix;1.08;-62.8;-43.8
+C;GLU;819;Helix;2.86;-61.3;-39.0
+C;ASP;820;Helix;26.37;-60.2;-43.3
+C;LEU;821;Helix;14.2;-60.9;-46.2
+C;LEU;822;Helix;0.55;-60.8;-41.4
+C;PHE;823;Helix;38.86;-62.1;-44.1
+C;ASN;824;Helix;81.28;-66.1;-34.6
+C;LYS;825;Helix;24.79;-65.4;-39.7
+C;VAL;826;Other (turns, coils, etc.);3.9;-93.2;118.8
+C;THR;827;Other (turns, coils, etc.);46.14;-84.7;119.0
+C;LEU;828;Other (turns, coils, etc.);37.68;-110.3;-5.7
+C;ALA;829;Other (turns, coils, etc.);71.69;-66.7;-35.0
+C;ASP;830;Other (turns, coils, etc.);58.29;-68.1;-43.2
+C;ALA;831;Other (turns, coils, etc.);14.52;-62.8;-40.5
+C;GLY;832;Other (turns, coils, etc.);41.93;-174.8;155.8
+C;PHE;833;Other (turns, coils, etc.);70.25;-150.4;153.1
+C;ILE;834;Other (turns, coils, etc.);51.35;-59.4;136.5
+C;LYS;835;Other (turns, coils, etc.);16.04;-139.8;114.1
+C;GLN;836;Other (turns, coils, etc.);26.32;-80.1;164.5
+C;TYR;837;Helix;26.67;-59.6;-40.0
+C;GLY;838;Helix;52.1;-63.2;-36.2
+C;ASP;839;Helix;55.52;-63.2;-50.4
+C;CYS;840;Helix;2.14;-64.5;-39.8
+C;LEU;841;Helix;24.58;-65.8;-37.0
+C;GLY;842;Helix;85.13;-72.9;-42.4
+C;ASP;843;Other (turns, coils, etc.);58.99;-96.2;59.2
+C;ILE;844;Other (turns, coils, etc.);21.62;-71.4;-27.4
+C;ALA;845;Other (turns, coils, etc.);44.46;-63.7;-46.3
+C;ALA;846;Other (turns, coils, etc.);42.65;-83.7;124.5
+C;ARG;847;Other (turns, coils, etc.);32.75;-86.1;69.0
+C;ASP;848;Other (turns, coils, etc.);30.53;-66.9;138.5
+C;LEU;849;Helix;53.52;-65.5;-35.2
+C;ILE;850;Helix;12.43;-62.9;-44.5
+C;CYS;851;Helix;4.27;-64.2;-43.4
+C;ALA;852;Helix;23.59;-61.6;-43.7
+C;GLN;853;Helix;2.8;-66.2;-38.3
+C;LYS;854;Helix;7.29;-61.0;-43.4
+C;PHE;855;Helix;14.95;-63.7;-24.8
+C;ASN;856;Other (turns, coils, etc.);20.49;-97.6;17.0
+C;GLY;857;Other (turns, coils, etc.);10.17;82.4;11.9
+C;LEU;858;Sheet;0.55;-102.4;117.7
+C;THR;859;Sheet;15.14;-137.5;161.0
+C;VAL;860;Sheet;37.74;-116.6;128.6
+C;LEU;861;Sheet;13.65;-95.5;134.0
+C;PRO;862;Other (turns, coils, etc.);31.71;-69.2;143.7
+C;PRO;863;Other (turns, coils, etc.);42.99;-53.8;147.5
+C;LEU;864;Other (turns, coils, etc.);12.56;-64.8;-43.4
+C;LEU;865;Other (turns, coils, etc.);3.82;-88.4;117.9
+C;THR;866;Other (turns, coils, etc.);12.98;-78.0;156.9
+C;ASP;867;Helix;34.0;-54.0;-40.8
+C;GLU;868;Helix;31.48;-57.9;-41.2
+C;MET;869;Helix;7.5;-67.1;-40.0
+C;ILE;870;Helix;11.89;-61.7;-43.5
+C;ALA;871;Helix;2.72;-61.8;-40.8
+C;GLN;872;Helix;49.27;-62.1;-41.7
+C;TYR;873;Helix;1.4;-62.6;-43.8
+C;THR;874;Helix;0.72;-60.0;-44.7
+C;SER;875;Helix;17.06;-63.5;-39.7
+C;ALA;876;Helix;0.0;-61.2;-44.2
+C;LEU;877;Helix;0.0;-61.0;-43.0
+C;LEU;878;Helix;0.55;-65.6;-43.9
+C;ALA;879;Helix;0.91;-62.2;-44.3
+C;GLY;880;Helix;0.0;-56.4;-54.6
+C;THR;881;Helix;0.0;-62.1;-40.1
+C;ILE;882;Helix;0.54;-69.1;-42.1
+C;THR;883;Helix;0.72;-81.6;-34.2
+C;SER;884;Helix;0.0;-128.8;-4.8
+C;GLY;885;Other (turns, coils, etc.);0.0;69.2;-117.8
+C;TRP;886;Other (turns, coils, etc.);11.64;-90.5;-12.4
+C;THR;887;Other (turns, coils, etc.);9.37;-66.2;-36.1
+C;PHE;888;Other (turns, coils, etc.);0.5;-63.9;-26.3
+C;GLY;889;Other (turns, coils, etc.);1.27;-71.2;-34.5
+C;ALA;890;Other (turns, coils, etc.);7.26;-125.6;104.0
+C;GLY;891;Other (turns, coils, etc.);24.14;91.1;-163.5
+C;ALA;892;Other (turns, coils, etc.);44.46;-71.8;149.7
+C;ALA;893;Other (turns, coils, etc.);18.15;-70.2;124.7
+C;LEU;894;Other (turns, coils, etc.);8.74;-113.7;117.4
+C;GLN;895;Other (turns, coils, etc.);8.96;-60.9;143.7
+C;ILE;896;Other (turns, coils, etc.);4.32;-145.7;139.6
+C;PRO;897;Other (turns, coils, etc.);4.23;-55.0;135.6
+C;PHE;898;Helix;0.5;-59.9;-40.8
+C;ALA;899;Helix;13.61;-60.0;-42.3
+C;MET;900;Helix;3.5;-66.2;-38.5
+C;GLN;901;Helix;0.0;-60.5;-44.2
+C;MET;902;Helix;1.0;-64.6;-37.5
+C;ALA;903;Helix;0.0;-59.6;-39.8
+C;TYR;904;Helix;37.44;-61.5;-42.3
+C;ARG;905;Helix;0.44;-62.8;-40.5
+C;PHE;906;Helix;0.0;-61.9;-43.4
+C;ASN;907;Helix;46.45;-61.6;-38.8
+C;GLY;908;Helix;29.22;-62.2;-26.2
+C;ILE;909;Other (turns, coils, etc.);11.35;-97.1;2.3
+C;GLY;910;Other (turns, coils, etc.);58.45;84.8;21.6
+C;VAL;911;Other (turns, coils, etc.);0.0;-106.5;129.0
+C;THR;912;Other (turns, coils, etc.);31.0;-59.7;145.7
+C;GLN;913;Helix;2.8;-59.3;-33.6
+C;ASN;914;Helix;3.42;-58.4;-40.9
+C;VAL;915;Helix;0.0;-57.3;-40.2
+C;LEU;916;Helix;1.09;-65.4;-44.9
+C;TYR;917;Helix;2.81;-65.9;-45.6
+C;GLU;918;Helix;33.2;-66.0;-38.3
+C;ASN;919;Other (turns, coils, etc.);30.74;-96.6;17.7
+C;GLN;920;Helix;7.84;-57.7;-42.4
+C;LYS;921;Helix;68.55;-61.5;-41.6
+C;LEU;922;Helix;39.87;-66.1;-43.5
+C;ILE;923;Helix;0.0;-61.3;-45.2
+C;ALA;924;Helix;1.81;-62.1;-44.9
+C;ASN;925;Helix;63.52;-63.0;-42.3
+C;GLN;926;Helix;24.64;-62.6;-43.1
+C;PHE;927;Helix;1.49;-60.5;-46.7
+C;ASN;928;Helix;31.42;-62.4;-42.9
+C;SER;929;Helix;66.55;-62.3;-40.0
+C;ALA;930;Helix;14.52;-64.9;-43.6
+C;ILE;931;Helix;3.24;-61.1;-44.0
+C;GLY;932;Helix;27.95;-56.1;-46.3
+C;LYS;933;Helix;70.98;-62.0;-38.6
+C;ILE;934;Helix;14.05;-61.9;-45.0
+C;GLN;935;Helix;21.28;-64.6;-41.4
+C;ASP;936;Helix;63.84;-62.3;-43.2
+C;SER;937;Helix;58.87;-62.2;-45.2
+C;LEU;938;Helix;6.01;-63.2;-42.1
+C;SER;939;Helix;62.29;-64.2;-52.4
+C;SER;940;Helix;91.3;-78.7;-23.0
+C;THR;941;Other (turns, coils, etc.);46.86;-102.1;117.1
+C;ALA;942;Other (turns, coils, etc.);76.23;-65.9;-47.4
+C;SER;943;Other (turns, coils, etc.);91.3;-84.6;81.0
+C;ALA;944;Other (turns, coils, etc.);32.67;-116.2;-49.1
+C;LEU;945;Other (turns, coils, etc.);3.82;-96.7;50.9
+C;GLY;946;Helix;35.58;-47.5;-52.5
+C;LYS;947;Helix;54.45;-58.9;-40.7
+C;LEU;948;Helix;0.0;-67.0;-41.6
+C;GLN;949;Helix;19.6;-62.9;-40.7
+C;ASP;950;Helix;60.37;-59.1;-41.1
+C;VAL;951;Helix;11.71;-60.0;-47.2
+C;VAL;952;Helix;0.65;-65.8;-41.3
+C;ASN;953;Helix;47.81;-61.8;-44.2
+C;GLN;954;Helix;47.59;-63.2;-43.3
+C;ASN;955;Helix;2.73;-65.5;-44.3
+C;ALA;956;Helix;20.87;-63.8;-42.3
+C;GLN;957;Helix;49.27;-59.5;-41.6
+C;ALA;958;Helix;6.35;-63.5;-41.9
+C;LEU;959;Helix;1.64;-65.5;-44.9
+C;ASN;960;Helix;22.54;-61.7;-40.5
+C;THR;961;Helix;5.77;-64.1;-36.7
+C;LEU;962;Helix;2.18;-64.4;-42.8
+C;VAL;963;Helix;4.55;-60.1;-40.7
+C;LYS;964;Helix;43.27;-65.4;-26.5
+C;GLN;965;Helix;1.12;-72.1;-13.7
+C;LEU;966;Other (turns, coils, etc.);3.28;-68.2;-31.1
+C;SER;967;Other (turns, coils, etc.);27.3;-67.4;-32.5
+C;SER;968;Other (turns, coils, etc.);1.71;-62.6;146.2
+C;ASN;969;Other (turns, coils, etc.);25.96;-117.0;129.3
+C;PHE;970;Other (turns, coils, etc.);8.97;-96.0;63.2
+C;GLY;971;Other (turns, coils, etc.);30.5;78.1;6.2
+C;ALA;972;Other (turns, coils, etc.);6.35;-85.2;153.6
+C;ILE;973;Other (turns, coils, etc.);48.65;-63.7;-23.0
+C;SER;974;Other (turns, coils, etc.);19.62;-149.9;161.3
+C;SER;975;Other (turns, coils, etc.);5.97;-91.4;-9.3
+C;VAL;976;Other (turns, coils, etc.);5.2;-93.7;121.6
+C;LEU;977;Helix;5.46;-60.4;-43.8
+C;ASN;978;Helix;25.96;-59.7;-44.8
+C;ASP;979;Helix;10.41;-59.6;-40.6
+C;ILE;980;Helix;0.0;-64.6;-48.4
+C;LEU;981;Helix;16.38;-63.9;-39.1
+C;SER;982;Helix;2.56;-61.3;-41.5
+C;ARG;983;Helix;23.58;-92.7;-24.3
+C;LEU;984;Other (turns, coils, etc.);8.74;-123.1;138.6
+C;ASP;985;Other (turns, coils, etc.);16.66;-67.8;162.3
+C;LYS;986;Helix;61.25;-59.0;-43.1
+C;VAL;987;Helix;46.19;-61.8;-46.9
+C;GLU;988;Helix;45.22;-68.9;-40.7
+C;ALA;989;Helix;3.63;-58.7;-42.2
+C;GLU;990;Helix;45.22;-55.7;-39.7
+C;VAL;991;Helix;33.18;-61.6;-45.0
+C;GLN;992;Helix;6.72;-67.1;-41.8
+C;ILE;993;Helix;2.7;-63.2;-42.6
+C;ASP;994;Helix;17.35;-60.9;-40.7
+C;ARG;995;Helix;32.75;-58.3;-43.5
+C;LEU;996;Helix;0.0;-65.1;-40.3
+C;ILE;997;Helix;0.0;-61.7;-48.5
+C;THR;998;Helix;41.82;-64.3;-43.8
+C;GLY;999;Helix;10.17;-70.1;-37.1
+C;ARG;1000;Helix;7.86;-65.7;-40.0
+C;LEU;1001;Helix;4.37;-60.2;-43.5
+C;GLN;1002;Helix;20.16;-60.7;-41.9
+C;SER;1003;Helix;3.41;-59.9;-43.1
+C;LEU;1004;Helix;2.18;-63.3;-43.1
+C;GLN;1005;Helix;8.96;-61.3;-43.3
+C;THR;1006;Helix;13.7;-61.6;-43.4
+C;TYR;1007;Helix;1.87;-60.5;-46.9
+C;VAL;1008;Helix;1.95;-62.2;-42.9
+C;THR;1009;Helix;15.86;-60.7;-44.0
+C;GLN;1010;Helix;14.56;-61.8;-42.7
+C;GLN;1011;Helix;0.56;-62.5;-40.5
+C;LEU;1012;Helix;12.56;-61.7;-43.2
+C;ILE;1013;Helix;14.05;-64.1;-42.7
+C;ARG;1014;Helix;20.52;-61.7;-41.3
+C;ALA;1015;Helix;3.63;-59.5;-41.9
+C;ALA;1016;Helix;38.11;-60.2;-42.1
+C;GLU;1017;Helix;49.23;-63.8;-43.5
+C;ILE;1018;Helix;7.57;-62.2;-41.8
+C;ARG;1019;Helix;10.92;-60.2;-44.2
+C;ALA;1020;Helix;48.09;-62.1;-44.1
+C;SER;1021;Helix;16.21;-62.7;-43.1
+C;ALA;1022;Helix;0.0;-63.4;-42.5
+C;ASN;1023;Helix;39.62;-61.8;-40.7
+C;LEU;1024;Helix;38.78;-62.6;-43.1
+C;ALA;1025;Helix;0.0;-61.7;-40.8
+C;ALA;1026;Helix;13.61;-63.3;-44.3
+C;THR;1027;Helix;30.28;-62.7;-40.1
+C;LYS;1028;Helix;5.35;-63.3;-41.6
+C;MET;1029;Helix;0.0;-60.7;-49.2
+C;SER;1030;Helix;10.24;-66.8;-48.3
+C;GLU;1031;Helix;2.86;-74.2;-33.8
+C;CYS;1032;Helix;0.0;-105.7;-32.6
+C;VAL;1033;Other (turns, coils, etc.);0.0;-87.2;-41.4
+C;LEU;1034;Other (turns, coils, etc.);1.64;-92.5;-5.4
+C;GLY;1035;Other (turns, coils, etc.);3.81;-146.8;-164.8
+C;GLN;1036;Other (turns, coils, etc.);18.48;-123.4;122.0
+C;SER;1037;Other (turns, coils, etc.);12.8;-98.2;139.1
+C;LYS;1038;Other (turns, coils, etc.);71.46;-100.4;3.8
+C;ARG;1039;Other (turns, coils, etc.);15.28;-75.9;127.9
+C;VAL;1040;Other (turns, coils, etc.);22.77;-67.1;124.5
+C;ASP;1041;Other (turns, coils, etc.);34.7;60.8;10.6
+C;PHE;1042;Other (turns, coils, etc.);6.98;-67.8;-41.1
+C;CYS;1043;Other (turns, coils, etc.);0.71;-115.8;42.1
+C;GLY;1044;Other (turns, coils, etc.);13.98;93.2;150.9
+C;LYS;1045;Other (turns, coils, etc.);45.21;-65.1;135.9
+C;GLY;1046;Other (turns, coils, etc.);12.71;103.7;-175.8
+C;TYR;1047;Sheet;21.53;-85.1;116.1
+C;HIS;1048;Sheet;5.5;-60.6;130.0
+C;LEU;1049;Sheet;0.0;-104.4;-54.8
+C;MET;1050;Sheet;1.0;-163.5;166.4
+C;SER;1051;Sheet;0.0;-141.8;147.9
+C;PHE;1052;Sheet;0.0;-120.1;123.5
+C;PRO;1053;Sheet;0.0;-79.7;143.7
+C;GLN;1054;Sheet;0.0;-131.5;135.4
+C;SER;1055;Sheet;6.83;-67.4;147.6
+C;ALA;1056;Sheet;10.89;-149.7;149.8
+C;PRO;1057;Other (turns, coils, etc.);7.05;-59.6;121.9
+C;HIS;1058;Other (turns, coils, etc.);18.69;60.3;22.6
+C;GLY;1059;Sheet;3.81;-165.6;-179.0
+C;VAL;1060;Sheet;0.0;-130.8;137.5
+C;VAL;1061;Sheet;1.3;-108.6;121.9
+C;PHE;1062;Sheet;0.0;-101.2;128.6
+C;LEU;1063;Sheet;0.55;-98.0;111.7
+C;HIS;1064;Sheet;0.55;-103.7;122.5
+C;VAL;1065;Sheet;0.0;-98.2;118.1
+C;THR;1066;Sheet;0.72;-126.1;150.7
+C;TYR;1067;Sheet;0.0;-93.4;124.6
+C;VAL;1068;Sheet;22.12;-118.2;127.7
+C;PRO;1069;Sheet;10.57;-59.3;133.7
+C;ALA;1070;Other (turns, coils, etc.);17.24;-98.5;-139.6
+C;GLN;1071;Other (turns, coils, etc.);62.71;-54.3;136.4
+C;GLU;1072;Sheet;50.37;-116.2;167.8
+C;LYS;1073;Sheet;56.39;-138.4;142.0
+C;ASN;1074;Sheet;76.5;-69.4;134.5
+C;PHE;1075;Sheet;7.47;-144.6;140.4
+C;THR;1076;Sheet;49.03;-66.0;137.9
+C;THR;1077;Sheet;4.33;-130.2;157.5
+C;ALA;1078;Sheet;1.81;-143.0;138.9
+C;PRO;1079;Other (turns, coils, etc.);13.39;-64.6;-30.7
+C;ALA;1080;Other (turns, coils, etc.);0.0;-155.3;163.3
+C;ILE;1081;Sheet;0.0;-117.6;134.3
+C;CYS;1082;Sheet;13.53;-99.1;106.8
+C;HIS;1083;Other (turns, coils, etc.);42.33;-89.2;-49.9
+C;ASP;1084;Other (turns, coils, etc.);82.58;-158.7;67.3
+C;GLY;1085;Other (turns, coils, etc.);57.18;75.4;-3.9
+C;LYS;1086;Sheet;41.81;-117.1;139.2
+C;ALA;1087;Sheet;0.0;-86.7;129.1
+C;HIS;1088;Sheet;6.6;-110.6;129.6
+C;PHE;1089;Sheet;0.0;-115.6;141.2
+C;PRO;1090;Sheet;4.23;-75.0;141.1
+C;ARG;1091;Other (turns, coils, etc.);55.9;-71.3;-51.5
+C;GLU;1092;Other (turns, coils, etc.);57.81;-116.5;-26.2
+C;GLY;1093;Other (turns, coils, etc.);0.0;-94.4;-161.8
+C;VAL;1094;Sheet;0.65;-129.3;136.9
+C;PHE;1095;Sheet;0.0;-71.6;126.0
+C;VAL;1096;Sheet;0.0;-130.0;147.8
+C;SER;1097;Sheet;4.27;-119.0;136.0
+C;ASN;1098;Other (turns, coils, etc.);61.48;-80.7;-12.6
+C;GLY;1099;Other (turns, coils, etc.);72.43;148.5;-51.0
+C;THR;1100;Other (turns, coils, etc.);85.8;-123.6;-4.3
+C;HIS;1101;Other (turns, coils, etc.);61.57;-136.4;137.8
+C;TRP;1102;Sheet;17.05;-102.1;135.1
+C;PHE;1103;Sheet;21.43;-132.2;164.2
+C;VAL;1104;Sheet;0.65;-113.3;139.7
+C;THR;1105;Sheet;2.16;-151.1;151.5
+C;GLN;1106;Other (turns, coils, etc.);12.32;-62.1;144.8
+C;ARG;1107;Other (turns, coils, etc.);15.72;-66.5;-41.2
+C;ASN;1108;Other (turns, coils, etc.);15.71;-77.6;-22.1
+C;PHE;1109;Other (turns, coils, etc.);10.46;-147.6;137.3
+C;TYR;1110;Other (turns, coils, etc.);21.53;-81.5;98.0
+C;GLU;1111;Other (turns, coils, etc.);29.77;-121.5;74.1
+C;PRO;1112;Other (turns, coils, etc.);39.46;-58.8;122.0
+C;GLN;1113;Sheet;45.35;-124.3;149.7
+C;ILE;1114;Sheet;61.08;-59.0;139.3
+C;ILE;1115;Other (turns, coils, etc.);1.08;-74.4;121.6
+C;THR;1116;Sheet;11.54;-130.5;166.5
+C;THR;1117;Other (turns, coils, etc.);43.98;-64.1;-36.2
+C;ASP;1118;Other (turns, coils, etc.);58.29;-66.0;-45.9
+C;ASN;1119;Other (turns, coils, etc.);17.76;-64.2;-36.3
+C;THR;1120;Sheet;1.44;-112.3;165.9
+C;PHE;1121;Sheet;21.92;-122.5;139.8
+C;VAL;1122;Sheet;42.94;-98.2;132.4
+C;SER;1123;Sheet;11.09;-149.7;145.6
+C;GLY;1124;Sheet;49.56;52.7;-165.6
+C;ASN;1125;Sheet;66.26;-106.3;165.8
+C;CYS;1126;Other (turns, coils, etc.);12.11;-63.3;-35.4
+C;ASP;1127;Other (turns, coils, etc.);88.83;-59.7;-38.7
+C;VAL;1128;Other (turns, coils, etc.);33.83;-62.3;-30.2
+C;VAL;1129;Other (turns, coils, etc.);1.95;-86.2;115.8
+C;ILE;1130;Other (turns, coils, etc.);60.54;-58.5;-41.5
+C;GLY;1131;Other (turns, coils, etc.);43.2;-103.8;15.7
+C;ILE;1132;Other (turns, coils, etc.);20.54;-60.7;141.6
+C;VAL;1133;Sheet;28.63;-126.3;157.0
+C;ASN;1134;Sheet;94.26;-84.8;127.0
+C;ASN;1135;Other (turns, coils, etc.);29.37;-159.9;158.0
+C;THR;1136;Other (turns, coils, etc.);69.94;-89.1;137.4
+C;VAL;1137;Other (turns, coils, etc.);2.6;-101.3;115.7
+C;TYR;1138;Sheet;51.47;-66.3;139.9
+C;ASP;1139;Other (turns, coils, etc.);37.47;-108.0;118.9
+C;PRO;1140;Other (turns, coils, etc.);40.17;-69.8;-19.0
+C;LEU;1141;Other (turns, coils, etc.);34.41;-75.7;-40.7
+C;GLN;1142;Other (turns, coils, etc.);72.23;-66.3;-18.7
+C;PRO;1143;Other (turns, coils, etc.);47.92;-76.7;-21.9
+C;GLU;1144;Other (turns, coils, etc.);121.35;-92.8;0.0
