@@ -1,0 +1,7 @@
+variant,n°. communities,n°. mutations,mutations for each comminity
+XBB.1_complex,22,37,"{'Community 1.0': 1, 'Community 15.0': 3, 'Community 0.0': 16, 'Community 6.0': 10, 'Community 17.0': 1, 'UM': 2, 'Community 4.0': 3, 'Community 11.0': 1}"
+XBB.1.9.1_complex,18,38,"{'Community 1.0': 1, 'Community 0.0': 13, 'Community 2.0': 17, 'Community 10.0': 1, 'UM': 2, 'Community 13.0': 1, 'Community 7.0': 2, 'Community 14.0': 1}"
+XBB.2.3_complex,22,39,"{'Community 1.0': 1, 'Community 20.0': 2, 'Community 0.0': 19, 'Community 6.0': 10, 'Community 15.0': 1, 'UM': 2, 'Community 11.0': 3, 'Community 3.0': 1}"
+XBB.1.5_complex,23,38,"{'Community 0.0': 1, 'Community 6.0': 8, 'Community 11.0': 11, 'Community 1.0': 11, 'Community 16.0': 1, 'UM': 2, 'Community 4.0': 3, 'Community 22.0': 1}"
+XBB.1.16_complex,19,39,"{'Community 4.0': 1, 'Community 3.0': 13, 'Community 1.0': 18, 'Community 15.0': 1, 'UM': 2, 'Community 11.0': 3, 'Community 5.0': 1}"
+EG.5.1_complex,21,41,"{'Community 12.0': 1, 'Community 0.0': 14, 'Community 1.0': 19, 'Community 18.0': 1, 'UM': 2, 'Community 10.0': 1, 'Community 9.0': 1, 'Community 14.0': 2}"

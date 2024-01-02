@@ -1,0 +1,7 @@
+variant + ACE2,ΔG (kcal mol-1),Kd (M) at 36℃,ICs charged-charged,ICs charged-polar,ICs charged-apolar,ICs polar-polar,ICs polar-apolar,ICs apolar-apolar,NIS charged,NIS apolar
+XBB.1,"-10,4","4,60E-08",2,8,18,5,16,7,"20,05","39,82"
+EG.5.1,"-9,8","1,10E-07",2,8,17,5,14,8,"20,05","39,85"
+XBB.2.3,"-9,9","9,40E-08",2,8,18,5,14,8,"20,05","39,75"
+XBB.1.16,"-9,9","9,60E-08",2,8,18,5,14,8,"20,04","39,84"
+XBB.1.9.1,"-9,9","9,70E-08",2,8,18,5,14,8,"20,05","39,85"
+XBB.1.5,"-9,9","9,70E-08",2,8,18,5,14,8,"20,05","39,85"
